@@ -1,12 +1,17 @@
 IMDb Peliculas, series Público (Actual):
 https://www.kaggle.com/datasets/ahmedosamamath/imdb-dataset
+
+IMDb  y rotten peliculas (Noviembre 2025): (mantener)
+https://www.kaggle.com/datasets/mjshubham21/movie-dataset-for-analytics-and-visualization
+
 Metacritic videojuegos Público (Febrero 2025):
 https://www.kaggle.com/datasets/zaireali/metacritic-games-scrape
-Steam videogames Público (Marzo 2025):
+
+Steam videogames Público (Marzo 2025): (mantener)
 https://www.kaggle.com/datasets/artermiloff/steam-games-dataset/data
+
 Epic Games Criticos (2022):
 https://www.kaggle.com/datasets/ramjasmaurya/epic-games-store/data
-Game Spot Criticos (Actual):
+
+Game Spot Criticos (Actual): (mantene)
 https://www.gamespot.com/api/
-IMDb  y rotten peliculas (Noviembre 2025):
-https://www.kaggle.com/datasets/mjshubham21/movie-dataset-for-analytics-and-visualization
