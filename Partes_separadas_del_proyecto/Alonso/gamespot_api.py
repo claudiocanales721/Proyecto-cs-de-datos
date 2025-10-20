@@ -5,7 +5,7 @@ import json
 from time import sleep
 
 
-doc="Partes_separadas_del_proyecto/Alonso/llave.txt"
+
 
 def gamespotapi (llave, sesion, offset):
 
@@ -37,8 +37,13 @@ def gamespotapi (llave, sesion, offset):
             sleep(6)
 
         
+try:
+    documento=open('data/gamespot_reseñas.json', mode="x", encoding="utf-8")
+    documento.close()
+except FileExistsError:
+    print("Ya está creado en documento")
 
-
+doc="Partes_separadas_del_proyecto/Alonso/llave.txt"
 
 with open(doc, mode="r", encoding="utf-8") as lista:
     llave = lista.readline().rstrip()
@@ -47,9 +52,9 @@ sesion= requests.session()
 sesion.headers.update({'User-Agent': 'stingray49 PUC proyect https://github.com/claudiocanales721/Proyecto-cs-de-datos (aaqueveque@estudante.uc.cl)'})
 
 
-offset=15800
+offset=0
 no_ultimo=True
-contador=159
+contador=0
 while no_ultimo:
     respuesta=gamespotapi(llave,sesion,offset)
     juegos=respuesta['results']
@@ -57,12 +62,13 @@ while no_ultimo:
     if len(juegos) < 100:
         no_ultimo=False
 
-    with open('data/gamespot_reseñas.json', 'w', encoding='utf-8') as f:
+    with open('data/gamespot_reseñas.json', 'a', encoding='utf-8') as f:
         json.dump(juegos, f, indent=4)
     
     offset+=100
-    print(f'Se guardó el request N°{contador}, con {len(juegos)} juegos, en total hay {offset} juegos')
     contador+=1
+
+    print(f'Se guardó el request N°{contador}, con {len(juegos)} juegos, en total hay {offset} juegos')
 
 
 
