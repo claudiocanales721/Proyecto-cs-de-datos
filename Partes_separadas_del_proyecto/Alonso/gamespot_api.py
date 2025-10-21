@@ -2,9 +2,26 @@ import numpy as np
 import pandas as pd
 import requests
 import json
+import csv
 from time import sleep
 
+def diccionarios_a_csv(documento, lista, columnas, primero=False):
 
+    if isinstance(lista, str):
+        lista = json.loads(lista)
+
+
+    df=pd.json_normalize(lista, sep='_')
+
+    df=df[['score','game_name']]
+
+    df = df.reset_index(drop=True)
+    
+    modo = 'w' if primero else 'a'
+    escribir_header = primero
+
+
+    df.to_csv(documento, mode=modo, header=escribir_header, index=False)
 
 
 def gamespotapi (llave, sesion, offset):
@@ -36,12 +53,7 @@ def gamespotapi (llave, sesion, offset):
             print("Error de red:", e)
             sleep(6)
 
-        
-try:
-    documento=open('data/gamespot_reseñas.json', mode="x", encoding="utf-8")
-    documento.close()
-except FileExistsError:
-    print("Ya está creado en documento")
+
 
 doc="Partes_separadas_del_proyecto/Alonso/llave.txt"
 
@@ -52,7 +64,10 @@ sesion= requests.session()
 sesion.headers.update({'User-Agent': 'stingray49 PUC proyect https://github.com/claudiocanales721/Proyecto-cs-de-datos (aaqueveque@estudante.uc.cl)'})
 
 
+
+
 offset=0
+primero=True
 no_ultimo=True
 contador=0
 while no_ultimo:
@@ -62,13 +77,13 @@ while no_ultimo:
     if len(juegos) < 100:
         no_ultimo=False
 
-    with open('data/gamespot_reseñas.json', 'a', encoding='utf-8') as f:
-        json.dump(juegos, f, indent=4)
-    
+
+    primero=False
     offset+=100
     contador+=1
 
     print(f'Se guardó el request N°{contador}, con {len(juegos)} juegos, en total hay {offset} juegos')
+
 
 
 
