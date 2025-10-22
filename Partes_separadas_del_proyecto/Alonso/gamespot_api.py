@@ -13,7 +13,7 @@ def diccionarios_a_csv(documento, lista, columnas, primero=False):
 
     df=pd.json_normalize(lista, sep='_')
 
-    df=df[['score','game_name']]
+    df=df[['game_name','score','publish_date','game_id']]
 
     df = df.reset_index(drop=True)
     
@@ -66,16 +66,18 @@ sesion.headers.update({'User-Agent': 'stingray49 PUC proyect https://github.com/
 
 
 
-offset=0
+offset=15300
 primero=True
 no_ultimo=True
-contador=0
+contador=154
 while no_ultimo:
     respuesta=gamespotapi(llave,sesion,offset)
     juegos=respuesta['results']
 
     if len(juegos) < 100:
         no_ultimo=False
+
+    diccionarios_a_csv('data/gamespot.csv', juegos, primero)
 
 
     primero=False

@@ -4,10 +4,24 @@ import builtins
 import os
 import json
 
-with open('data/gamespot_reseñas.json', mode="r", encoding='utf-8') as d:
-    data=json.load(d)
+with open("data/gamespot.csv", "r", encoding='utf-8') as f:
+    df = pd.read_csv(f)
 
+df_limpio = df.rename(columns={'game_name': 'nombre',
+                    'score': 'nota',
+                    'publish_date': 'publicacion',
+                    'game_id': 'id'})
 
-df=pd.read_json(data)
+print(df_limpio.columns)
 
-print(df.head())
+df_limpio = df_limpio.dropna()
+
+df_limpio['publicacion'] = pd.to_datetime(df_limpio['publicacion'], errors= 'coerce')
+
+df_limpio['nota']=pd.to_numeric(df_limpio['nota'])
+
+df_limpio['id']=pd.to_numeric(df_limpio['id'])
+
+print(df_limpio.info())
+
+df_limpio.to_csv('data/gamespot_limpio.csv')
