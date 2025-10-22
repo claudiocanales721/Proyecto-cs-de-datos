@@ -209,5 +209,7 @@ __marimo__/
 
 
 src/
-data/
+data/gamespot.csv
+
+Alonso/data/gamespot.csv
 

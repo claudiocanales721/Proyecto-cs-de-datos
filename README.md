@@ -1,13 +1,27 @@
-# Proyecto Final – IMT2200: Introducción a la Ciencia de Datos
+# Proyecto Sin Terminar – IMT2200: Introducción a la Ciencia de Datos
 
-Este repositorio corresponde al proyecto final del curso IMT2200. Aquí se documentará el desarrollo completo del trabajo grupal, desde la formulación del problema hasta la presentación final.
+Este repositorio corresponde al proyecto sin termiar del curso IMT2200. Aquí se documentará el desarrollo completo del trabajo grupal, desde la formulación del problema hasta la presentación final.
+
+## Comentario de los integrantes
+
+Aparte de lo que se nos fue sugerido en la estructura, nosotros agregamos otra carpeta con los aportes que hemos hecho cada uno por nuestras partes. Claudio se centró en analizar las series y peliculas que estaban juntas en una base de datos de keggle, y así explorar con libertad los datos. Francisco (chichoRM) ahondó la basta base de datos que encontramos en keggle de los juegos de steam, haciendo un analizis más profundo y completo. Alonso decidió encargarse de la API de Game Spot, para así poder familiarizarse mejor con los request y el manejo de elementos en formato json.
 
 ## Estructura sugerida
 
 ```
 proyecto/
 ├── data/                   # Archivos de datos (raw o procesados)
-├── notebooks/              # Notebooks con análisis exploratorio y modelamiento
+├── notebooks/              # Notebooks con análisis exploratorio 
+
+├── **Partes_separadas_del_proyecto/**
+   ->Alonso
+   ->chichoRM
+   ->Claudio
+
+
+
+
+y modelamiento
 ├── src/                    # Código fuente (si se separa del notebook)
 ├── figures/                # Imágenes y visualizaciones generadas
 ├── web/                    # Archivos para GitHub Pages
@@ -17,10 +31,10 @@ proyecto/
 
 ## Entregables esperados
 
-- `notebooks/analisis_final.ipynb`: Notebook con todo el análisis, visualizaciones y conclusiones.
-- `web/index.html`: Página de presentación del proyecto para GitHub Pages.
-- Video de presentación (enlace externo o archivo subido).
-- Autoevaluación de otros proyectos (entregada por formulario).
+- Esta entrega todavía no está finalizada, pero tenemos algunas ideas que se nos han aparecido en el camino y queremos comcretar antes de la entrega final
+- https://github.com/claudiocanales721/Proyecto-cs-de-datos
+- Video de presentación por hacer
+- Autoevaluación de otros proyectos por hacer
 
 ## Cómo comenzar
 

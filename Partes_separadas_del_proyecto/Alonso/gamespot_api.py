@@ -5,7 +5,7 @@ import json
 import csv
 from time import sleep
 
-def diccionarios_a_csv(documento, lista, columnas, primero=False):
+def diccionarios_a_csv(documento, lista, primero=False):
 
     if isinstance(lista, str):
         lista = json.loads(lista)
