@@ -1,0 +1,78 @@
+_merge,game_name_o,Nombre_Original,publish_date_o,Fecha_de_lanzamiento_Original,game_name_s,Nombre_Secuela,publish_date_s,Fecha_de_lanzamiento_Secuela,score_o,Reseñas_positivas_Original,Reseñas_negativas_Original,score_s,Reseñas_positivas_Secuela,Reseñas_negativas_Secuela
+both,A Plague Tale: Innocence,A Plague Tale: Innocence,2019-05-13 04:00:00,2019-05-14,A Plague Tale: Requiem,A Plague Tale: Requiem,2022-10-17 11:00:00,2022-10-17,8.0,58010.0,4066.0,7.0,17807.0,1721.0
+both,Amnesia: The Dark Descent,Amnesia: The Dark Descent,2010-09-30 05:57:28,2010-09-08,Amnesia: A Machine for Pigs,Amnesia: A Machine for Pigs,2013-09-09 06:00:00,2013-09-10,8.5,31865.0,1815.0,8.0,7775.0,3419.0
+both,Amnesia: The Dark Descent,Amnesia: The Dark Descent,2010-09-30 05:57:28,2010-09-08,Amnesia: Rebirth,Amnesia: Rebirth,2020-10-19 06:00:00,2020-10-20,8.5,31865.0,1815.0,8.0,6535.0,1969.0
+both,Amnesia: The Dark Descent,Amnesia: The Dark Descent,2010-09-30 05:57:28,2010-09-08,Amnesia: The Bunker,Amnesia: The Bunker,2023-06-05 06:00:00,2023-06-06,8.5,31865.0,1815.0,8.0,7902.0,533.0
+both,Baldur's Gate,Baldur's Gate: Enhanced Edition,1999-01-20 12:00:00,2013-01-16,Baldur's Gate 3,Baldur's Gate 3,2020-11-02 07:25:00,2023-08-03,8.4,14902.0,1263.0,8.0,709860.0,23273.0
+both,BlazBlue: Calamity Trigger,BlazBlue: Calamity Trigger,2009-08-04 05:04:35,2014-02-13,BlazBlue: Cross Tag Battle,BlazBlue: Cross Tag Battle,2018-06-06 10:00:00,2019-11-20,8.0,2684.0,432.0,9.0,3537.0,879.0
+both,Company of Heroes,Company of Heroes,2006-09-11 04:45:00,2006-09-11,Company of Heroes 2,Company of Heroes 2,2013-06-25 06:19:08,2013-06-25,9.0,15646.0,915.0,7.5,86058.0,22941.0
+both,Dead Island,Dead Island Definitive Edition,2011-09-06 02:36:51,2016-05-31,Dead Island 2,Dead Island 2,2023-04-18 07:00:00,2024-04-22,7.0,20546.0,4503.0,7.0,9104.0,2668.0
+both,Dead Island,Dead Island Definitive Edition,2011-09-06 02:36:51,2016-05-31,Dead Island: Riptide,Dead Island: Riptide Definitive Edition,2013-04-22 12:00:00,2016-05-31,7.0,20546.0,4503.0,4.0,8104.0,3236.0
+both,Desperados: Wanted Dead or Alive,Desperados: Wanted Dead or Alive,2001-07-23 02:42:34,2013-11-20,Desperados III,Desperados III,2020-07-10 09:00:00,2020-06-16,6.8,1936.0,270.0,9.0,13804.0,471.0
+both,Dishonored,Dishonored,2012-10-07 09:01:00,2012-10-08,Dishonored 2,Dishonored 2,2016-11-12 01:07:00,2016-11-11,8.5625,79720.0,1929.0,8.0,55345.0,6565.0
+both,EA Sports FC 24,EA SPORTS FC™ 24,2023-10-04 03:08:00,2023-09-28,EA Sports FC 25,EA SPORTS FC™ 25,2024-09-27 01:25:00,2024-09-26,7.0,62361.0,45834.0,6.0,27017.0,29259.0
+both,EA Sports FC 24,EA SPORTS FC™ 24,2023-10-04 03:08:00,2023-09-28,EA Sports FC 25,EA SPORTS FC™ 25,2024-09-27 01:25:00,2024-09-26,7.0,62361.0,45834.0,6.0,0.0,0.0
+both,EA Sports FC 24,EA SPORTS FC™ 24,2023-10-04 03:08:00,2023-09-28,EA Sports FC 25,EA SPORTS FC™ 25,2024-09-27 01:25:00,2024-09-26,7.0,62361.0,45834.0,6.0,0.0,0.0
+both,EA Sports FC 24,EA SPORTS FC™ 24,2023-10-04 03:08:00,2023-09-28,EA Sports FC 25,EA SPORTS FC™ 25,2024-09-27 01:25:00,2024-09-26,7.0,62361.0,45834.0,6.0,0.0,0.0
+both,Eiyuden Chronicle: Rising,Eiyuden Chronicle: Rising,2022-05-12 01:50:00,2022-05-10,Eiyuden Chronicle: Hundred Heroes,Eiyuden Chronicle: Hundred Heroes,2024-04-25 11:21:00,2024-04-23,7.0,1878.0,296.0,8.0,2857.0,808.0
+both,Far Cry,Far Cry®,2004-03-23 04:59:05,2008-04-01,Far Cry 4,Far Cry® 4,2014-11-17 09:27:00,2014-11-17,7.966666666666666,8006.0,1757.0,7.0,49740.0,9336.0
+both,Far Cry,Far Cry®,2004-03-23 04:59:05,2008-04-01,Far Cry 5,Far Cry® 5,2018-04-08 01:02:00,2018-03-26,7.966666666666666,8006.0,1757.0,9.0,136456.0,32202.0
+both,Far Cry,Far Cry®,2004-03-23 04:59:05,2008-04-01,Far Cry 6,Far Cry® 6,2021-10-06 04:00:00,2023-05-11,7.966666666666666,8006.0,1757.0,7.0,18143.0,7207.0
+both,Frostpunk,Frostpunk,2018-04-24 03:00:00,2018-04-24,Frostpunk 2,Frostpunk 2,2024-09-17 10:00:00,2024-09-20,8.5,111458.0,9059.0,8.0,15433.0,4631.0
+both,Ghostrunner,Ghostrunner,2020-10-26 07:00:00,2020-10-27,Ghostrunner 2,Ghostrunner 2,2023-11-03 09:24:00,2023-10-26,7.0,57210.0,5386.0,7.0,7348.0,1691.0
+both,Hades,Hades,2020-09-17 07:12:00,2020-09-17,Hades II,Hades II,2025-09-24 08:00:00,2024-05-06,9.0,271755.0,4795.0,10.0,58314.0,3170.0
+both,Hand of Fate,Hand of Fate,2015-02-26 03:59:00,2015-02-17,Hand of Fate 2,Hand of Fate 2,2017-11-15 07:00:00,2017-11-07,7.0,9407.0,1125.0,8.0,4775.0,877.0
+both,Hard West,Hard West,2016-01-29 01:34:00,2015-11-18,Hard West 2,Hard West 2,2022-08-04 09:13:00,2022-08-04,7.0,3559.0,1161.0,8.0,2232.0,494.0
+both,Hotline Miami,Hotline Miami,2012-10-29 12:50:00,2012-10-23,Hotline Miami 2: Wrong Number,Hotline Miami 2: Wrong Number,2015-03-10 07:12:00,2015-03-10,8.333333333333334,100269.0,2905.0,9.0,60382.0,3797.0
+both,Kingdom Come: Deliverance,Kingdom Come: Deliverance,2018-02-20 12:30:00,2018-02-13,Kingdom Come: Deliverance II,Kingdom Come: Deliverance II,2025-02-03 08:00:00,2025-02-04,8.0,129909.0,24953.0,9.0,70637.0,4776.0
+both,Layers of Fear (2015),Layers of Fear (2016),2016-02-14 07:00:00,2016-02-15,Layers of Fear,Layers of Fear,2023-06-15 09:00:00,2023-06-15,7.0,23494.0,3018.0,5.0,1056.0,265.0
+both,Layers of Fear (2015),Layers of Fear (2016),2016-02-14 07:00:00,2016-02-15,Layers of Fear 2,Layers of Fear 2 (2019),2019-05-24 01:21:00,2019-05-28,7.0,23494.0,3018.0,5.0,1656.0,650.0
+both,Like a Dragon: Ishin!,Like a Dragon: Ishin!,2023-02-17 07:00:00,2023-02-21,Like a Dragon: Pirate Yakuza in Hawaii,Like a Dragon: Pirate Yakuza in Hawaii,2025-02-18 07:00:00,2025-02-20,8.0,4385.0,896.0,7.0,4296.0,399.0
+both,Little Nightmares,Little Nightmares,2017-04-28 08:00:00,2017-04-27,Little Nightmares II,Little Nightmares II,2021-02-18 01:04:00,2021-02-10,8.0,102595.0,5641.0,7.0,38901.0,2428.0
+both,Mafia,Mafia,2002-09-04 06:09:12,2002-08-28,Mafia: Definitive Edition,Mafia: Definitive Edition,2020-09-24 08:00:00,2020-09-24,7.8,13116.0,1862.0,6.0,75235.0,11178.0
+both,Mafia,Mafia,2002-09-04 06:09:12,2002-08-28,Mafia II,Mafia II: Definitive Edition,2010-08-23 05:27:08,2020-05-19,7.8,13116.0,1862.0,7.071428571428571,20561.0,7903.0
+both,Mafia,Mafia,2002-09-04 06:09:12,2002-08-28,Mafia II,Mafia II (Classic),2010-08-23 05:27:08,2025-02-25,7.8,13116.0,1862.0,7.071428571428571,51181.0,2994.0
+both,Mafia,Mafia,2002-09-04 06:09:12,2002-08-28,Mafia III,Mafia III: Definitive Edition,2016-10-12 01:12:00,2020-05-19,7.8,13116.0,1862.0,6.0,31456.0,23262.0
+both,Magicka,Magicka,2011-02-01 05:47:11,2011-01-25,Magicka 2,Magicka 2,2015-05-29 03:36:00,2015-05-26,6.25,26886.0,4234.0,7.0,10925.0,2296.0
+both,Medal of Honor (1999),Medal of Honor™,1999-11-08 01:39:51,2010-10-12,Medal of Honor,Medal of Honor™,2010-10-12 07:26:44,2010-10-12,8.5,7416.0,2392.0,7.5,3382.0,1403.0
+both,Medal of Honor (1999),Medal of Honor™,1999-11-08 01:39:51,2010-10-12,Medal of Honor: Above and Beyond,Medal of Honor™: Above and Beyond,2020-12-17 03:56:00,2020-12-10,8.5,7416.0,2392.0,5.0,1534.0,926.0
+both,Mega Man Legacy Collection,Mega Man Legacy Collection,2015-08-27 11:59:00,2015-08-24,Mega Man Legacy Collection 2,Mega Man Legacy Collection 2,2017-08-10 09:00:00,2017-08-08,7.0,4049.0,673.0,6.0,1246.0,233.0
+both,Middle-earth: Shadow of Mordor,Middle-earth™: Shadow of Mordor™,2014-09-25 09:01:00,2014-09-30,Middle-earth: Shadow of War,Middle-earth™: Shadow of War™,2017-10-05 06:14:00,2017-10-09,8.0,82459.0,6786.0,7.0,92895.0,11984.0
+both,Orcs Must Die!,Orcs Must Die!,2011-10-11 06:12:23,2011-10-11,Orcs Must Die! 2,Orcs Must Die! 2,2012-08-03 03:28:11,2012-07-30,7.5,7761.0,321.0,8.0,17838.0,1347.0
+both,Outlast,Outlast,2013-09-04 06:00:00,2013-09-04,Outlast 2,Outlast 2,2017-04-24 12:00:00,2017-04-24,7.0,119498.0,4394.0,7.0,49594.0,4718.0
+both,Pillars of Eternity,Pillars of Eternity,2015-04-06 06:00:00,2015-03-26,Pillars of Eternity II: Deadfire,Pillars of Eternity II: Deadfire,2018-05-08 10:00:00,2018-05-08,6.333333333333333,21449.0,2857.0,8.0,16395.0,2232.0
+both,Postal,POSTAL,1997-10-17 01:44:55,1997-11-14,Postal 2,POSTAL 2,2003-04-15 02:57:16,2012-11-02,6.6,9487.0,961.0,5.5,108789.0,3579.0
+both,Risen,Risen,2009-10-14 08:22:20,2009-10-02,Risen 2: Dark Waters,Risen 2: Dark Waters,2012-05-03 04:44:16,2012-04-26,6.5,8588.0,1091.0,7.0,5002.0,1263.0
+both,Risk of Rain,Risk of Rain (2013),2013-11-19 04:06:00,2013-11-08,Risk of Rain 2,Risk of Rain 2,2020-08-11 08:00:00,2020-08-11,8.0,27622.0,1956.0,8.0,286416.0,20064.0
+both,Rogue Legacy,Rogue Legacy,2013-07-08 05:08:00,2013-06-27,Rogue Legacy 2,Rogue Legacy 2,2022-04-28 08:23:00,2022-04-28,8.25,17088.0,1342.0,9.0,13026.0,1306.0
+both,Sanctum (1998),Sanctum,1998-12-02 12:00:00,2011-04-15,Sanctum 2,Sanctum 2,2013-05-23 05:51:37,2013-05-15,7.5,2939.0,358.0,8.0,12824.0,1429.0
+both,Shadow Warrior (1997),Shadow Warrior,1997-10-02 12:53:48,2013-09-26,Shadow Warrior 2,Shadow Warrior 2,2016-10-13 06:00:00,2016-10-13,7.2,23988.0,2058.0,8.0,23529.0,3458.0
+both,Shelter,Shelter,2013-09-03 05:30:33,2013-08-28,Shelter 2,Shelter 2,2015-03-10 10:36:00,2015-03-09,7.0,3116.0,543.0,6.0,3567.0,629.0
+both,Space Hulk,Space Hulk,2013-08-28 05:51:00,2013-08-15,Space Hulk: Deathwing,Space Hulk: Deathwing,2016-12-21 05:03:00,2016-12-14,6.0,1435.0,591.0,4.0,3098.0,2602.0
+both,Space Hulk,Space Hulk,2013-08-28 05:51:00,2013-08-15,Space Hulk: Deathwing,Space Hulk: Deathwing Enhanced Edition,2016-12-21 05:03:00,2018-05-22,6.0,1435.0,591.0,4.0,7105.0,2703.0
+both,Spelunky,Spelunky,2012-07-03 06:14:00,2013-08-08,Spelunky 2,Spelunky 2,2020-09-17 06:03:00,2020-09-29,8.5,14933.0,1287.0,8.0,18667.0,1396.0
+both,Star Wars Jedi: Fallen Order,STAR WARS Jedi: Fallen Order™,2019-11-14 09:00:00,2019-11-14,Star Wars Jedi: Survivor,STAR WARS Jedi: Survivor™,2023-04-26 08:00:00,2023-04-27,8.0,137167.0,17673.0,8.0,42661.0,19752.0
+both,StarDrive (2012),StarDrive,2013-05-13 05:27:34,2013-04-26,StarDrive 2,StarDrive 2,2015-05-13 02:41:00,2015-04-09,6.0,655.0,816.0,6.0,1156.0,922.0
+both,SteamWorld Dig,SteamWorld Dig,2013-09-12 12:04:00,2013-12-05,SteamWorld Dig 2,SteamWorld Dig 2,2017-09-25 02:02:00,2017-09-22,7.0,7529.0,489.0,9.0,7070.0,332.0
+both,SteamWorld Heist,SteamWorld Heist,2016-01-23 08:00:00,2016-06-07,SteamWorld Heist II,SteamWorld Heist II,2024-08-05 01:19:00,2024-08-08,8.0,5573.0,378.0,9.0,1651.0,78.0
+both,Styx: Master of Shadows,Styx: Master of Shadows,2014-10-07 09:00:00,2014-10-07,Styx: Shards of Darkness,Styx: Shards of Darkness,2017-03-14 07:38:00,2017-03-14,5.0,8587.0,1759.0,6.0,4767.0,985.0
+both,Syberia,Syberia,2002-09-05 01:58:31,2011-05-19,Syberia 3,Syberia 3,2017-04-28 08:40:00,2017-11-13,6.9,5432.0,717.0,4.0,2248.0,2091.0
+both,Syberia,Syberia,2002-09-05 01:58:31,2011-05-19,Syberia II,Syberia II,2004-03-19 01:01:01,2011-05-19,6.9,5432.0,717.0,7.8,2351.0,383.0
+both,The Banner Saga,The Banner Saga,2014-01-14 06:00:00,2014-01-14,The Banner Saga 2,The Banner Saga 2,2016-04-19 06:00:00,2016-04-19,7.0,13749.0,1700.0,8.0,3219.0,368.0
+both,The Banner Saga,The Banner Saga,2014-01-14 06:00:00,2014-01-14,The Banner Saga 3,The Banner Saga 3,2018-07-26 06:00:00,2018-07-26,7.0,13749.0,1700.0,8.0,2259.0,538.0
+both,The Binding of Isaac,The Binding of Isaac,2011-11-21 05:25:39,2011-09-28,The Binding of Isaac: Rebirth,The Binding of Isaac: Rebirth,2014-11-24 04:43:00,2014-11-04,8.0,56829.0,3013.0,8.0,324110.0,8751.0
+both,The Dark Pictures Anthology: Man of Medan,The Dark Pictures Anthology: Man of Medan,2019-08-28 07:00:00,2019-08-29,The Dark Pictures Anthology: House of Ashes,The Dark Pictures Anthology: House of Ashes,2021-10-21 04:06:00,2021-10-21,6.0,8596.0,2753.0,8.0,7563.0,981.0
+both,The Dark Pictures Anthology: Man of Medan,The Dark Pictures Anthology: Man of Medan,2019-08-28 07:00:00,2019-08-29,The Dark Pictures Anthology: Little Hope,The Dark Pictures Anthology: Little Hope,2020-11-03 05:02:00,2020-10-29,6.0,8596.0,2753.0,6.0,6377.0,2330.0
+both,The Dark Pictures Anthology: Man of Medan,The Dark Pictures Anthology: Man of Medan,2019-08-28 07:00:00,2019-08-29,The Dark Pictures Anthology: The Devil in Me,The Dark Pictures Anthology: The Devil in Me,2022-11-21 12:36:00,2022-11-17,6.0,8596.0,2753.0,7.0,2455.0,1933.0
+both,The Evil Within,The Evil Within,2014-10-21 07:47:00,2014-10-13,The Evil Within 2,The Evil Within 2,2017-10-12 07:24:00,2017-10-12,7.0,25429.0,4423.0,8.0,26329.0,2217.0
+both,The Incredible Adventures of Van Helsing,The Incredible Adventures of Van Helsing,2013-05-30 05:48:09,2013-05-22,The Incredible Adventures of Van Helsing II,The Incredible Adventures of Van Helsing II,2014-05-28 05:37:00,2014-06-13,7.5,8237.0,1696.0,8.0,1754.0,786.0
+both,The Incredible Adventures of Van Helsing,The Incredible Adventures of Van Helsing,2013-05-30 05:48:09,2013-05-22,The Incredible Adventures of Van Helsing III,The Incredible Adventures of Van Helsing III,2015-06-03 02:21:00,2015-05-22,7.5,8237.0,1696.0,6.0,842.0,461.0
+both,The Surge,The Surge,2017-05-17 11:00:00,2017-05-15,The Surge 2,The Surge 2,2019-09-23 03:01:00,2019-09-23,7.0,8033.0,2635.0,8.0,6324.0,1929.0
+both,The Talos Principle,The Talos Principle,2014-12-16 12:50:00,2014-12-11,The Talos Principle 2,The Talos Principle 2,2023-11-02 09:00:00,2023-11-02,8.0,30079.0,1443.0,9.0,10990.0,497.0
+both,Torchlight,Torchlight,2009-10-29 07:36:12,2009-10-27,Torchlight II,Torchlight II,2012-09-24 09:02:52,2012-09-20,8.0,6267.0,622.0,8.5,40932.0,3186.0
+both,Total War: Shogun 2,Total War: SHOGUN 2,2011-03-17 06:09:03,2011-03-15,Total War: Attila,Total War: ATTILA,2015-02-12 04:00:00,2015-02-17,9.0,57991.0,5369.0,7.0,28403.0,6219.0
+both,Total War: Shogun 2,Total War: SHOGUN 2,2011-03-17 06:09:03,2011-03-15,Total War: Three Kingdoms,Total War: THREE KINGDOMS,2019-05-16 07:00:00,2019-05-23,9.0,57991.0,5369.0,8.0,74197.0,28656.0
+both,Total War: Shogun 2,Total War: SHOGUN 2,2011-03-17 06:09:03,2011-03-15,Total War: WARHAMMER,Total War: WARHAMMER,2016-05-19 06:00:00,2016-05-24,9.0,57991.0,5369.0,9.0,40766.0,11528.0
+both,Total War: Shogun 2,Total War: SHOGUN 2,2011-03-17 06:09:03,2011-03-15,Total War: WARHAMMER II,Total War: WARHAMMER II,2017-09-27 02:00:00,2017-09-28,9.0,57991.0,5369.0,9.0,114514.0,9463.0
+both,Total War: Shogun 2,Total War: SHOGUN 2,2011-03-17 06:09:03,2011-03-15,Total War: WARHAMMER III,Total War: WARHAMMER III,2022-03-02 12:06:00,2022-02-16,9.0,57991.0,5369.0,6.0,83722.0,32645.0
+both,Wargame: European Escalation,Wargame: European Escalation,2012-03-06 05:42:58,2012-02-22,Wargame: AirLand Battle,Wargame: Airland Battle,2013-06-28 05:57:21,2013-05-29,8.5,2570.0,721.0,8.0,3832.0,553.0
