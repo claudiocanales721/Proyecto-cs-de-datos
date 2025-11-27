@@ -1,0 +1,708 @@
+,id_Secuela,Nombre_Secuela,Fecha_de_lanzamiento_Secuela,developers_Secuela,Reseñas_positivas_Secuela,Reseñas_negativas_Secuela,pct_pos_total_Secuela,Nun_total_de_reseñas_Secuela,Nombre_Base,id_Original,Nombre_Original,Fecha_de_lanzamiento_Original,developers_Original,Reseñas_positivas_Original,Reseñas_negativas_Original,pct_pos_total_Original,Nun_total_de_reseñas_Original,Años_de_diferencia
+0,360640,12 Labours of Hercules II: The Cretan Bull,2015-06-05,"['Jetdogs Studios', 'Zoom Out Games']",1867,208,90,1707,12 Labours of Hercules,342580,12 Labours of Hercules,2015-03-23,"['Jetdogs Studios', 'Zoom Out Games']",2814,192,93,2276,0
+1,1033420,9-nine-:Episode 2,2019-08-16,['PALETTE'],1491,23,98,1478,9-nine-,976390,9-nine-:Episode 1,2019-01-31,['PALETTE'],1461,73,95,1459,0
+2,1424660,9-nine-:Episode 4,2021-03-19,['PALETTE'],1089,20,98,1086,9-nine-,976390,9-nine-:Episode 1,2019-01-31,['PALETTE'],1461,73,95,1459,2
+3,1182900,A Plague Tale: Requiem,2022-10-17,['Asobo Studio'],17807,1721,91,15129,A Plague Tale,752590,A Plague Tale: Innocence,2019-05-14,['Asobo Studio'],58010,4066,93,53926,3
+4,1099410,A Total War Saga: TROY,2021-09-02,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)']",2303,914,71,2765,A Total War Saga,712100,A Total War Saga: THRONES OF BRITANNIA,2018-05-02,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",9829,4191,69,11583,3
+5,1449200,AI: THE SOMNIUM FILES - nirvanA Initiative,2022-06-24,"['Spike Chunsoft Co., Ltd.']",2704,406,86,2961,AI,948740,AI: The Somnium Files,2019-09-17,"['Spike Chunsoft Co., Ltd.']",7434,680,91,7702,3
+6,407530,ARK: The Survival Of The Fittest,2017-08-29,"['Studio Wildcard', 'Instinct Games', 'Efecto Studios', 'Virtual Basement LLC']",7733,3922,72,4495,ARK,346110,ARK: Survival Evolved,2017-08-27,"['Studio Wildcard', 'Instinct Games', 'Efecto Studios', 'Virtual Basement LLC']",603824,117279,84,542022,0
+7,2399830,ARK: Survival Ascended,2023-10-25,"['Studio Wildcard', 'Grove Street Games', 'Instinct Games']",42267,29390,59,65032,ARK,346110,ARK: Survival Evolved,2017-08-27,"['Studio Wildcard', 'Instinct Games', 'Efecto Studios', 'Virtual Basement LLC']",603824,117279,84,542022,6
+8,1589120,Above Snakes,2023-05-25,['Square Glade Games'],1258,393,75,1346,Above Snakes,2209150,Above Snakes: Prologue,2023-03-24,['Square Glade Games'],0,0,90,1826,0
+9,1017900,Age of Empires: Definitive Edition,2019-08-19,"['Forgotten Empires', 'Tantalus']",11384,2182,83,12610,Age of Empires,221380,Age of Empires II (Retired),2013-04-09,"['Skybox Labs', 'Hidden Path Entertainment', 'Ensemble Studios', 'Forgotten Empires']",96700,4265,95,83103,6
+10,813780,Age of Empires II: Definitive Edition,2019-11-14,"['Forgotten Empires', 'Tantalus Media', 'Wicked Witch', ""World's Edge"", 'CaptureAge']",150058,8044,94,138617,Age of Empires,221380,Age of Empires II (Retired),2013-04-09,"['Skybox Labs', 'Hidden Path Entertainment', 'Ensemble Studios', 'Forgotten Empires']",96700,4265,95,83103,6
+11,933110,Age of Empires III: Definitive Edition,2020-10-15,"[""World's Edge"", 'Tantalus Media', 'Forgotten Empires']",39670,7287,84,47022,Age of Empires,221380,Age of Empires II (Retired),2013-04-09,"['Skybox Labs', 'Hidden Path Entertainment', 'Ensemble Studios', 'Forgotten Empires']",96700,4265,95,83103,7
+12,1466860,Age of Empires IV: Anniversary Edition,2021-10-28,"['Relic Entertainment', 'Forgotten Empires', 'Climax Studios', ""World's Edge""]",66268,10754,86,58130,Age of Empires,221380,Age of Empires II (Retired),2013-04-09,"['Skybox Labs', 'Hidden Path Entertainment', 'Ensemble Studios', 'Forgotten Empires']",96700,4265,95,83103,8
+13,2772750,Age of History 3,2024-10-23,['Łukasz Jakowski'],9520,1306,87,10809,Age of History,603850,Age of History II,2018-11-21,['Łukasz Jakowski'],40699,4632,89,43165,6
+14,1934680,Age of Mythology: Retold,2024-09-04,"[""World's Edge"", 'Forgotten Empires', 'Tantalus Media', 'CaptureAge', 'Virtuos Games']",13880,1559,90,14207,Age of Mythology,266840,Age of Mythology: Extended Edition,2014-05-08,"['SkyBox Labs', 'Ensemble Studios']",32639,2402,93,30726,10
+15,718850,Age of Wonders: Planetfall,2019-08-06,['Triumph Studios'],5091,1277,80,4547,Age of Wonders,226840,Age of Wonders III,2014-03-31,['Triumph Studios'],10047,2465,81,6878,5
+16,1669000,Age of Wonders 4,2023-05-02,['Triumph Studios'],14033,3196,81,12668,Age of Wonders,226840,Age of Wonders III,2014-03-31,['Triumph Studios'],10047,2465,81,6878,9
+17,1021100,Aircraft Carrier Survival,2022-04-20,"['Gambit Games Studio', 'Creative Storm Entertainment']",650,419,61,1014,Aircraft Carrier Survival,1493800,Aircraft Carrier Survival: Tutorial,2021-03-31,['CreativeForge Games'],832,350,70,1182,1
+18,2683150,Ale & Tale Tavern,2024-09-05,['Scienart Games'],4879,599,88,4728,Ale & Tale Tavern,2870840,Ale & Tale Tavern: First Pints,2024-06-20,['Scienart Games'],0,0,94,4443,0
+19,1150440,Aliens: Dark Descent,2023-06-19,['Tindalos Interactive'],12952,1655,88,12418,Aliens,1549970,Aliens: Fireteam Elite,2021-08-23,['Cold Iron Studios'],19007,4798,81,18965,2
+20,239200,Amnesia: A Machine for Pigs,2013-09-10,['The Chinese Room'],7775,3419,68,6602,Amnesia,57300,Amnesia: The Dark Descent,2010-09-08,['Frictional Games'],31865,1815,95,18867,3
+21,999220,Amnesia: Rebirth,2020-10-20,['Frictional Games'],6535,1969,77,7242,Amnesia,57300,Amnesia: The Dark Descent,2010-09-08,['Frictional Games'],31865,1815,95,18867,10
+22,1944430,Amnesia: The Bunker,2023-06-06,['Frictional Games'],7902,533,93,7362,Amnesia,57300,Amnesia: The Dark Descent,2010-09-08,['Frictional Games'],31865,1815,95,18867,13
+23,758990,Ancient Warfare 3,2024-01-26,['Jannik Nickel'],2435,124,95,2451,Ancient Warfare,1423330,Ancient Warfare: The Han Dynasty,2023-09-26,['不秋草游戏工作室(Bamboo Games)'],1404,265,84,1391,1
+24,1158370,Aragami 2,2021-09-17,['Lince Works'],3009,988,75,3054,Aragami,280160,Aragami,2016-10-04,['Lince Works'],11430,1260,90,10000,5
+25,1540210,Arizona Sunshine® 2,2023-12-07,['Vertigo Games'],1534,312,83,1560,Arizona Sunshine®,342180,Arizona Sunshine®,2016-12-06,"['Vertigo Games', 'Jaywalkers Interactive']",7335,1902,80,7423,7
+26,359600,Assassin’s Creed® Chronicles: Russia,2016-02-09,['Climax Studios'],662,466,58,1066,Assassin’s Creed® Chronicles,354380,Assassin’s Creed® Chronicles: China,2015-04-21,['Climax Studios'],2633,933,73,3333,1
+27,2353250,Astrometica,2024-12-10,['BeryMery'],1473,189,88,1534,Astrometica,2904320,Astrometica: Prologue,2024-05-22,['BeryMery'],0,0,91,1182,0
+28,1257290,Atelier Ryza 2: Lost Legends & the Secret Fairy,2021-01-25,"['KOEI TECMO GAMES CO., LTD.']",3179,311,90,2931,Atelier Ryza,1121560,Atelier Ryza: Ever Darkness & the Secret Hideout,2019-10-28,"['KOEI TECMO GAMES CO., LTD.']",7191,1068,86,7019,2
+29,1999770,Atelier Ryza 3: Alchemist of the End & the Secret Key,2023-03-23,"['KOEI TECMO GAMES CO., LTD.']",1807,167,91,1703,Atelier Ryza,1121560,Atelier Ryza: Ever Darkness & the Secret Hideout,2019-10-28,"['KOEI TECMO GAMES CO., LTD.']",7191,1068,86,7019,4
+30,769970,Bad Dream: Fever,2018-11-15,['Desert Fox'],948,207,82,1156,Bad Dream,538070,Bad Dream: Coma,2017-03-09,['Desert Fox'],1932,174,91,1863,1
+31,257350,Baldur's Gate II: Enhanced Edition,2013-11-15,['Beamdog'],9063,791,91,8633,Baldur's Gate,228280,Baldur's Gate: Enhanced Edition,2013-01-16,['Beamdog'],14902,1263,92,13880,0
+32,1086940,Baldur's Gate 3,2023-08-03,['Larian Studios'],709860,23273,96,648637,Baldur's Gate,228280,Baldur's Gate: Enhanced Edition,2013-01-16,['Beamdog'],14902,1263,92,13880,10
+33,1168660,Barro 2020,2019-11-01,['SC Jogos'],1552,260,85,1669,Barro,618140,Barro,2018-03-28,['SC Jogos'],3713,1009,85,2756,1
+34,200260,Batman: Arkham City - Game of the Year Edition,2012-09-07,['Rocksteady Studios'],64263,2618,95,47896,Batman,57400,Batman: Arkham City,2011-11-15,['Rocksteady Studios'],2070,31,98,2103,1
+35,675260,Batman: The Enemy Within - The Telltale Series,2017-08-08,['Telltale'],8258,730,91,7652,Batman,57400,Batman: Arkham City,2011-11-15,['Rocksteady Studios'],2070,31,98,2103,6
+36,267490,Batman™: Arkham Origins Blackgate - Deluxe Edition,2014-04-01,"['Armature Studio, LLC']",1152,1588,44,1450,Batman™,209000,Batman™: Arkham Origins,2013-10-24,"['WB Games Montreal', 'Splash Damage']",49886,5935,89,38323,1
+37,208650,Batman™: Arkham Knight,2015-06-23,['Rocksteady Studios'],120068,15779,91,93312,Batman™,209000,Batman™: Arkham Origins,2013-10-24,"['WB Games Montreal', 'Splash Damage']",49886,5935,89,38323,2
+38,502820,Batman™: Arkham VR,2017-04-25,['Rocksteady Studios'],1487,775,64,1561,Batman™,209000,Batman™: Arkham Origins,2013-10-24,"['WB Games Montreal', 'Splash Damage']",49886,5935,89,38323,4
+39,1238810,Battlefield™ V,2020-10-22,['DICE'],172471,70825,70,212772,Battlefield™,1238840,Battlefield™ 1,2020-06-11,['DICE'],156453,24369,86,157894,0
+40,1517290,Battlefield™ 2042,2021-11-19,['DICE'],135797,156341,48,229411,Battlefield™,1238840,Battlefield™ 1,2020-06-11,['DICE'],156453,24369,86,157894,1
+41,573100,Battlefleet Gothic: Armada 2,2019-01-24,['Tindalos Interactive'],7438,2454,75,8676,Battlefleet Gothic,363680,Battlefleet Gothic: Armada,2016-04-21,['Tindalos Interactive'],3963,1827,68,4891,3
+42,618740,Beat Hazard 2,2019-10-16,['Cold Beam Games'],1908,287,90,1345,Beat Hazard,49600,Beat Hazard,2010-04-15,['Cold Beam Games'],6961,395,95,4994,9
+43,761620,Beholder 2,2018-12-04,['Alawar Stargaze (Warm Lamp Games)'],6000,842,88,5762,Beholder,475550,Beholder,2016-11-09,['Alawar Stargaze (Warm Lamp Games)'],24284,2221,91,19439,2
+44,1570070,Beholder 3,2022-03-03,['Paintbucket Games'],1463,712,66,1760,Beholder,475550,Beholder,2016-11-09,['Alawar Stargaze (Warm Lamp Games)'],24284,2221,91,19439,6
+45,294810,BlazBlue: Continuum Shift Extend,2014-12-11,['Arc System Works'],1418,153,91,1188,BlazBlue,263300,BlazBlue: Calamity Trigger,2014-02-13,['Arc System Works'],2684,432,85,2572,0
+46,388750,BlazBlue: Chronophantasma Extend,2016-03-02,['Arc System Works'],2563,257,91,2334,BlazBlue,263300,BlazBlue: Calamity Trigger,2014-02-13,['Arc System Works'],2684,432,85,2572,2
+47,702890,BlazBlue: Cross Tag Battle,2019-11-20,['Arc System Works'],3537,879,81,3092,BlazBlue,263300,BlazBlue: Calamity Trigger,2014-02-13,['Arc System Works'],2684,432,85,2572,5
+48,236690,Blood Bowl 2,2015-09-22,['Cyanide Studios'],6953,1887,78,6832,Blood Bowl,216890,Blood Bowl: Chaos Edition,2012-10-11,['Cyanide Studios'],1428,336,79,1361,3
+49,1016950,Blood Bowl 3,2023-02-23,['Cyanide Studio'],2241,2427,49,3230,Blood Bowl,216890,Blood Bowl: Chaos Edition,2012-10-11,['Cyanide Studios'],1428,336,79,1361,11
+50,692850,Bloodstained: Ritual of the Night,2019-06-18,['ArtPlay'],36661,2454,93,27789,Bloodstained,838310,Bloodstained: Curse of the Moon,2018-05-24,"['INTI CREATES CO., LTD.']",3984,235,94,3547,1
+51,1257360,Bloodstained: Curse of the Moon 2,2020-07-10,"['INTI CREATES CO., LTD.']",1254,216,85,1383,Bloodstained,838310,Bloodstained: Curse of the Moon,2018-05-24,"['INTI CREATES CO., LTD.']",3984,235,94,3547,2
+52,960090,Bloons TD 6,2018-12-17,['Ninja Kiwi'],337324,9429,97,306609,Bloons TD,306020,Bloons TD 5,2014-11-19,['Ninja Kiwi'],10828,606,94,10262,4
+53,1276390,Bloons TD Battles 2,2021-11-30,['Ninja Kiwi'],0,0,84,31798,Bloons TD Battles,444640,Bloons TD Battles,2016-04-20,['Ninja Kiwi'],26358,2695,90,29052,5
+54,261640,Borderlands: The Pre-Sequel,2014-10-13,"['2K Australia', 'Gearbox Software', 'Aspyr (Linux)']",33406,7568,83,28891,Borderlands,49520,Borderlands 2,2012-09-17,"['Gearbox Software', 'Aspyr (Mac)', 'Aspyr (Linux)']",272096,17578,95,194303,2
+55,397540,Borderlands 3,2020-03-13,['Gearbox Software'],122703,21417,85,112882,Borderlands,49520,Borderlands 2,2012-09-17,"['Gearbox Software', 'Aspyr (Mac)', 'Aspyr (Linux)']",272096,17578,95,194303,8
+56,1178830,Bright Memory: Infinite,2021-11-11,['FYQD-Studio'],35348,3052,91,34966,Bright Memory,955050,Bright Memory,2020-03-25,['FYQD-Studio'],29573,3071,90,29773,1
+57,515180,Bus Simulator 18,2018-06-13,['stillalive studios'],10602,2459,79,8242,Bus Simulator,324310,Bus Simulator 16,2016-03-02,['stillalive studios'],2618,1078,66,2306,2
+58,722960,CASE 2: Animatronics Survival,2019-02-28,['Walnut LLC'],2573,564,82,2716,CASE,489360,CASE: Animatronics,2016-08-03,"['Walnut LLC', 'Last Level']",3239,647,83,3449,3
+59,42710,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],15124,2010,91,19707,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,0
+60,42680,Call of Duty®: Modern Warfare® 3 (2011),2011-11-08,"['Infinity Ward', 'Sledgehammer Games']",21320,3686,89,13796,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,1
+61,115300,Call of Duty®: Modern Warfare® 3 (2011),2011-11-08,"['Infinity Ward', 'Sledgehammer Games']",33241,4270,89,13797,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,1
+62,202990,Call of Duty®: Black Ops II,2012-11-12,['Treyarch'],27100,4790,86,20738,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,2
+63,202970,Call of Duty®: Black Ops II,2012-11-12,['Treyarch'],40091,6374,86,20738,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,2
+64,209160,Call of Duty®: Ghosts,2014-03-25,['Infinity Ward'],19709,10976,63,11682,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,4
+65,209170,Call of Duty®: Ghosts,2014-03-25,['Infinity Ward'],15087,10789,63,11682,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,4
+66,209660,Call of Duty®: Advanced Warfare - Gold Edition,2014-11-03,"['Sledgehammer Games', 'Raven Software']",13493,8403,63,10498,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,4
+67,209650,Call of Duty®: Advanced Warfare - Gold Edition,2014-11-03,"['Sledgehammer Games', 'Raven Software']",16174,8805,63,10498,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,4
+68,388520,Call of Duty®: Black Ops III,2015-11-05,"['Treyarch', 'Aspyr (Mac)']",38969,23378,87,137893,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,5
+69,311210,Call of Duty®: Black Ops III,2015-11-05,"['Treyarch', 'Aspyr (Mac)']",178293,33583,87,137886,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,5
+70,292730,Call of Duty®: Infinite Warfare,2016-11-03,['Infinity Ward'],16734,11348,62,15585,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,6
+71,393080,Call of Duty®: Modern Warfare® Remastered (2017),2017-07-27,"['Raven Software', 'Beenox']",7374,6788,52,11482,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,7
+72,476620,Call of Duty®: WWII,2017-11-02,"['Sledgehammer Games', 'Raven Software']",11394,8523,70,29849,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,7
+73,476600,Call of Duty®: WWII,2017-11-02,"['Sledgehammer Games', 'Raven Software']",29417,13164,70,29849,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,7
+74,1962660,Call of Duty®: Modern Warfare® II,2022-10-27,"['Infinity Ward', 'Raven Software', 'Beenox', 'Treyarch', 'High Moon Studios', 'Sledgehammer Games', 'Activision Shanghai', 'Demonware', 'Toys for Bob']",1622,5780,21,6919,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,12
+75,1938090,Call of Duty®,2022-10-27,"['Treyarch', 'Raven Software', 'Beenox', 'High Moon Studios', 'Activision Shanghai', 'Sledgehammer Games', 'Infinity Ward', 'Demonware', 'Toys for Bob']",405742,286287,55,379855,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,12
+76,2000950,Call of Duty®: Modern Warfare®,2023-03-08,"['Infinity Ward', 'Beenox', 'High Moon Studios', 'Raven Software']",15462,4101,79,18656,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,13
+77,1985820,Call of Duty®: Vanguard,2023-03-08,"['Sledgehammer Games', 'Treyarch', 'High Moon Studios', 'Raven Software', 'Beenox', 'Demonware']",2117,1031,67,3011,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,13
+78,1985810,Call of Duty®: Black Ops Cold War,2023-03-08,"['Treyarch', 'Raven Software', 'High Moon Studios', 'Beenox', 'Activision Shanghai', 'Sledgehammer Games']",15237,3730,80,17770,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,13
+79,2519060,Call of Duty®: Modern Warfare® III,2023-11-10,"['Sledgehammer Games', 'Treyarch', 'Infinity Ward', 'Beenox', 'Raven Software', 'High Moon Studios', 'Demonware']",4110,8744,31,11741,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,13
+80,2933620,Call of Duty®: Black Ops 6,2024-10-24,"['Treyarch', 'Raven Software', 'Beenox', 'High Moon Studios', 'Activision Shanghai', 'Sledgehammer Games', 'Infinity Ward', 'Demonware']",6102,6667,46,10948,Call of Duty®,42700,Call of Duty®: Black Ops,2010-11-09,['Treyarch'],35935,3652,91,19707,14
+81,320300,Car Mechanic Simulator 2015,2015-04-23,['Red Dot Games'],13458,1107,92,12009,Car Mechanic Simulator,270850,Car Mechanic Simulator 2014,2014-01-24,"['PlayWay S.A.', 'Red Dot Games']",4214,862,82,3976,1
+82,645630,Car Mechanic Simulator 2018,2017-07-28,['Red Dot Games'],46579,4443,91,46340,Car Mechanic Simulator,270850,Car Mechanic Simulator 2014,2014-01-24,"['PlayWay S.A.', 'Red Dot Games']",4214,862,82,3976,3
+83,1190000,Car Mechanic Simulator 2021,2021-08-11,['Red Dot Games'],27164,1148,96,27208,Car Mechanic Simulator,270850,Car Mechanic Simulator 2014,2014-01-24,"['PlayWay S.A.', 'Red Dot Games']",4214,862,82,3976,7
+84,239250,Castlevania: Lords of Shadow 2,2014-02-25,['MercurySteam'],4824,875,84,4234,Castlevania,234080,Castlevania: Lords of Shadow – Ultimate Edition,2013-08-27,"['MercurySteam', 'Climax Studios']",7349,1750,80,7026,1
+85,282530,Castlevania: Lords of Shadow – Mirror of Fate HD,2014-03-27,['MercurySteam'],1961,376,84,1879,Castlevania,234080,Castlevania: Lords of Shadow – Ultimate Edition,2013-08-27,"['MercurySteam', 'Climax Studios']",7349,1750,80,7026,1
+86,914710,Cat Quest II,2019-09-24,['The Gentlebros'],5871,259,95,5045,Cat Quest,593280,Cat Quest,2017-08-08,['The Gentlebros'],8968,484,95,7329,2
+87,2305840,Cat Quest III,2024-08-08,['The Gentlebros'],2367,127,94,2176,Cat Quest,593280,Cat Quest,2017-08-08,['The Gentlebros'],8968,484,95,7329,7
+88,949230,Cities: Skylines II,2023-10-24,['Colossal Order Ltd.'],36522,32876,53,48637,Cities,255710,Cities: Skylines,2015-03-10,['Colossal Order Ltd.'],251370,18731,93,202025,8
+89,2318310,Class of '09: The Re-Up,2023-06-01,['SBN3'],3719,81,97,3646,Class of '09,1443200,Class of '09,2021-06-10,['SBN3'],6259,298,95,6203,2
+90,2757330,Class of '09: The Flip Side,2024-09-23,['SBN3'],1498,1304,52,2682,Class of '09,1443200,Class of '09,2021-06-10,['SBN3'],6259,298,95,6203,3
+91,1132190,Coloring Game: Little City,2019-08-16,['L. Stotch'],891,55,94,1049,Coloring Game,1026820,Coloring Game,2019-04-12,['L. Stotch'],3322,260,92,3916,0
+92,1216200,Coloring Game 2,2020-01-10,['L. Stotch'],3021,91,96,3484,Coloring Game,1026820,Coloring Game,2019-04-12,['L. Stotch'],3322,260,92,3916,1
+93,1275640,Coloring Game 3,2020-04-17,['L. Stotch'],1287,53,95,1497,Coloring Game,1026820,Coloring Game,2019-04-12,['L. Stotch'],3322,260,92,3916,1
+94,1554790,Coloring Game 4,2021-07-30,['L. Stotch'],1405,92,93,1796,Coloring Game,1026820,Coloring Game,2019-04-12,['L. Stotch'],3322,260,92,3916,2
+95,1263550,Combat Arms: the Classic,2020-07-14,"['VALOFE, NEXON']",1208,662,64,1873,Combat Arms,905640,Combat Arms: Reloaded,2018-10-31,"['VALOFE', 'NEXON']",1646,1325,55,2974,2
+96,231430,Company of Heroes 2,2013-06-25,"['Relic Entertainment', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",86058,22941,80,65780,Company of Heroes,228200,Company of Heroes,2006-09-11,['Relic Entertainment'],15646,915,94,10878,7
+97,1677280,Company of Heroes 3,2023-02-23,['Relic Entertainment'],16998,13253,59,18310,Company of Heroes,228200,Company of Heroes,2006-09-11,['Relic Entertainment'],15646,915,94,10878,17
+98,1273400,Construction Simulator,2022-09-20,['weltenbauer. Software Entwicklung GmbH'],8793,1908,82,8059,Construction Simulator,289950,Construction Simulator 2015,2014-11-18,['weltenbauer. Software Entwicklung GmbH'],5560,1200,79,4528,8
+99,1273260,Corpse Party (2021),2021-10-20,['MAGES.'],1054,92,91,1070,Corpse Party,251270,Corpse Party,2016-04-25,['GrisGris'],1165,140,89,1178,5
+100,730,Counter-Strike 2,2012-08-21,['Valve'],7480813,1135108,86,8632939,Counter-Strike,240,Counter-Strike: Source,2004-11-01,['Valve'],172801,6697,96,124438,8
+101,848480,Creeper World 4,2020-12-03,['Knuckle Cracker'],4038,202,95,4085,Creeper World,280220,Creeper World 3: Arc Eternal,2014-03-27,['Knuckle Cracker'],4450,159,96,3890,6
+102,1550510,Creepy Tale 2,2021-07-16,['Creepy Brothers'],1128,175,86,1111,Creepy Tale,1224020,Creepy Tale,2020-02-21,['Creepy Brothers'],2254,357,86,2191,1
+103,2358260,Cricket 24,2023-10-04,['Big Ant Studios'],1306,366,77,1659,Cricket,1028630,Cricket 19,2019-07-30,['Big Ant Studios'],3358,315,91,3615,4
+104,1040200,Crime Scene Cleaner,2024-08-14,['President Studio'],18267,382,97,18336,Crime Scene Cleaner,2540100,Crime Scene Cleaner: Prologue,2024-04-04,['President Studio'],0,0,95,5094,0
+105,1158310,Crusader Kings III,2020-09-01,['Paradox Development Studio'],110492,11676,91,77998,Crusader Kings,203770,Crusader Kings II,2012-02-14,['Paradox Development Studio'],66096,7299,90,72293,8
+106,99830,Crysis 2 - Maximum Edition,2011-03-22,['Crytek Studios'],6989,1472,86,9099,Crysis 2 - Maximum Edition,108800,Crysis 2 - Maximum Edition,2011-03-22,['Crytek Studios'],11568,2008,86,9099,0
+107,1040230,Curious Expedition 2,2021-01-28,['Maschinen-Mensch'],3352,415,88,3504,Curious Expedition,358130,Curious Expedition,2016-09-02,['Maschinen-Mensch'],3855,371,91,3691,5
+108,1399370,Cute Honey 2,2020-09-30,['Lovely Games'],1118,335,77,1438,Cute Honey,1347430,Cute Honey,2020-07-22,['Lovely Games'],4380,440,90,4979,0
+109,2421410,Cyber Manhunt 2: New World - The Hacking Simulator,2025-01-20,['Aluba Studio'],3581,268,92,3622,Cyber Manhunt,1216710,Cyber Manhunt,2021-02-02,['Aluba Studio'],13550,960,93,13529,4
+110,335300,DARK SOULS™ II: Scholar of the First Sin,2015-04-01,"['FromSoftware, Inc.']",95104,17969,84,72245,DARK SOULS™,236430,DARK SOULS™ II,2014-04-25,"['FromSoftware, Inc.']",38841,5063,87,30620,1
+111,374320,DARK SOULS™ III,2016-04-11,"['FromSoftware, Inc.']",383471,23127,94,258335,DARK SOULS™,236430,DARK SOULS™ II,2014-04-25,"['FromSoftware, Inc.']",38841,5063,87,30620,2
+112,570940,DARK SOULS™: REMASTERED,2018-05-23,"['QLOC', 'FromSoftware, Inc.']",113203,9775,91,79757,DARK SOULS™,236430,DARK SOULS™ II,2014-04-25,"['FromSoftware, Inc.']",38841,5063,87,30620,4
+113,743390,DISTRAINT 2,2018-11-13,['Jesse Makkonen'],4057,181,96,3522,DISTRAINT,395170,DISTRAINT: Deluxe Edition,2015-10-21,['Jesse Makkonen'],11258,827,93,6967,3
+114,379720,DOOM,2016-05-12,['id Software'],191069,9048,95,136675,DOOM,208200,DOOM 3,2012-10-15,['id Software'],9538,1485,85,7898,4
+115,1148590,DOOM 64,2020-03-19,"['id Software', 'Nightdive Studios']",7038,481,93,6862,DOOM,208200,DOOM 3,2012-10-15,['id Software'],9538,1485,85,7898,8
+116,1790600,DRAGON BALL: Sparking! ZERO,2024-10-10,"['Spike Chunsoft Co., Ltd.']",57303,6210,90,43875,DRAGON BALL,1276760,DRAGON BALL: THE BREAKERS,2022-10-13,['Dimps Corporation'],3017,3007,50,4595,2
+117,454650,DRAGON BALL XENOVERSE 2,2016-10-27,"['QLOC', 'DIMPS']",47171,5017,90,39323,DRAGON BALL XENOVERSE,323470,DRAGON BALL XENOVERSE,2015-02-26,['DIMPS'],18596,2108,89,16230,1
+118,730310,DYNASTY WARRIORS 9,2018-02-13,"['KOEI TECMO GAMES CO., LTD.']",3553,6487,34,6473,DYNASTY WARRIORS,278080,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition,2014-05-13,"['KOEI TECMO GAMES CO., LTD.']",11239,2123,84,11301,4
+119,968790,DYNASTY WARRIORS 7: Xtreme Legends Definitive Edition,2018-12-05,"['KOEI TECMO GAMES CO., LTD.']",1270,233,84,1306,DYNASTY WARRIORS,278080,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition,2014-05-13,"['KOEI TECMO GAMES CO., LTD.']",11239,2123,84,11301,4
+120,2384580,DYNASTY WARRIORS: ORIGINS,2025-01-16,"['KOEI TECMO GAMES CO., LTD.']",16212,1098,93,12071,DYNASTY WARRIORS,278080,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition,2014-05-13,"['KOEI TECMO GAMES CO., LTD.']",11239,2123,84,11301,11
+121,413420,Danganronpa 2: Goodbye Despair,2016-04-18,"['Spike Chunsoft Co., Ltd.', 'Abstraction Games']",25107,960,96,24611,Danganronpa,413410,Danganronpa: Trigger Happy Havoc,2016-02-18,"['Spike Chunsoft Co., Ltd.', 'Abstraction Games']",28511,1182,96,27914,0
+122,567640,Danganronpa V3: Killing Harmony,2017-09-25,"['Spike Chunsoft Co., Ltd.']",16344,3110,83,18309,Danganronpa,413410,Danganronpa: Trigger Happy Havoc,2016-02-18,"['Spike Chunsoft Co., Ltd.', 'Abstraction Games']",28511,1182,96,27914,1
+123,1266690,Dark Deception: Monsters & Mortals,2020-11-02,['Glowstick Entertainment'],2273,541,81,2536,Dark Deception,332950,Dark Deception,2018-09-26,['Glowstick Entertainment'],18393,2268,89,20697,2
+124,2208570,Dark Hours,2024-10-24,['Piece of Cake studios'],1676,287,84,1637,Dark Hours,3064370,Dark Hours: Prologue,2024-07-18,['Piece of Cake studios'],0,0,87,3654,0
+125,1940340,Darkest Dungeon® II,2023-05-08,['Red Hook Studios'],15411,4883,75,18819,Darkest Dungeon®,262060,Darkest Dungeon®,2016-01-19,['Red Hook Studios'],134496,12199,91,127426,7
+126,50620,Darksiders™,2010-09-23,['Vigil Games'],11005,1318,89,8080,Darksiders™,50640,Darksiders™,2010-09-23,['Vigil Games'],9181,1092,89,8080,0
+127,951430,Dead Age 2: The Zombie Survival RPG,2021-03-12,['Silent Dreams'],949,290,75,1073,Dead Age,363930,Dead Age,2016-11-04,['Silent Dreams'],4445,1000,83,4292,5
+128,394760,Dead Effect 2,2016-05-06,"['BadFly Interactive, a.s.']",1645,604,72,1852,Dead Effect,286040,Dead Effect,2014-12-17,"['BadFly Interactive, a.s.']",2687,990,72,2846,2
+129,383180,Dead Island: Riptide Definitive Edition,2016-05-31,['Techland'],8104,3236,76,5446,Dead Island,383150,Dead Island Definitive Edition,2016-05-31,['Techland'],20546,4503,82,21403,0
+130,934700,Dead Island 2,2024-04-22,['Dambuster Studios'],9104,2668,76,8493,Dead Island,383150,Dead Island Definitive Edition,2016-05-31,['Techland'],20546,4503,82,21403,8
+131,543460,Dead Rising 4,2017-03-14,"['Capcom Game Studio Vancouver, Inc.']",4360,3338,59,4343,Dead Rising,45770,Dead Rising 2: Off the Record,2011-10-11,['Capcom Vancouver'],2968,869,77,2477,6
+132,1238060,Dead Space™ 3,2020-06-18,['Visceral Games'],9055,3236,74,9820,Dead Space™,47780,Dead Space™ 2,2011-01-25,['Visceral Games'],23792,1497,94,21644,9
+133,1343670,Dealer's Life 2,2022-02-15,['Abyte Entertainment'],3257,563,85,3581,Dealer's Life,982270,Dealer's Life,2019-01-31,['Abyte Entertainment'],1166,88,93,1182,3
+134,2064870,Deceit 2,2023-09-14,['World Makers'],2894,2041,58,4953,Deceit,466240,Deceit,2017-03-03,['World Makers'],73671,19388,79,93083,6
+135,2321470,Deep Rock Galactic: Survivor,2024-02-14,['Funday Games'],30157,4646,86,33638,Deep Rock Galactic,548430,Deep Rock Galactic,2020-05-13,['Ghost Ship Games'],326096,9180,97,267655,4
+136,1410710,Democracy 4,2022-01-13,['Positech Games'],4721,965,83,5226,Democracy,245470,Democracy 3,2013-10-14,['Positech Games'],5386,1856,74,6232,9
+137,292910,Deponia: The Complete Journey,2014-07-08,['Daedalic Entertainment'],5580,899,87,3217,Deponia,214340,Deponia,2012-08-06,['Daedalic Entertainment'],10424,1553,86,9328,2
+138,610370,Desperados III,2020-06-16,['Mimimi Games'],13804,471,96,9894,Desperados,260730,Desperados: Wanted Dead or Alive,2013-11-20,['Spellbound'],1936,270,87,1896,7
+139,258180,Deus Ex: The Fall,2014-03-17,[],0,0,36,3559,Deus Ex,238010,Deus Ex: Human Revolution - Director's Cut,2013-10-25,['Eidos Montreal'],25613,2192,92,23570,1
+140,337000,Deus Ex: Mankind Divided,2016-08-23,"['Eidos Montreal', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']",30770,9792,76,29296,Deus Ex,238010,Deus Ex: Human Revolution - Director's Cut,2013-10-25,['Eidos Montreal'],25613,2192,92,23570,3
+141,403640,Dishonored 2,2016-11-11,['Arkane Studios'],55345,6565,89,39419,Dishonored,205100,Dishonored,2012-10-08,['Arkane Studios'],79720,1929,97,61900,4
+142,1531540,Distant Worlds 2,2022-03-10,['CodeForce'],2211,893,71,2407,Distant Worlds,261470,Distant Worlds: Universe,2014-05-23,['Code Force'],1372,439,72,1386,8
+143,243950,Divinity: Dragon Commander,2013-08-06,['Larian Studios'],1746,614,72,1806,Divinity,219780,Divinity II: Developer's Cut,2012-10-29,['Larian Studios'],3994,739,84,3957,1
+144,230230,Divinity: Original Sin (Classic),2014-06-30,['Larian Studios'],10788,985,90,8059,Divinity,219780,Divinity II: Developer's Cut,2012-10-29,['Larian Studios'],3994,739,84,3957,2
+145,373420,Divinity: Original Sin - Enhanced Edition,2015-10-27,['Larian Studios'],25606,2940,89,23474,Divinity,219780,Divinity II: Developer's Cut,2012-10-29,['Larian Studios'],3994,739,84,3957,3
+146,435150,Divinity: Original Sin 2 - Definitive Edition,2017-09-14,['Larian Studios'],179788,7811,95,164364,Divinity,219780,Divinity II: Developer's Cut,2012-10-29,['Larian Studios'],3994,739,84,3957,5
+147,686200,Door Kickers: Action Squad,2018-09-10,"['PixelShard', 'KillHouse Games']",9518,518,95,8351,Door Kickers,248610,Door Kickers,2014-10-20,['KillHouse Games'],9237,552,94,7836,4
+148,1239080,Door Kickers 2: Task Force North,2025-02-10,['KillHouse Games'],9479,431,95,9266,Door Kickers,248610,Door Kickers,2014-10-20,['KillHouse Games'],9237,552,94,7836,11
+149,1238040,Dragon Age II: Ultimate Edition,2020-06-04,['BioWare'],5095,1182,81,5669,Dragon Age,47810,Dragon Age: Origins - Ultimate Edition,2010-10-26,['BioWare'],24102,3642,86,25382,10
+150,2054970,Dragon's Dogma 2,2024-03-21,"['CAPCOM Co., Ltd.']",63879,41354,61,69172,Dragon's Dogma,367500,Dragon's Dogma: Dark Arisen,2016-01-15,['Capcom'],40935,5291,88,35222,8
+151,945710,DreadOut 2,2020-02-21,['Digital Happiness'],1383,454,75,1639,DreadOut,269790,DreadOut,2014-05-15,['Digital Happiness'],4122,1256,77,4235,6
+152,682990,Drug Dealer Simulator,2020-04-16,['Byterunners'],17848,2545,87,17849,Drug Dealer Simulator,1275630,Drug Dealer Simulator: Free Sample,2020-04-03,['Byterunners Game Studio'],2373,289,89,2663,0
+153,1708850,Drug Dealer Simulator 2,2024-06-20,['Byterunners'],3538,1336,72,4615,Drug Dealer Simulator,1275630,Drug Dealer Simulator: Free Sample,2020-04-03,['Byterunners Game Studio'],2373,289,89,2663,4
+154,825310,Dude Simulator 2,2018-07-27,['Kiddy'],1140,874,56,1746,Dude Simulator,654990,Dude Simulator,2017-07-13,['Kiddy'],1247,807,60,1830,1
+155,1689500,Dune: Imperium,2024-03-13,['Dire Wolf'],2842,155,95,2657,Dune,1605220,Dune: Spice Wars,2023-09-14,['Shiro Games'],9674,2466,79,10376,1
+156,236110,Dungeon Defenders II,2017-06-20,['Chromatic Games'],16827,4899,77,21737,Dungeon Defenders,65800,Dungeon Defenders,2011-10-18,['Chromatic Games'],16599,1222,93,11282,6
+157,39190,Dungeon Siege,2011-04-05,['Gas Powered Games'],3161,713,81,3500,Dungeon Siege,39200,Dungeon Siege II,2005-08-16,['Gas Powered Games'],1984,635,75,2375,6
+158,39160,Dungeon Siege III,2011-06-20,['Obsidian Entertainment'],1628,1218,54,1911,Dungeon Siege,39200,Dungeon Siege II,2005-08-16,['Gas Powered Games'],1984,635,75,2375,6
+159,698540,Dungeon Warfare 2,2018-07-06,['Valsar'],942,98,90,1008,Dungeon Warfare,355980,Dungeon Warfare,2015-11-04,['Valsar'],1808,80,95,1801,3
+160,493900,Dungeons 3,2017-10-13,['Realmforge Studios'],17245,1050,93,12348,Dungeons,262280,Dungeons 2,2015-04-24,['Realmforge Studios'],4221,936,78,2223,2
+161,1643310,Dungeons 4,2023-11-09,['Realmforge Studios'],2331,293,88,1948,Dungeons,262280,Dungeons 2,2015-04-24,['Realmforge Studios'],4221,936,78,2223,8
+162,623280,Dungeons & Dragons: Dark Alliance,2021-06-21,['Tuque Games'],2325,2384,49,4711,Dungeons & Dragons,229480,Dungeons & Dragons: Chronicles of Mystara,2013-06-18,['Iron Galaxy Studios'],1470,336,80,1347,8
+163,2669320,EA SPORTS FC™ 25,2024-09-26,"['EA Canada', 'EA Romania']",27017,29259,48,52538,EA SPORTS FC™,2195250,EA SPORTS FC™ 24,2023-09-28,['EA Canada & EA Romania'],62361,45834,57,91719,1
+164,2898330,EA SPORTS FC™ 25,2024-09-26,"['EA Canada', 'EA Romania']",0,0,48,52457,EA SPORTS FC™,2195250,EA SPORTS FC™ 24,2023-09-28,['EA Canada & EA Romania'],62361,45834,57,91719,1
+165,2898350,EA SPORTS FC™ 25,2024-09-26,"['EA Canada', 'EA Romania']",0,0,48,52457,EA SPORTS FC™,2195250,EA SPORTS FC™ 24,2023-09-28,['EA Canada & EA Romania'],62361,45834,57,91719,1
+166,2898360,EA SPORTS FC™ 25,2024-09-26,"['EA Canada', 'EA Romania']",0,0,48,52457,EA SPORTS FC™,2195250,EA SPORTS FC™ 24,2023-09-28,['EA Canada & EA Romania'],62361,45834,57,91719,1
+167,1039890,EARTH DEFENSE FORCE: IRON RAIN,2019-10-15,"[""YUKE'S""]",816,565,58,1161,EARTH DEFENSE FORCE,1007040,EARTH DEFENSE FORCE 5,2019-07-11,['SANDLOT'],9993,585,94,8721,0
+168,2291060,EARTH DEFENSE FORCE 6,2024-07-25,['SANDLOT'],4044,2088,66,5417,EARTH DEFENSE FORCE,1007040,EARTH DEFENSE FORCE 5,2019-07-11,['SANDLOT'],9993,585,94,8721,5
+169,900040,ELEX II,2022-03-01,['Piranha Bytes'],4636,1646,74,3589,ELEX,411300,ELEX,2017-10-17,['Piranha Bytes'],14052,4818,72,11957,5
+170,850170,EMERGENCY,2023-08-15,['Sixteen Tons Entertainment'],0,0,67,5212,EMERGENCY,735280,EMERGENCY 20,2017-10-31,['Sixteen Tons Entertainment'],1661,314,84,1881,6
+171,1128920,EVERSPACE™ 2,2023-04-06,['ROCKFISH Games'],9766,1437,87,10335,EVERSPACE™,396750,EVERSPACE™,2017-05-25,['ROCKFISH Games'],8557,2299,78,9287,6
+172,255320,Edna & Harvey: The Breakout,2013-10-25,['Daedalic Entertainment'],1362,229,85,1279,Edna & Harvey,219910,Edna & Harvey: Harvey's New Eyes,2012-10-16,['Daedalic Entertainment'],2764,347,88,2446,1
+173,1658280,Eiyuden Chronicle: Hundred Heroes,2024-04-23,['Rabbit & Bear Studios'],2857,808,77,2549,Eiyuden Chronicle,1658290,Eiyuden Chronicle: Rising,2022-05-10,['NatsumeAtari'],1878,296,86,1800,2
+174,284750,Enigmatis: The Ghosts of Maple Creek,2014-10-16,['Artifex Mundi'],1401,258,84,1212,Enigmatis,284770,Enigmatis 2: The Mists of Ravenwood,2014-06-05,['Artifex Mundi'],1495,41,97,1026,0
+175,521200,Epic Battle Fantasy 3,2016-09-01,['Matt Roszak'],2070,66,96,2145,Epic Battle Fantasy,265610,Epic Battle Fantasy 4,2014-02-25,['Matt Roszak'],3032,94,98,2619,2
+176,432350,Epic Battle Fantasy 5,2018-11-30,['Matt Roszak'],5371,75,98,5036,Epic Battle Fantasy,265610,Epic Battle Fantasy 4,2014-02-25,['Matt Roszak'],3032,94,98,2619,4
+177,232010,Euro Truck Simulator,2013-03-08,['SCS Software'],6024,1188,83,6009,Euro Truck Simulator,227300,Euro Truck Simulator 2,2012-10-12,['SCS Software'],825685,22349,97,641347,1
+178,205710,EverQuest,2012-12-13,['Darkpaw Games'],1866,454,80,2331,EverQuest,201230,EverQuest II,2011-12-07,['Darkpaw Games'],2119,538,79,2663,1
+179,1984020,Everhood 2,2025-03-04,"['Chris Nordgren', 'Jordi Roca']",721,200,76,1086,Everhood,1229380,Everhood,2021-03-04,"['Chris Nordgren', 'Jordi Roca']",12364,612,95,10709,4
+180,359310,Evoland 2,2015-08-25,['Shiro Games'],3334,484,88,1781,Evoland,233470,Evoland,2013-04-04,['Shiro Games'],4826,1014,83,4463,2
+181,510500,Executive Assault 2,2023-10-18,['Hesketh Studios Ltd'],1249,237,84,1355,Executive Assault,331500,Executive Assault,2015-07-17,['Hesketh Studios Ltd'],1236,215,84,1261,8
+182,445190,Expeditions: Viking,2017-04-27,['Logic Artists'],3267,655,83,3075,Expeditions,237430,Expeditions: Conquistador,2013-05-30,['Logic Artists'],1205,324,76,1156,4
+183,987840,Expeditions: Rome,2022-01-20,['Logic Artists'],5027,656,88,4321,Expeditions,237430,Expeditions: Conquistador,2013-05-30,['Logic Artists'],1205,324,76,1156,9
+184,2477340,Expeditions: A MudRunner Game,2024-03-05,['Saber Interactive'],2059,1759,56,2258,Expeditions,237430,Expeditions: Conquistador,2013-05-30,['Logic Artists'],1205,324,76,1156,11
+185,2591280,F1® Manager 2024,2024-07-23,['Frontier Developments'],2887,907,76,2906,F1® Manager,2287220,F1® Manager 2023,2023-07-31,['Frontier Developments'],2488,622,80,2156,1
+186,1570010,FAR: Changing Tides,2022-03-01,['Okomotive'],4046,323,92,4008,FAR,609320,FAR: Lone Sails,2018-05-17,['Okomotive'],19443,1040,94,18860,4
+187,39150,FINAL FANTASY VIII,2013-12-05,['Square Enix'],7931,1059,87,7436,FINAL FANTASY,39140,FINAL FANTASY VII,2013-07-04,['Square Enix'],25393,1962,92,23729,0
+188,377840,FINAL FANTASY IX,2016-04-14,['Square Enix'],10863,599,94,9952,FINAL FANTASY,39140,FINAL FANTASY VII,2013-07-04,['Square Enix'],25393,1962,92,23729,3
+189,1173770,FINAL FANTASY,2021-07-28,['Square Enix'],6134,350,94,6058,FINAL FANTASY,39140,FINAL FANTASY VII,2013-07-04,['Square Enix'],25393,1962,92,23729,8
+190,1173780,FINAL FANTASY II,2021-07-28,['Square Enix'],2012,493,80,2330,FINAL FANTASY,39140,FINAL FANTASY VII,2013-07-04,['Square Enix'],25393,1962,92,23729,8
+191,1173790,FINAL FANTASY III,2021-07-28,['Square Enix'],1974,142,93,1970,FINAL FANTASY,39140,FINAL FANTASY VII,2013-07-04,['Square Enix'],25393,1962,92,23729,8
+192,1173800,FINAL FANTASY IV,2021-09-08,['Square Enix'],2064,206,91,2112,FINAL FANTASY,39140,FINAL FANTASY VII,2013-07-04,['Square Enix'],25393,1962,92,23729,8
+193,1173810,FINAL FANTASY V,2021-11-10,['Square Enix'],1626,212,88,1714,FINAL FANTASY,39140,FINAL FANTASY VII,2013-07-04,['Square Enix'],25393,1962,92,23729,8
+194,1173820,FINAL FANTASY VI,2022-02-23,['Square Enix'],3312,324,91,3376,FINAL FANTASY,39140,FINAL FANTASY VII,2013-07-04,['Square Enix'],25393,1962,92,23729,9
+195,2515020,FINAL FANTASY XVI,2024-09-17,['Square Enix'],16116,4191,79,14304,FINAL FANTASY,39140,FINAL FANTASY VII,2013-07-04,['Square Enix'],25393,1962,92,23729,11
+196,38400,Fallout: A Post Nuclear Role Playing Game,2015-11-01,['Interplay Inc.'],20366,1268,95,14080,Fallout,38410,Fallout 2: A Post Nuclear Role Playing Game,2009-08-19,['Black Isle Studios'],14242,871,94,12047,6
+197,377160,Fallout 4,2015-11-09,['Bethesda Game Studios'],321613,65817,83,258216,Fallout,38410,Fallout 2: A Post Nuclear Role Playing Game,2009-08-19,['Black Isle Studios'],14242,871,94,12047,6
+198,1151340,Fallout 76,2020-04-14,['Bethesda Game Studios'],87870,32582,76,64957,Fallout,38410,Fallout 2: A Post Nuclear Role Playing Game,2009-08-19,['Black Isle Studios'],14242,871,94,12047,11
+199,1173280,Fap Queen 2,2019-12-02,['Yaluar01'],0,0,82,1051,Fap Queen,942140,Fap Queen,2018-10-26,['Yaluar'],0,0,81,1443,1
+200,298110,Far Cry® 4,2014-11-17,"['Ubisoft Montreal, Red Storm, Shanghai, Toronto, Kiev']",49740,9336,84,54699,Far Cry®,13520,Far Cry®,2008-04-01,['Crytek Studios'],8006,1757,81,9227,6
+201,552520,Far Cry® 5,2018-03-26,"['Ubisoft Montreal', 'Red Storm', 'Ubisoft Shanghai', 'Ubisoft Toronto', 'Ubisoft Kiev']",136456,32202,80,154338,Far Cry®,13520,Far Cry®,2008-04-01,['Crytek Studios'],8006,1757,81,9227,10
+202,2369390,Far Cry® 6,2023-05-11,"['Ubisoft Toronto', 'Ubisoft Montreal', 'Ubisoft Kyiv', 'Ubisoft Shanghai', 'Ubisoft Berlin']",18143,7207,71,23932,Far Cry®,13520,Far Cry®,2008-04-01,['Crytek Studios'],8006,1757,81,9227,15
+203,1123830,Farm Manager 2021,2021-05-06,['Cleversan Games'],1689,433,79,2047,Farm Manager,495560,Farm Manager 2018,2018-04-06,['Cleversan Games'],1980,787,70,2493,3
+204,2418520,Farm Together 2,2024-05-07,['Milkstone Studios'],3097,253,92,2884,Farm Together,673950,Farm Together,2018-10-11,['Milkstone Studios'],20367,1254,94,17269,6
+205,447020,Farming Simulator 17,2016-10-24,['GIANTS Software'],23179,1615,93,22114,Farming Simulator,313160,Farming Simulator 15,2014-10-30,['Giants Software'],14123,1196,92,12831,2
+206,787860,Farming Simulator 19,2018-11-19,['Giants Software'],70017,4162,94,62740,Farming Simulator,313160,Farming Simulator 15,2014-10-30,['Giants Software'],14123,1196,92,12831,4
+207,1248130,Farming Simulator 22,2021-11-21,['Giants Software'],76338,6323,92,61547,Farming Simulator,313160,Farming Simulator 15,2014-10-30,['Giants Software'],14123,1196,92,12831,7
+208,2300320,Farming Simulator 25,2024-11-12,['Giants Software'],24632,5004,82,19204,Farming Simulator,313160,Farming Simulator 15,2014-10-30,['Giants Software'],14123,1196,92,12831,10
+209,1559390,Fate Seeker II,2021-11-22,['甲山林娛樂股份有限公司'],12095,1412,89,11110,Fate Seeker,882790,Fate Seeker,2018-08-07,['甲山林娛樂股份有限公司'],12021,1211,90,11760,3
+210,2124420,Fate Seeker: Journey,2022-12-11,['甲山林娛樂股份有限公司'],930,265,77,1098,Fate Seeker,882790,Fate Seeker,2018-08-07,['甲山林娛樂股份有限公司'],12021,1211,90,11760,4
+211,2171440,Fear & Hunger 2: Termina,2022-12-09,['Miro Haverinen'],0,0,97,9477,Fear & Hunger,1002300,Fear & Hunger,2019-01-21,['Miro Haverinen'],0,0,94,14293,3
+212,312750,Final Fantasy IV (3D Remake),2014-09-17,"['Square Enix', 'DotEmu SAS.']",2432,467,84,2427,Final Fantasy,239120,Final Fantasy III (3D Remake),2014-05-27,['Square Enix'],2680,568,82,2719,0
+213,1264250,Fishing: North Atlantic - Enhanced Edition,2020-10-16,['Misc Games'],1914,567,77,2272,Fishing,501080,Fishing: Barents Sea,2018-02-07,['Misc Games'],2010,498,79,2254,2
+214,332800,Five Nights at Freddy's 2,2014-11-10,['Scott Cawthon'],20993,1398,94,20275,Five Nights at Freddy's,319510,Five Nights at Freddy's,2014-08-19,['Scott Cawthon'],48051,3379,93,46210,0
+215,354140,Five Nights at Freddy's 3,2015-03-02,['Scott Cawthon'],8923,982,90,9052,Five Nights at Freddy's,319510,Five Nights at Freddy's,2014-08-19,['Scott Cawthon'],48051,3379,93,46210,1
+216,388090,Five Nights at Freddy's 4,2015-07-23,['Scott Cawthon'],13489,1055,93,13218,Five Nights at Freddy's,319510,Five Nights at Freddy's,2014-08-19,['Scott Cawthon'],48051,3379,93,46210,1
+217,506610,Five Nights at Freddy's: Sister Location,2016-10-07,['Scott Cawthon'],10477,1087,91,10488,Five Nights at Freddy's,319510,Five Nights at Freddy's,2014-08-19,['Scott Cawthon'],48051,3379,93,46210,2
+218,747660,Five Nights at Freddy's: Security Breach,2021-12-16,['Steel Wool Studios'],55563,8695,86,59974,Five Nights at Freddy's,319510,Five Nights at Freddy's,2014-08-19,['Scott Cawthon'],48051,3379,93,46210,7
+219,2287520,Five Nights at Freddy's: Help Wanted 2,2023-12-14,['Steel Wool Studios'],4465,230,94,4457,Five Nights at Freddy's,319510,Five Nights at Freddy's,2014-08-19,['Scott Cawthon'],48051,3379,93,46210,9
+220,2638370,Five Nights at Freddy's: Into the Pit,2024-08-07,['Mega Cat Studios'],9071,392,95,8817,Five Nights at Freddy's,319510,Five Nights at Freddy's,2014-08-19,['Scott Cawthon'],48051,3379,93,46210,10
+221,402130,FlatOut 4: Total Insanity,2017-04-04,['Kylotonn'],1108,992,53,1756,FlatOut,201510,FlatOut 3: Chaos & Destruction,2011-12-13,['Team 6 Studios'],696,3199,17,3263,6
+222,1263850,Football Manager 2021,2020-11-24,['Sports Interactive'],22344,1558,93,23902,Football Manager,872790,Football Manager 2019,2018-11-02,['Sports Interactive'],10818,1657,86,12480,2
+223,1569040,Football Manager 2022,2021-11-09,['Sports Interactive'],19838,1598,92,13758,Football Manager,872790,Football Manager 2019,2018-11-02,['Sports Interactive'],10818,1657,86,12480,3
+224,1904540,Football Manager 2023,2022-11-08,['Sports Interactive'],17556,2009,89,19590,Football Manager,872790,Football Manager 2019,2018-11-02,['Sports Interactive'],10818,1657,86,12480,4
+225,2252570,Football Manager 2024,2023-11-06,['Sports Interactive'],18929,1970,90,12259,Football Manager,872790,Football Manager 2019,2018-11-02,['Sports Interactive'],10818,1657,86,12480,5
+226,1676840,For The King II,2023-11-02,['IronOak Games'],8882,3856,68,10061,For The King,527230,For The King,2018-04-19,['IronOak Games'],36038,4799,87,28976,5
+227,1316230,Force of Nature 2: Ghost Keeper,2021-05-27,['A.Y.std'],1759,420,80,1910,Force of Nature,568570,Force of Nature,2016-12-13,['A.Y.std'],3138,1010,75,3857,5
+228,595500,Freedom Planet 2,2022-09-13,['GalaxyTrail'],1485,57,96,1402,Freedom Planet,248310,Freedom Planet,2014-07-21,['GalaxyTrail'],4498,233,96,3166,8
+229,1047220,Frog Detective 2: The Case of the Invisible Wizard,2019-12-09,"['Grace Bruxner', 'Thomas Bowker']",1838,87,97,1150,Frog Detective,963000,Frog Detective 1: The Haunted Island,2018-11-22,"['Grace Bruxner', 'Thomas Bowker']",4548,367,95,2608,1
+230,1171320,Frog Detective 3: Corruption at Cowboy County,2022-10-26,"['Grace Bruxner', 'Thomas Bowker']",1738,22,98,1586,Frog Detective,963000,Frog Detective 1: The Haunted Island,2018-11-22,"['Grace Bruxner', 'Thomas Bowker']",4548,367,95,2608,4
+231,1601580,Frostpunk 2,2024-09-20,['11 bit studios'],15433,4631,75,15581,Frostpunk,323190,Frostpunk,2018-04-24,['11 bit studios'],111458,9059,92,100183,6
+232,1349040,Furry Love 2,2021-12-24,"['빌리 헤링턴', 'Red Six Development']",0,0,87,2505,Furry Love,1334590,Furry Love,2020-07-10,['Red Six Development'],0,0,87,4280,1
+233,851890,Gal*Gun 2,2018-07-20,"['INTI CREATES CO., LTD.']",1943,375,83,1947,Gal*Gun,511740,Gal*Gun: Double Peace,2016-09-27,"['INTI CREATES CO., LTD.']",1834,278,86,1760,2
+234,1357210,Galactic Civilizations IV,2023-10-19,['Stardock Entertainment'],1276,462,73,1483,Galactic Civilizations,226860,Galactic Civilizations III,2015-05-14,['Stardock Entertainment'],7856,2400,76,8221,8
+235,2262770,Garten of Banban 2,2023-03-03,['Euphoric Brothers'],2659,1318,68,3499,Garten of Banban,2232840,Garten of Banban,2023-01-06,['Euphoric Brothers'],0,0,52,11516,0
+236,2311190,Garten of Banban 3,2023-05-05,['Euphoric Brothers'],1921,722,73,2380,Garten of Banban,2232840,Garten of Banban,2023-01-06,['Euphoric Brothers'],0,0,52,11516,0
+237,2383120,Garten of Banban 4,2023-08-11,['Euphoric Brothers'],1283,413,77,1507,Garten of Banban,2232840,Garten of Banban,2023-01-06,['Euphoric Brothers'],0,0,52,11516,0
+238,2499800,Garten of Banban 6,2023-12-20,['Euphoric Brothers'],878,281,76,1082,Garten of Banban,2232840,Garten of Banban,2023-01-06,['Euphoric Brothers'],0,0,52,11516,0
+239,2693060,Garten of Banban 7,2024-05-10,['Euphoric Brothers'],1102,222,83,1249,Garten of Banban,2232840,Garten of Banban,2023-01-06,['Euphoric Brothers'],0,0,52,11516,1
+240,3300410,Garten of Banban 0,2025-02-21,['Euphoric Brothers'],0,0,72,2151,Garten of Banban,2232840,Garten of Banban,2023-01-06,['Euphoric Brothers'],0,0,52,11516,2
+241,1149620,Gas Station Simulator,2021-09-15,['DRAGO entertainment'],21446,2938,88,21249,Gas Station Simulator,1528080,Gas Station Simulator: Prologue - Early Days,2021-04-28,['DRAGO entertainment'],0,0,86,4154,0
+242,234040,Gear Up,2015-01-28,['Doctor Entertainment AB'],6385,2214,74,8383,Gear Up,214420,Gear Up,2015-01-28,['Doctor Entertainment AB'],6257,2126,74,8383,0
+243,300600,Gear Up,2015-01-28,['Doctor Entertainment AB'],6383,2234,74,8383,Gear Up,214420,Gear Up,2015-01-28,['Doctor Entertainment AB'],6257,2126,74,8383,0
+244,2144740,Ghostrunner 2,2023-10-26,['One More Level'],7348,1691,82,6369,Ghostrunner,1139900,Ghostrunner,2020-10-27,"['One More Level', '3D Realms', 'Slipgate Ironworks™', 'All in! Games']",57210,5386,91,44065,3
+245,1043260,Gladiator Guild Manager,2024-06-22,['Entertainment Forge'],2824,623,81,3230,Gladiator Guild Manager,1332470,Gladiator Guild Manager: Prologue,2020-08-27,['Entertainment Forge'],1439,102,93,1541,4
+246,935880,Glass Masquerade 2: Illusions,2019-02-27,['Onyx Lute'],2702,231,91,2627,Glass Masquerade,511470,Glass Masquerade,2016-11-18,['Onyx Lute'],6298,201,96,5143,3
+247,850190,Goat Simulator 3,2024-02-15,['Coffee Stain North'],9098,187,97,8331,Goat Simulator,265930,Goat Simulator,2014-04-01,['Coffee Stain Studios'],61945,6318,90,52867,10
+248,241910,Goodbye Deponia,2013-10-17,['Daedalic Entertainment'],2065,262,89,1841,Goodbye Deponia,371040,Goodbye Deponia,2013-10-17,['Daedalic Entertainment'],1370,169,89,1840,0
+249,39510,Gothic II: Gold Edition,2005-11-29,['Piranha Bytes'],14072,974,92,10715,Gothic,65540,Gothic 1,2001-03-15,['Piranha Bytes'],14162,1209,91,11058,4
+250,1547000,Grand Theft Auto: San Andreas – The Definitive Edition,2023-01-19,['Rockstar Games'],5902,1910,76,7593,Grand Theft Auto,12210,Grand Theft Auto IV: The Complete Edition,2020-03-24,"['Rockstar North', 'Rockstar Toronto']",140665,30213,82,149489,3
+251,1546990,Grand Theft Auto: Vice City – The Definitive Edition,2023-01-19,['Rockstar Games'],3621,954,79,4433,Grand Theft Auto,12210,Grand Theft Auto IV: The Complete Edition,2020-03-24,"['Rockstar North', 'Rockstar Toronto']",140665,30213,82,149489,3
+252,1205040,Granny: Chapter Two,2019-12-30,['DVloper'],1292,64,95,1278,Granny,962400,Granny,2018-11-20,['DVloper'],4669,356,93,4762,1
+253,1145350,Hades II,2024-05-06,['Supergiant Games'],58314,3170,94,57793,Hades,1145360,Hades,2020-09-17,['Supergiant Games'],271755,4795,98,255511,4
+254,546560,Half-Life: Alyx,2020-03-23,['Valve'],94034,1639,98,83881,Half-Life,320,Half-Life 2: Deathmatch,2004-11-01,['Valve'],12674,1291,90,9455,16
+255,2218750,Halls of Torment,2024-09-24,['Chasing Carrots'],27147,1170,95,27396,Halls of Torment,2316660,Halls of Torment: Prelude,2023-03-09,['Chasing Carrots'],0,0,93,1356,1
+256,324570,Halo: Spartan Strike,2015-04-16,"['343 Industries', 'Vanguard Games']",1223,297,80,1449,Halo,277430,Halo: Spartan Assault,2014-04-04,"['Vanguard Games', '343 Industries']",3652,1005,78,4133,1
+257,976730,Halo: The Master Chief Collection,2019-12-03,"['343 Industries', 'Splash Damage', 'Ruffian Games', 'Bungie', 'Saber Interactive']",219820,18029,92,217360,Halo,277430,Halo: Spartan Assault,2014-04-04,"['Vanguard Games', '343 Industries']",3652,1005,78,4133,5
+258,1538970,Hammerwatch II,2023-08-15,['Crackshell'],1249,766,61,1722,Hammerwatch,239070,Hammerwatch,2013-08-12,['Crackshell'],5751,681,88,3612,10
+259,924140,Hand Simulator: Survival,2019-12-17,['HFM Games'],8586,1357,86,7572,Hand Simulator,657200,Hand Simulator,2017-07-18,['HFM Games'],30628,5856,84,28654,2
+260,2158730,Hand Simulator: Rendezvous,2022-11-01,['Alice Pie'],0,0,87,1449,Hand Simulator,657200,Hand Simulator,2017-07-18,['HFM Games'],30628,5856,84,28654,5
+261,456670,Hand of Fate 2,2017-11-07,['Defiant Development'],4775,877,84,5130,Hand of Fate,266510,Hand of Fate,2015-02-17,['Defiant Development'],9407,1125,89,7893,2
+262,1282410,Hard West 2,2022-08-04,['Ice Code Games'],2232,494,80,2369,Hard West,307670,Hard West,2015-11-18,['CreativeForge Games'],3559,1161,75,3921,7
+263,1444650,Haydee 2,2020-11-23,['Haydee Interactive'],1390,156,89,1443,Haydee,530890,Haydee,2016-09-26,['Haydee Interactive'],5445,972,85,6018,4
+264,747350,Hellblade: Senua's Sacrifice VR Edition,2018-07-31,['Ninja Theory'],1286,226,85,1203,Hellblade,414340,Hellblade: Senua's Sacrifice,2017-08-07,['Ninja Theory'],65458,7140,90,63478,1
+265,1321680,Hello Neighbor 2,2022-12-06,"['Eerie Guest', 'tinyBuild']",2718,805,77,2588,Hello Neighbor,521890,Hello Neighbor,2017-12-08,['Dynamic Pixels'],15173,3086,85,14140,5
+266,346560,Hero of the Kingdom II,2015-02-20,['Lonely Troops'],2286,139,94,1788,Hero of the Kingdom,259550,Hero of the Kingdom,2013-11-14,['Lonely Troops'],4356,295,94,3411,2
+267,772430,Hero of the Kingdom III,2018-08-30,['Lonely Troops'],1126,309,79,1140,Hero of the Kingdom,259550,Hero of the Kingdom,2013-11-14,['Lonely Troops'],4356,295,94,3411,5
+268,619820,Heroes of Hammerwatch II,2025-01-14,['Crackshell'],3349,529,85,3604,Heroes of Hammerwatch,677120,Heroes of Hammerwatch,2018-03-01,['Crackshell'],8016,1118,87,7187,7
+269,1437880,Heroes of the Three Kingdoms 7,2020-11-12,"['USERJOY Technology Co.,Ltd.']",2258,538,80,2662,Heroes of the Three Kingdoms,1437830,Heroes of the Three Kingdoms 2,2020-11-12,"['USERJOY Technology Co.,Ltd.']",1585,106,93,1629,0
+270,247430,Hitman: Contracts,2014-01-21,['Io-Interactive A/S'],2588,391,86,2480,Hitman,203140,Hitman: Absolution™,2012-11-19,['Io-Interactive A/S'],50415,3880,93,41356,2
+271,1220010,Home Behind 2,2022-02-16,['TPP Studio'],6010,883,87,6260,Home Behind,467960,Home Behind,2016-06-02,['TPP Studio'],4998,909,84,4808,6
+272,2334220,Home Sweet Home : Online,2023-06-21,['YGGDRAZIL GROUP PUBLIC COMPANY LIMITED'],0,0,51,1996,Home Sweet Home,617160,Home Sweet Home,2017-09-26,"['YGGDRAZIL GROUP CO.,LTD']",3147,485,87,3020,6
+273,1840080,Homeworld 3,2024-05-13,['Blackbird Interactive'],3082,4540,38,5004,Homeworld,281610,Homeworld: Deserts of Kharak,2016-01-20,['Blackbird Interactive'],6734,1700,79,7376,8
+274,2302660,Homicipher,2024-11-01,"['八名木Games', '斑企画']",5735,219,96,5739,Homicipher,2423320,Homicipher: Demo,2023-05-31,"['八名木Games', '斑企画']",0,0,98,1621,1
+275,274170,Hotline Miami 2: Wrong Number,2015-03-10,['Dennaton Games'],60382,3797,94,55387,Hotline Miami,219150,Hotline Miami,2012-10-23,['Dennaton Games'],100269,2905,97,87594,3
+276,1190970,House Flipper 2,2023-12-14,['Frozen District'],9890,1772,84,10277,House Flipper,613100,House Flipper,2018-05-17,['Empyrean'],88363,5464,94,83335,5
+277,360170,How to Survive 2,2016-09-08,['Eko Software'],7545,3350,69,8571,How to Survive,250400,How to Survive,2014-08-29,['Eko Software'],14045,2955,82,13889,2
+278,930210,HuniePop 2: Double Date,2021-02-08,['HuniePot'],0,0,91,8059,HuniePop,339800,HuniePop,2015-01-19,['HuniePot'],26390,1002,96,24007,6
+279,1286710,Hylics 2,2020-06-22,['Mason Lindroth'],2772,77,97,2528,Hylics,397740,Hylics,2015-10-02,['Mason Lindroth'],6053,106,98,5710,5
+280,1499120,I Expect You To Die 2: The Spy and the Liar,2021-08-24,['Schell Games'],1160,51,96,1095,I Expect You To Die,587430,I Expect You To Die,2017-04-25,['Schell Games'],2484,142,95,2036,4
+281,307960,IL-2 Sturmovik: Battle of Stalingrad,2014-10-22,['1C Game Studios'],7001,1862,79,7736,IL-2 Sturmovik,15320,IL-2 Sturmovik: 1946,2008-06-13,['1C: Maddox Games'],2592,340,89,2435,6
+282,307860,In Verbis Virtus,2015-04-03,['Indomitus Games'],1138,277,78,1452,In Verbis Virtus,242840,In Verbis Virtus,2015-04-03,['Indomitus Games'],1322,349,78,1452,0
+283,581320,Insurgency: Sandstorm,2018-12-12,['New World Interactive'],106426,18763,85,97225,Insurgency,222880,Insurgency,2014-01-22,['New World Interactive'],114683,10271,92,86494,4
+284,1563180,Internet Cafe Simulator 2,2022-01-07,['Cheesecake Dev'],8944,3218,74,11398,Internet Cafe Simulator,1136160,Internet Cafe Simulator,2019-10-25,['Cheesecake Dev'],7163,2645,75,8270,3
+285,2608270,Intravenous 2,2024-08-15,['Explosive Squat Games'],1918,86,95,1839,Intravenous,1486630,Intravenous,2021-07-26,['Explosive Squat Games'],4078,454,91,2425,3
+286,2058180,Judgment,2022-09-14,['Ryu Ga Gotoku Studio'],8772,507,94,7290,Judgment,455980,Judgment: Apocalypse Survival Simulation,2018-05-03,['Suncrash'],1776,416,80,2043,4
+287,1244460,Jurassic World Evolution 2,2021-11-09,['Frontier Developments'],30844,3760,89,28671,Jurassic World Evolution,648350,Jurassic World Evolution,2018-06-11,['Frontier Developments'],46730,6861,87,46978,3
+288,619910,Just Cause™ 3: Multiplayer Mod,2017-07-20,['nanos GbR'],2085,578,78,2663,Just Cause™,225540,Just Cause™ 3,2015-11-30,['Avalanche Studios'],101458,19573,84,98297,2
+289,954850,Kerbal Space Program 2,2023-02-24,['Intercept Games'],8837,19814,31,25140,Kerbal Space Program,220200,Kerbal Space Program,2015-04-27,['Squad'],119550,6081,95,102134,8
+290,1366290,Kill It With Fire: HEATWAVE,2020-07-17,['Casey Donnellan Games LLC'],1995,180,91,2174,Kill It With Fire,1291500,Kill It With Fire: Ignition,2020-04-28,['Casey Donnellan Games LLC'],1511,139,91,1650,0
+291,1179210,Kill It With Fire,2020-08-13,['Casey Donnellan Games LLC'],4596,261,96,3554,Kill It With Fire,1291500,Kill It With Fire: Ignition,2020-04-28,['Casey Donnellan Games LLC'],1511,139,91,1650,0
+292,203350,King's Bounty: Warriors of the North,2012-10-25,['Fulqrum Publishing'],1466,355,77,1114,King's Bounty,63910,King's Bounty: Crossworlds,2010-09-17,['Katauri Interactive'],1296,119,91,1171,2
+293,289520,King's Bounty: Dark Side,2014-08-19,['Fulqrum Publishing'],1278,461,72,1258,King's Bounty,63910,King's Bounty: Crossworlds,2010-09-17,['Katauri Interactive'],1296,119,91,1171,4
+294,1135300,King's Bounty II,2021-08-24,['Fulqrum Games'],3290,1986,62,4249,King's Bounty,63910,King's Bounty: Crossworlds,2010-09-17,['Katauri Interactive'],1296,119,91,1171,11
+295,496300,Kingdom: New Lands,2016-08-09,['Noio'],9989,1631,86,9504,Kingdom,368230,Kingdom: Classic,2015-10-21,"['Noio', 'Licorice']",19884,2047,90,21929,1
+296,1771300,Kingdom Come: Deliverance II,2025-02-04,['Warhorse Studios'],70637,4776,93,58046,Kingdom Come,379430,Kingdom Come: Deliverance,2018-02-13,['Warhorse Studios'],129909,24953,83,118635,7
+297,313690,LEGO® Batman™ 3: Beyond Gotham,2014-11-11,['TT Games Ltd'],7620,924,89,6030,LEGO® Batman™,213330,LEGO® Batman™ 2: DC Super Heroes,2012-06-22,['TT Games'],6706,410,94,5538,2
+298,1029890,Layers of Fear 2 (2019),2019-05-28,['Bloober Team SA'],1656,650,71,1916,Layers of Fear,391720,Layers of Fear (2016),2016-02-15,['Bloober Team SA'],23494,3018,90,12175,3
+299,1946700,Layers of Fear,2023-06-15,"['Anshar Studios', 'Bloober Team']",1056,265,80,1077,Layers of Fear,391720,Layers of Fear (2016),2016-02-15,['Bloober Team SA'],23494,3018,90,12175,7
+300,251730,Legend of Grimrock 2,2014-10-15,['Almost Human Games'],3415,337,91,2800,Legend of Grimrock,207170,Legend of Grimrock,2012-04-11,['Almost Human Games'],5939,397,93,4525,2
+301,978520,Legend of Keepers: Career of a Dungeon Manager,2021-04-29,['Goblinz Studio'],3554,950,79,3778,Legend of Keepers,1151080,Legend of Keepers: Prologue,2019-10-10,['Goblinz Studio'],2185,181,92,2366,2
+302,1456940,Level Zero: Extraction,2025-01-29,['Doghowl Games'],1550,1214,56,2301,Level Zero,2163090,Level Zero: Extraction - Closed Beta,2024-07-26,[],0,0,56,2301,1
+303,496460,Life is Feudal: Forest Village,2017-05-26,['Mindillusion'],3879,1975,65,5104,Life is Feudal,290080,Life is Feudal: Your Own,2015-11-17,['Bitbox Ltd.'],7899,4070,65,8738,2
+304,700030,Life is Feudal: MMO,2018-01-12,['LTG'],2960,4301,40,7264,Life is Feudal,290080,Life is Feudal: Your Own,2015-11-17,['Bitbox Ltd.'],7899,4070,65,8738,3
+305,532210,Life is Strange 2,2018-09-26,"['DONTNOD Entertainment', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",30878,4968,84,20400,Life is Strange,554620,Life is Strange: Before the Storm,2017-08-31,"['Deck Nine', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",34694,2509,93,32902,1
+306,936790,Life is Strange: True Colors,2021-09-09,['Deck Nine'],13610,1679,88,11301,Life is Strange,554620,Life is Strange: Before the Storm,2017-08-31,"['Deck Nine', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",34694,2509,93,32902,4
+307,1265920,Life is Strange Remastered,2022-02-01,['Deck Nine'],4837,638,87,4527,Life is Strange,554620,Life is Strange: Before the Storm,2017-08-31,"['Deck Nine', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",34694,2509,93,32902,5
+308,1265930,Life is Strange: Before the Storm Remastered,2022-02-01,['Deck Nine'],2008,489,80,2058,Life is Strange,554620,Life is Strange: Before the Storm,2017-08-31,"['Deck Nine', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",34694,2509,93,32902,5
+309,1874000,Life is Strange: Double Exposure,2024-10-29,['Deck Nine Games'],4777,2095,68,5349,Life is Strange,554620,Life is Strange: Before the Storm,2017-08-31,"['Deck Nine', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",34694,2509,93,32902,7
+310,3061810,Like a Dragon: Pirate Yakuza in Hawaii,2025-02-20,['Ryu Ga Gotoku Studio'],4296,399,91,3392,Like a Dragon,1805480,Like a Dragon: Ishin!,2023-02-21,['Ryu Ga Gotoku Studio'],4385,896,82,4007,2
+311,860510,Little Nightmares II,2021-02-10,['Tarsier Studios'],38901,2428,93,34810,Little Nightmares,424840,Little Nightmares,2017-04-27,['Tarsier Studios'],102595,5641,94,47225,4
+312,1801650,Lost: Find,2021-12-03,['DSGame'],1774,242,88,1952,Lost,1126290,Lost,2019-09-30,['DSGame'],6234,1465,80,7460,2
+313,435030,Lost Lands: Mahjong,2016-03-14,['FIVE-BN GAMES'],4828,444,91,5275,Lost Lands,392950,Lost Lands: A Hidden Object Adventure,2015-09-24,['FIVE-BN GAMES'],4966,678,87,5646,1
+314,1508680,Love n War: Warlord by Chance,2021-05-28,['Reborn Entertainment'],1140,178,86,1260,Love n War,1433420,Love n War: Hero by Chance,2021-01-08,['Reborn Entertainment'],923,247,78,1072,0
+315,296830,Lucius II,2015-02-13,['Shiver Games'],1372,853,61,1802,Lucius,218640,Lucius,2012-10-26,['Shiver Games'],8457,1967,80,7341,3
+316,1401680,Lust from Beyond: Scarlet,2020-10-15,['Movie Games Lunarium'],0,0,82,1431,Lust from Beyond,1170820,Lust from Beyond: Prologue,2019-10-31,['Movie Games Lunarium'],0,0,87,1516,1
+317,1035120,Lust from Beyond,2021-03-11,['Movie Games Lunarium'],0,0,81,3777,Lust from Beyond,1170820,Lust from Beyond: Prologue,2019-10-31,['Movie Games Lunarium'],0,0,87,1516,2
+318,287700,METAL GEAR SOLID V: THE PHANTOM PAIN,2015-09-01,['KONAMI'],90003,8160,91,65758,METAL GEAR SOLID,311340,METAL GEAR SOLID V: GROUND ZEROES,2014-12-18,['KONAMI'],14071,2651,83,12438,1
+319,2131640,METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version,2023-10-24,['KONAMI'],1820,324,86,1583,METAL GEAR SOLID,311340,METAL GEAR SOLID V: GROUND ZEROES,2014-12-18,['KONAMI'],14071,2651,83,12438,9
+320,2131650,METAL GEAR SOLID 3: Snake Eater - Master Collection Version,2023-10-24,['KONAMI'],3684,649,85,3333,METAL GEAR SOLID,311340,METAL GEAR SOLID V: GROUND ZEROES,2014-12-18,['KONAMI'],14071,2651,83,12438,9
+321,312610,METAL SLUG X,2014-10-02,"['SNK CORPORATION', 'Dotemu']",3086,411,88,2765,METAL SLUG,250180,METAL SLUG 3,2014-02-14,"['SNK CORPORATION', 'Dotemu']",7642,871,90,6390,0
+322,366250,METAL SLUG,2015-06-25,['Dotemu'],3877,465,90,3685,METAL SLUG,250180,METAL SLUG 3,2014-02-14,"['SNK CORPORATION', 'Dotemu']",7642,871,90,6390,1
+323,1058450,MY HERO ONE'S JUSTICE 2,2020-03-12,['BYKING'],3127,430,88,2835,MY HERO ONE'S JUSTICE,748360,MY HERO ONE'S JUSTICE,2018-10-25,['Byking Inc.'],1578,519,75,1603,2
+324,1342330,Mad Games Tycoon 2,2023-05-31,['Eggcode'],6455,412,94,6506,Mad Games Tycoon,341000,Mad Games Tycoon,2016-09-13,['Eggcode'],3986,404,91,3679,7
+325,1760250,Madden NFL 23,2022-08-18,['Tiburon'],3220,3013,54,4793,Madden NFL,1519350,Madden NFL 22,2021-08-19,['Tiburon'],3863,3403,58,5462,1
+326,2140330,Madden NFL 24,2023-08-17,['Tiburon'],3958,4607,47,7287,Madden NFL,1519350,Madden NFL 22,2021-08-19,['Tiburon'],3863,3403,58,5462,2
+327,360430,Mafia III: Definitive Edition,2020-05-19,"['Hangar 13', 'Aspyr (Mac)']",31456,23262,57,33735,Mafia,40990,Mafia,2002-08-28,['Illusion Softworks'],13116,1862,90,8150,18
+328,1030830,Mafia II: Definitive Edition,2020-05-19,"['Hangar 13', 'D3T']",20561,7903,72,20659,Mafia,40990,Mafia,2002-08-28,['Illusion Softworks'],13116,1862,90,8150,18
+329,1030840,Mafia: Definitive Edition,2020-09-24,['Hangar 13'],75235,11178,86,69056,Mafia,40990,Mafia,2002-08-28,['Illusion Softworks'],13116,1862,90,8150,18
+330,50130,Mafia II (Classic),2025-02-25,['2K Czech'],51181,2994,93,33245,Mafia,40990,Mafia,2002-08-28,['Illusion Softworks'],13116,1862,90,8150,23
+331,238370,Magicka 2,2015-05-26,['Pieces Interactive'],10925,2296,82,9009,Magicka,42910,Magicka,2011-01-25,['Arrowhead Game Studios'],26886,4234,86,18497,4
+332,1434480,Maitetsu:Last Run!!,2020-10-30,['Lose'],4421,78,98,3914,Maitetsu,880950,Maitetsu:Pure Station,2018-09-21,['Lose'],3450,120,96,3098,2
+333,298050,Master of Orion,2016-08-25,['NGD Studios'],6028,1833,76,7036,Master of Orion,410980,Master of Orion 2,2016-02-25,['SimTex'],1463,53,96,1436,0
+334,2000890,MechWarrior 5: Clans,2024-10-16,['Piranha Games Inc.'],3065,1043,74,3977,MechWarrior,784080,MechWarrior 5: Mercenaries,2021-05-26,['Piranha Games Inc.'],10472,1916,84,10291,3
+335,47830,Medal of Honor™,2010-10-12,['Electronic Arts'],3382,1403,81,5805,Medal of Honor™,47790,Medal of Honor™,2010-10-12,['Electronic Arts'],7416,2392,81,5805,0
+336,1402320,Medal of Honor™: Above and Beyond,2020-12-10,['Respawn Entertainment'],1534,926,64,2293,Medal of Honor™,47790,Medal of Honor™,2010-10-12,['Electronic Arts'],7416,2392,81,5805,10
+337,495050,Mega Man Legacy Collection 2,2017-08-08,"['CAPCOM CO., LTD']",1246,233,84,1275,Mega Man Legacy Collection,363440,Mega Man Legacy Collection,2015-08-24,['Capcom'],4049,673,87,3362,2
+338,743890,Mega Man X Legacy Collection,2018-07-24,"['CAPCOM CO., LTD']",3153,927,78,3376,Mega Man X Legacy Collection,743900,Mega Man X Legacy Collection 2,2018-07-24,"['CAPCOM CO., LTD']",1550,477,77,1705,0
+339,63940,Men of War: Vietnam,2011-09-08,['Fulqrum Publishing'],789,431,64,1017,Men of War,64000,Men of War: Assault Squad,2011-02-24,['Digitalmindsoft'],4288,591,87,3785,0
+340,244450,Men of War: Assault Squad 2,2014-05-15,['Digitalmindsoft'],39910,3815,91,33610,Men of War,64000,Men of War: Assault Squad,2011-02-24,['Digitalmindsoft'],4288,591,87,3785,3
+341,562040,Men of War: Assault Squad 2,2014-05-15,['Digitalmindsoft'],0,0,91,33595,Men of War,64000,Men of War: Assault Squad,2011-02-24,['Digitalmindsoft'],4288,591,87,3785,3
+342,1135240,Men of War: Assault Squad 2 - Cold War,2019-09-12,['Digitalmindsoft'],314,886,26,1072,Men of War,64000,Men of War: Assault Squad,2011-02-24,['Digitalmindsoft'],4288,591,87,3785,8
+343,1128860,Men of War II,2024-05-15,['Best Way'],3744,2177,62,4511,Men of War,64000,Men of War: Assault Squad,2011-02-24,['Digitalmindsoft'],4288,591,87,3785,13
+344,412020,Metro Exodus,2020-02-14,['4A Games'],106111,12162,89,102923,Metro Exodus,1449560,Metro Exodus,2020-02-14,['4A Games'],0,0,89,102923,0
+345,2537590,Microsoft Flight Simulator 2024,2024-11-19,['Asobo Studio'],5377,6491,45,11712,Microsoft Flight Simulator,314160,Microsoft Flight Simulator X: Steam Edition,2014-12-18,['Microsoft Game Studios'],21963,3469,85,22298,10
+346,356190,Middle-earth™: Shadow of War™,2017-10-09,['Monolith Productions'],92895,11984,88,78910,Middle-earth™,241930,Middle-earth™: Shadow of Mordor™,2014-09-30,['Monolith Productions'],82459,6786,92,58093,3
+347,639170,Minecraft: Story Mode - Season Two,2017-07-11,['Telltale Games'],1417,129,91,1546,Minecraft,376870,Minecraft: Story Mode - A Telltale Games Series,2015-10-13,['Telltale Games'],6319,1882,77,8202,2
+348,1832640,Mirror 2: Project X,2022-01-20,['KAGAMI Ⅱ WORKs'],28870,88129,24,112561,Mirror,644560,Mirror,2018-04-19,['KAGAMI WORKS'],80419,2554,96,73742,4
+349,2022180,Miss Neko 3,2022-12-18,['Double W'],4055,308,92,4083,Miss Neko,1203420,Miss Neko 2,2021-12-17,['Double W'],2465,225,91,2494,1
+350,2695270,Miss Neko: Pirates,2024-03-22,['Orangeee'],989,191,83,1091,Miss Neko,1203420,Miss Neko 2,2021-12-17,['Double W'],2465,225,91,2494,3
+351,1578220,Mister Furry: Hot Muscles,2024-05-31,"['Red Six Development', 'Male Union']",1783,131,92,1216,Mister Furry,1861970,Mister Furry,2022-12-16,['Red Six Development'],0,0,91,1648,2
+352,428550,Momodora: Reverie Under The Moonlight,2016-03-04,['Bombservice'],10423,724,93,9802,Momodora,302790,Momodora III,2014-07-01,['rdein'],1304,83,93,1201,2
+353,1747760,Momodora: Moonlit Farewell,2024-01-11,['Bombservice'],2426,202,92,2455,Momodora,302790,Momodora III,2014-07-01,['rdein'],1304,83,93,1201,10
+354,1140270,Monster Prom 2: Monster Camp,2020-10-23,['Beautiful Glitch'],5670,194,97,4787,Monster Prom,743450,Monster Prom,2018-04-27,['Beautiful Glitch'],12818,919,93,11753,2
+355,1665190,Monster Prom 3: Monster Roadtrip,2022-10-21,['Beautiful Glitch'],2927,60,98,2605,Monster Prom,743450,Monster Prom,2018-04-27,['Beautiful Glitch'],12818,919,93,11753,4
+356,1927720,Monument Valley: Panoramic Edition,2022-07-12,['ustwo games'],5401,84,98,4706,Monument Valley,1927740,Monument Valley 2: Panoramic Edition,2022-07-12,['ustwo games'],2438,175,93,2168,0
+357,976310,Mortal Kombat 11,2019-04-23,"['NetherRealm Studios', 'QLOC', 'Shiver']",91475,12312,88,77834,Mortal Kombat,307780,Mortal Kombat X,2015-04-13,"['NetherRealm Studios', 'QLOC']",47128,8155,87,35419,4
+358,1971870,Mortal Kombat 1,2023-09-19,"['NetherRealm Studios', 'QLOC']",23527,10614,71,22266,Mortal Kombat,307780,Mortal Kombat X,2015-04-13,"['NetherRealm Studios', 'QLOC']",47128,8155,87,35419,8
+359,1170950,Mortal Online 2,2022-01-25,['Star Vault AB'],7759,4993,60,10150,Mortal Online,287920,Mortal Online,2015-08-31,['Star Vault AB'],1542,1411,52,2954,7
+360,1299120,Mosaique Neko Waifus 2,2020-06-05,['Lil Hentai Games'],2684,134,95,2552,Mosaique Neko Waifus,1192640,Mosaique Neko Waifus,2020-01-27,['Lil Hentai Games'],1703,165,92,2325,0
+361,1385730,Mosaique Neko Waifus 3,2020-08-27,['Lil Hentai Games'],1930,114,94,1817,Mosaique Neko Waifus,1192640,Mosaique Neko Waifus,2020-01-27,['Lil Hentai Games'],1703,165,92,2325,0
+362,1504020,Mosaique Neko Waifus 4,2021-02-12,['Lil Hentai Games'],4587,240,94,4319,Mosaique Neko Waifus,1192640,Mosaique Neko Waifus,2020-01-27,['Lil Hentai Games'],1703,165,92,2325,1
+363,2165610,Mosaique Neko Waifus 5,2022-10-26,['Lil Hentai Games'],1317,81,93,1260,Mosaique Neko Waifus,1192640,Mosaique Neko Waifus,2020-01-27,['Lil Hentai Games'],1703,165,92,2325,2
+364,48720,Mount & Blade: With Fire & Sword,2011-05-03,['TaleWorlds Entertainment'],11889,1604,87,10782,Mount & Blade,48700,Mount & Blade: Warband,2010-03-31,['TaleWorlds Entertainment'],161503,3750,97,130020,1
+365,261550,Mount & Blade II: Bannerlord,2022-10-25,['TaleWorlds Entertainment'],228586,31683,87,202175,Mount & Blade,48700,Mount & Blade: Warband,2010-03-31,['TaleWorlds Entertainment'],161503,3750,97,130020,12
+366,761830,Mr. Prepper,2021-03-18,['Rejected Games'],3872,908,82,4235,Mr. Prepper,1340530,Mr. Prepper: Prologue,2020-08-27,['Rejected Games'],2106,426,83,2533,1
+367,272510,NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution,2014-09-15,"['CyberConnect2 Co., Ltd.']",7303,1358,84,6952,NARUTO SHIPPUDEN,234670,NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,2013-10-24,['CyberConnect2 Co. Ltd.'],12420,1427,89,10294,1
+368,349040,NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,2016-02-04,['CyberConnect2 Co. Ltd.'],79878,7927,90,70057,NARUTO SHIPPUDEN,234670,NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,2013-10-24,['CyberConnect2 Co. Ltd.'],12420,1427,89,10294,3
+369,543870,NARUTO SHIPPUDEN: Ultimate Ninja STORM 2,2017-08-25,['CyberConnect2 Co. Ltd.'],3325,422,88,3081,NARUTO SHIPPUDEN,234670,NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,2013-10-24,['CyberConnect2 Co. Ltd.'],12420,1427,89,10294,4
+370,385800,NEKOPARA Vol. 0,2015-08-17,['NEKO WORKs'],16412,1070,94,14425,NEKOPARA Vol.,333600,NEKOPARA Vol. 1,2014-12-29,['NEKO WORKs'],25570,1280,95,22899,1
+371,420110,NEKOPARA Vol. 2,2016-02-19,['NEKO WORKs'],12189,367,97,10820,NEKOPARA Vol.,333600,NEKOPARA Vol. 1,2014-12-29,['NEKO WORKs'],25570,1280,95,22899,2
+372,602520,NEKOPARA Vol. 3,2017-05-25,['NEKO WORKs'],11507,355,97,11045,NEKOPARA Vol.,333600,NEKOPARA Vol. 1,2014-12-29,['NEKO WORKs'],25570,1280,95,22899,3
+373,1406990,NEKOPARA Vol. 4,2020-11-26,['NEKO WORKs'],8343,225,97,8017,NEKOPARA Vol.,333600,NEKOPARA Vol. 1,2014-12-29,['NEKO WORKs'],25570,1280,95,22899,6
+374,1336980,NOBUNAGA'S AMBITION: Awakening,2022-07-20,"['KOEI TECMO GAMES CO., LTD.']",1662,585,74,1940,NOBUNAGA'S AMBITION,292990,NOBUNAGA'S AMBITION: Souzou,2014-08-27,"['KOEI TECMO GAMES CO., LTD.']",1001,160,85,1032,8
+375,2614070,NUKITASHI 2,2024-02-15,['Qruppo'],1719,18,98,1663,NUKITASHI,2399220,NUKITASHI,2023-06-23,['Qruppo'],1890,72,96,1842,1
+376,1222370,Necromunda: Hired Gun,2021-05-31,['Streum On Studio'],4802,2486,68,5352,Necromunda,566440,Necromunda: Underhive Wars,2020-09-07,['Rogue Factor'],1605,1244,57,2585,1
+377,2277320,Necrosmith 2,2024-03-27,['Alawar'],864,237,78,1001,Necrosmith,1949190,Necrosmith,2022-07-13,['Alawar'],4339,707,86,4612,2
+378,1196630,Nexomon: Extinction,2020-08-28,['VEWO Interactive Inc.'],2747,244,92,2765,Nexomon,1191580,Nexomon,2020-07-10,['VEWO Interactive Inc.'],1428,172,89,1526,0
+379,292000,No More Room in Hell 2,2024-10-22,['Torn Banner Studios'],3759,4383,45,7267,No More Room in Hell,224260,No More Room in Hell,2013-10-31,['No More Room in Hell Team'],66186,7438,89,73664,11
+380,742250,OPUS: Rocket of Whispers,2018-02-07,['SIGONO INC.'],1434,118,93,1273,OPUS,457680,OPUS: The Day We Found Earth,2016-04-22,['SIGONO INC.'],1340,194,87,1222,2
+381,1504500,OPUS: Echo of Starsong - Full Bloom Edition,2021-08-31,['SIGONO INC.'],8334,304,96,7999,OPUS,457680,OPUS: The Day We Found Earth,2016-04-22,['SIGONO INC.'],1340,194,87,1222,5
+382,758690,Occupy Mars: The Game,2023-05-10,['▲ Pyramid Games'],1704,617,72,1996,Occupy Mars,1310520,Occupy Mars: Prologue (2020),2020-08-20,['▲ Pyramid Games'],1215,344,77,1560,3
+383,611980,Oik 2,2017-03-28,['Crew Lab'],1233,88,93,1234,Oik,588970,Oik,2017-02-14,['Crew Lab'],1501,171,89,1571,0
+384,980300,One Finger Death Punch 2,2019-04-15,['Silver Dollar Games'],4225,158,96,3623,One Finger Death Punch,264200,One Finger Death Punch,2014-03-03,['Silver Dollar Games'],15934,338,98,12500,5
+385,2915460,OneShot: World Machine Edition,2024-09-30,['Future Cat LLC'],2179,29,98,2084,OneShot,420530,OneShot,2016-12-08,['Future Cat LLC'],49762,878,98,46183,8
+386,1335790,Operation: Tango,2021-06-01,['Clever Plays'],6875,979,87,6341,Operation,1377150,Operation: Tango - Friend Pass,2020-08-28,['Clever Plays'],1756,287,85,2046,1
+387,736590,Operation: Harsh Doorstop,2023-02-15,['Drakeling Labs'],13585,4084,76,17744,Operation,1377150,Operation: Tango - Friend Pass,2020-08-28,['Clever Plays'],1756,287,85,2046,3
+388,201790,Orcs Must Die! 2,2012-07-30,['Robot Entertainment'],17838,1347,92,12613,Orcs Must Die!,102600,Orcs Must Die!,2011-10-11,['Robot Entertainment'],7761,321,95,6305,1
+389,1522820,Orcs Must Die! 3,2021-07-23,['Robot Entertainment'],11898,2003,84,10165,Orcs Must Die!,102600,Orcs Must Die!,2011-10-11,['Robot Entertainment'],7761,321,95,6305,10
+390,387290,Ori and the Blind Forest: Definitive Edition,2016-04-27,['Moon Studios GmbH'],62633,3076,95,57747,Ori and the Blind Forest,261570,Ori and the Blind Forest,2015-03-10,['Moon Studios GmbH'],53584,3121,94,48043,1
+391,633060,Orwell: Ignorance is Strength,2018-02-22,['Osmotic Studios'],1314,416,76,1356,Orwell,491950,Orwell: Keeping an Eye On You,2016-10-27,['Osmotic Studios'],13369,1380,90,8327,2
+392,414700,Outlast 2,2017-04-24,['Red Barrels'],49594,4718,91,45691,Outlast,238320,Outlast,2013-09-04,['Red Barrels'],119498,4394,96,91307,4
+393,2237970,Outpath,2023-10-16,['David Moralejo Sánchez'],2350,131,94,2317,Outpath,2237980,Outpath: First Journey,2022-12-17,['David Moralejo Sánchez'],0,0,97,4727,1
+394,1272080,PAYDAY 3,2023-09-21,['Starbreeze Studios'],24723,32781,42,43249,PAYDAY,218620,PAYDAY 2,2013-08-13,['OVERKILL - a Starbreeze Studio.'],593403,68733,90,434886,10
+395,1509960,PICO PARK,2021-05-07,['TECOPARK'],25467,2583,91,22256,PICO PARK,461040,PICO PARK:Classic Edition,2016-04-27,['TECOPARK'],1072,411,72,1495,5
+396,2644470,PICO PARK 2,2024-09-12,"['TECOPARK', 'Gemdrops, Inc.']",2687,306,89,2571,PICO PARK,461040,PICO PARK:Classic Edition,2016-04-27,['TECOPARK'],1072,411,72,1495,8
+397,223470,POSTAL 2,2012-11-02,['Running With Scissors'],108789,3579,96,95816,POSTAL,232770,POSTAL,1997-11-14,['Running With Scissors'],9487,961,90,10472,15
+398,707030,POSTAL 4: No Regerts,2022-04-20,['Running With Scissors'],8192,3409,72,9559,POSTAL,232770,POSTAL,1997-11-14,['Running With Scissors'],9487,961,90,10472,25
+399,1359980,POSTAL: Brain Damaged,2022-06-09,"['Hyperstrange', 'CreativeForge Games']",7831,342,96,7176,POSTAL,232770,POSTAL,1997-11-14,['Running With Scissors'],9487,961,90,10472,25
+400,770240,PRO EVOLUTION SOCCER 2019,2018-08-29,['Konami Digital Entertainment'],3245,2671,54,5917,PRO EVOLUTION SOCCER,592580,PRO EVOLUTION SOCCER 2018,2017-09-13,"['Konami Digital Entertainment Co., Ltd.']",2600,1523,60,1371,1
+401,572430,Party Hard 2,2018-10-25,"['Pinokl Games', 'Kverta', 'Hologryph']",2322,612,79,2139,Party Hard,356570,Party Hard,2015-08-25,"['Pinokl Games', 'Kverta']",10199,1120,91,8647,3
+402,1571100,Passpartout 2: The Lost Artist,2023-04-04,['Flamebait Games'],1075,54,95,1013,Passpartout,582550,Passpartout: The Starving Artist,2017-06-06,['Flamebait Games'],5933,788,88,6003,6
+403,2694490,Path of Exile 2,2024-12-06,['Grinding Gear Games'],109452,27055,81,104800,Path of Exile,238960,Path of Exile,2013-10-23,['Grinding Gear Games'],208341,25016,89,233530,11
+404,1184370,Pathfinder: Wrath of the Righteous - Enhanced Edition,2021-09-02,['Owlcat Games'],31168,5895,83,28613,Pathfinder,640820,Pathfinder: Kingmaker — Enhanced Plus Edition,2018-09-25,['Owlcat Games'],25746,7316,77,26394,3
+405,560130,Pillars of Eternity II: Deadfire,2018-05-08,['Obsidian Entertainment'],16395,2232,87,13593,Pillars of Eternity,291650,Pillars of Eternity,2015-03-26,['Obsidian Entertainment'],21449,2857,87,15647,3
+406,2688950,Planet Coaster 2,2024-11-06,['Frontier Developments'],4986,3129,61,7290,Planet Coaster,493340,Planet Coaster,2016-11-17,"['Frontier Developments', 'Aspyr (Mac)']",63446,6075,91,57019,8
+407,997010,Police Simulator: Patrol Officers,2022-11-10,['Aesir Interactive'],14649,4074,79,15394,Police Simulator,461870,Police Simulator: Patrol Duty,2019-06-18,['Bigmoon Entertainment'],2124,1943,52,3861,3
+408,1986760,Police Stories: The Academy,2022-08-02,['HypeTrain Digital'],0,0,91,1407,Police Stories,539470,Police Stories,2019-09-19,['HypeTrain Digital'],7265,1271,85,6997,3
+409,1062160,Poly Bridge 2,2020-05-28,['Dry Cactus'],7300,360,95,7361,Poly Bridge,367450,Poly Bridge,2016-07-12,['Dry Cactus'],15972,1502,91,15736,4
+410,1850160,Poly Bridge 3,2023-05-30,['Dry Cactus'],1442,56,96,1473,Poly Bridge,367450,Poly Bridge,2016-07-12,['Dry Cactus'],15972,1502,91,15736,7
+411,1024650,Port Royale 4,2020-09-25,['Gaming Minds'],1094,792,57,1221,Port Royale,205610,Port Royale 3,2012-05-04,['Gaming Minds Studios'],1071,391,72,1110,8
+412,321360,Primal Carnage: Extinction,2015-04-03,"['Circle Five Studios', 'Pub Games']",7613,1536,84,7601,Primal Carnage,215470,Primal Carnage,2012-10-29,['Lukewarm Media'],4473,1361,77,4814,3
+413,1161590,Punch Club 2: Fast Forward,2023-07-20,['Lazy Bear Games'],3024,612,82,3030,Punch Club,394310,Punch Club,2016-01-08,['Lazy Bear Games'],11807,2852,82,11185,7
+414,2333480,RAID: Shadow Legends,2024-01-09,['Plarium Global Ltd'],0,0,60,1785,RAID,414740,RAID: World War II,2017-09-26,['Lion game Lion'],1641,991,63,2219,7
+415,759740,RIDE 3,2018-11-30,['Milestone S.r.l.'],4690,958,83,4399,RIDE,345660,RIDE,2015-03-27,['Milestone S.r.l.'],1873,485,79,1990,3
+416,1259980,RIDE 4,2020-10-08,['Milestone S.r.l.'],9481,2029,83,9135,RIDE,345660,RIDE,2015-03-27,['Milestone S.r.l.'],1873,485,79,1990,5
+417,1650010,RIDE 5,2023-08-24,['Milestone S.r.l.'],1499,409,78,1546,RIDE,345660,RIDE,2015-03-27,['Milestone S.r.l.'],1873,485,79,1990,8
+418,215100,Ragnarok Online,2013-10-31,['Gravity Interactive'],1623,628,72,2250,Ragnarok Online,231060,Ragnarok Online 2,2013-05-01,"['Gravity, Inc.']",1846,1331,58,3176,0
+419,1644320,Railway Empire 2,2023-05-25,['Gaming Minds Studios'],1478,563,73,1487,Railway Empire,503940,Railway Empire,2018-01-26,['Gaming Minds Studios'],7731,1610,82,6965,5
+420,1517960,Rebirth:Beware of Mr.Wang,2021-09-30,['DSGame'],1367,695,66,1994,Rebirth,1394800,Rebirth:Mr Wang,2020-10-03,['DSGame'],1536,395,81,3014,1
+421,1129310,Receiver 2,2020-04-14,['Wolfire Games'],2419,236,91,2457,Receiver,234190,Receiver,2013-04-29,['Wolfire Games'],3292,835,86,2529,7
+422,2668510,Red Dead Redemption,2024-10-29,"['Rockstar Games', 'Double Eleven']",8257,633,92,8295,Red Dead Redemption,1174180,Red Dead Redemption 2,2019-12-05,['Rockstar Games'],639084,54998,92,640849,5
+423,717640,Reigns: Her Majesty,2017-12-06,"['Nerial', 'Synaptic Insight Technology Systems']",1041,210,83,1085,Reigns,474750,Reigns,2016-08-11,['Nerial'],6888,993,87,7297,1
+424,221040,Resident Evil 6,2013-03-21,['Capcom'],41968,11420,79,38349,Resident Evil,21690,Resident Evil 5,2009-09-15,['Capcom'],41201,6151,87,33819,4
+425,254700,Resident Evil 4 (2005),2014-02-27,['Capcom'],74898,5407,93,63722,Resident Evil,21690,Resident Evil 5,2009-09-15,['Capcom'],41201,6151,87,33819,5
+426,304240,Resident Evil,2015-01-19,"['CAPCOM Co., Ltd.']",23949,2115,91,19390,Resident Evil,21690,Resident Evil 5,2009-09-15,['Capcom'],41201,6151,87,33819,6
+427,339340,Resident Evil 0,2016-01-19,"['CAPCOM Co., Ltd.']",10722,2433,82,9460,Resident Evil,21690,Resident Evil 5,2009-09-15,['Capcom'],41201,6151,87,33819,7
+428,883710,Resident Evil 2,2019-01-24,"['CAPCOM Co., Ltd.']",163665,5096,97,115176,Resident Evil,21690,Resident Evil 5,2009-09-15,['Capcom'],41201,6151,87,33819,10
+429,952060,Resident Evil 3,2020-04-02,"['CAPCOM Co., Ltd.']",72714,16483,82,60009,Resident Evil,21690,Resident Evil 5,2009-09-15,['Capcom'],41201,6151,87,33819,11
+430,2050650,Resident Evil 4,2023-03-23,"['CAPCOM Co., Ltd.']",167309,3984,97,110334,Resident Evil,21690,Resident Evil 5,2009-09-15,['Capcom'],41201,6151,87,33819,14
+431,287290,Resident Evil Revelations 2,2015-02-24,"['CAPCOM Co., Ltd.']",22039,6221,78,22470,Resident Evil Revelations,222480,Resident Evil Revelations,2013-05-20,['Capcom'],12004,2927,82,9235,2
+432,1875060,Reus 2,2024-05-28,['Abbey Games'],1730,84,95,1695,Reus,222730,Reus,2013-05-16,['Abbey Games'],4542,1254,78,4704,11
+433,40390,Risen 2: Dark Waters,2012-04-26,['Piranha Bytes'],5002,1263,80,3149,Risen,40300,Risen,2009-10-02,"['Piranha Bytes', 'THQ Nordic']",8588,1091,89,6992,3
+434,632360,Risk of Rain 2,2020-08-11,['Hopoo Games'],286416,20064,93,207592,Risk of Rain,248820,Risk of Rain (2013),2013-11-08,['Hopoo Games'],27622,1956,93,20506,7
+435,2217000,Rivals of Aether II,2024-10-23,['Aether Studios'],5556,1104,81,4601,Rivals of Aether,383980,Rivals of Aether,2017-03-28,['Aether Studios'],33876,1475,96,30959,7
+436,1712350,Riven,2024-06-25,['Cyan Worlds Inc'],2101,147,93,2185,Riven,63610,Riven (1997),2010-08-04,['Cyan Worlds Inc'],1155,144,88,1207,14
+437,1920480,River City Girls 2,2022-12-14,['WayForward'],1389,242,85,1289,River City Girls,1049320,River City Girls,2019-09-05,['WayForward'],2888,550,84,2736,3
+438,1253920,Rogue Legacy 2,2022-04-28,['Cellar Door Games'],13026,1306,90,13516,Rogue Legacy,241600,Rogue Legacy,2013-06-27,['Cellar Door Games'],17088,1342,92,15512,9
+439,285310,RollerCoaster Tycoon®: Deluxe,2014-05-21,['Chris Sawyer Productions'],7150,414,94,6703,RollerCoaster Tycoon®,285330,RollerCoaster Tycoon® 2: Triple Thrill Pack,2014-05-21,['Chris Sawyer Productions'],4784,572,89,4603,0
+440,1368820,RollerCoaster Tycoon® 3: Complete Edition,2020-09-24,"['Frontier Developments', 'Aspyr (Mac)']",2044,298,87,2055,RollerCoaster Tycoon®,285330,RollerCoaster Tycoon® 2: Triple Thrill Pack,2014-05-21,['Chris Sawyer Productions'],4784,572,89,4603,6
+441,3337600,Romance of the Three Kingdoms,2025-01-22,['三国英杰'],0,0,90,1853,Romance of the Three Kingdoms,363150,Romance of the Three Kingdoms XIII,2016-01-27,"['KOEI TECMO GAMES CO., LTD.']",4154,3121,56,5540,9
+442,1643320,S.T.A.L.K.E.R. 2: Heart of Chornobyl,2024-11-20,['GSC Game World'],87284,19945,82,82673,S.T.A.L.K.E.R.,41700,S.T.A.L.K.E.R.: Call of Pripyat,2010-02-11,['GSC Game World'],29102,1344,95,24029,14
+443,1394270,SCP: Escape Together,2021-01-06,['SCP: Escape Together development team'],2313,1248,64,3560,SCP,700330,SCP: Secret Laboratory,2017-12-29,['Northwood Studios'],191921,17852,91,209939,4
+444,1782380,SCP: Containment Breach Multiplayer,2021-10-25,['Fusion Creators Studio'],0,0,84,25673,SCP,700330,SCP: Secret Laboratory,2017-12-29,['Northwood Studios'],191921,17852,91,209939,4
+445,1304510,SCP: Nine-Tailed Fox,2022-02-02,['Third Subdivision Studios'],0,0,75,3485,SCP,700330,SCP: Secret Laboratory,2017-12-29,['Northwood Studios'],191921,17852,91,209939,5
+446,872670,SCP: 5K,2022-02-22,['Affray Interactive'],9403,2383,80,9586,SCP,700330,SCP: Secret Laboratory,2017-12-29,['Northwood Studios'],191921,17852,91,209939,5
+447,1402020,SCP: Labrat,2022-12-24,['Bezbro Games'],3217,685,82,3911,SCP,700330,SCP: Secret Laboratory,2017-12-29,['Northwood Studios'],191921,17852,91,209939,5
+448,1011190,SIMULACRA 2,2020-01-30,['Kaigan Games'],1341,208,88,1271,SIMULACRA,712730,SIMULACRA,2017-10-26,['Kaigan Games OÜ'],3902,400,93,3138,3
+449,1774580,STAR WARS Jedi: Survivor™,2023-04-27,['Respawn'],42661,19752,68,57887,STAR WARS Jedi,1172380,STAR WARS Jedi: Fallen Order™,2019-11-14,['Respawn Entertainment'],137167,17673,88,134245,4
+450,1286830,STAR WARS™: The Old Republic™,2020-07-21,['Broadsword'],59012,6857,89,66013,STAR WARS™,455910,STAR WARS™: Rogue Squadron 3D,2016-03-29,"['Factor 5', 'LucasArts']",922,346,73,1141,4
+451,1222730,STAR WARS™: Squadrons,2020-10-01,['MOTIVE'],17642,9165,67,23791,STAR WARS™,455910,STAR WARS™: Rogue Squadron 3D,2016-03-29,"['Factor 5', 'LucasArts']",922,346,73,1141,4
+452,2446550,STAR WARS™: Battlefront Classic Collection,2024-03-13,['Aspyr'],1712,5863,21,6972,STAR WARS™,455910,STAR WARS™: Rogue Squadron 3D,2016-03-29,"['Factor 5', 'LucasArts']",922,346,73,1141,8
+453,1237980,STAR WARS™ Battlefront,2020-06-11,['DICE'],3979,1087,79,4435,STAR WARS™ Battlefront,1058020,"STAR WARS™ Battlefront (Classic, 2004)",2019-05-01,['Pandemic Studios'],4074,150,96,3821,1
+454,1426010,STASIS: BONE TOTEM,2023-05-31,['THE BROTHERHOOD'],2061,132,94,1698,STASIS,380150,STASIS,2015-08-31,['THE BROTHERHOOD'],1775,394,79,1545,8
+455,825630,STEINS;GATE 0,2018-05-08,['MAGES. Inc.'],6406,244,96,6250,STEINS;GATE,412830,STEINS;GATE,2016-09-08,['MAGES. Inc.'],19592,504,97,18934,2
+456,970560,STEINS;GATE: My Darling's Embrace,2019-12-10,['MAGES. Inc.'],1318,46,96,1299,STEINS;GATE,412830,STEINS;GATE,2016-09-08,['MAGES. Inc.'],19592,504,97,18934,3
+457,1392960,STORY OF SEASONS: Pioneers of Olive Town,2021-09-15,['Marvelous Inc.'],1094,207,83,1214,STORY OF SEASONS,978780,STORY OF SEASONS: Friends of Mineral Town,2020-07-14,['Marvelous Inc.'],4886,323,93,4783,1
+458,985830,SUCCUBUS,2021-10-05,['Madmind Studio'],3682,1091,77,4544,SUCCUBUS,1344350,SUCCUBUS: Prologue,2020-07-24,['Madmind Studio'],4457,976,82,5433,1
+459,690040,SUPERHOT: MIND CONTROL DELETE,2020-07-16,['SUPERHOT Team'],10034,1839,85,8589,SUPERHOT,322500,SUPERHOT,2016-02-25,['SUPERHOT Team'],35002,3372,91,25952,4
+460,984110,SYNTHETIK: Arena,2019-01-21,['Flow Fire Games'],2087,223,90,2310,SYNTHETIK,528230,SYNTHETIK: Legion Rising,2018-03-15,['Flow Fire Games'],11887,736,94,9735,1
+461,1471410,SYNTHETIK 2,2021-11-11,['Flow Fire Games'],1953,368,84,2148,SYNTHETIK,528230,SYNTHETIK: Legion Rising,2018-03-15,['Flow Fire Games'],11887,736,94,9735,3
+462,206420,Saints Row IV: Re-Elected,2013-08-19,['Deep Silver Volition'],67792,9302,87,57089,Saints Row,55230,Saints Row: The Third,2011-11-14,['Volition'],65559,2934,95,47901,2
+463,301910,Saints Row: Gat out of Hell,2015-01-20,"['Deep Silver Volition', 'High Voltage Software']",7167,2359,75,7487,Saints Row,55230,Saints Row: The Third,2011-11-14,['Volition'],65559,2934,95,47901,4
+464,742420,Saints Row,2023-08-24,['Volition'],3644,2683,62,4181,Saints Row,55230,Saints Row: The Third,2011-11-14,['Volition'],65559,2934,95,47901,12
+465,1574900,Salt 2: Shores of Gold,2022-09-20,['Lavaboots Studios'],1112,167,87,1196,Salt,327860,Salt,2018-02-06,['Lavaboots Studios'],1710,526,76,1941,4
+466,421120,Samorost 3,2016-03-24,['Amanita Design'],4485,271,94,3647,Samorost,40720,Samorost 2,2009-12-10,['Amanita Design'],2014,301,87,1893,7
+467,1580970,Samorost 1,2021-05-20,['Amanita Design'],0,0,96,4447,Samorost,40720,Samorost 2,2009-12-10,['Amanita Design'],2014,301,87,1893,12
+468,210770,Sanctum 2,2013-05-15,['Coffee Stain Studios'],12824,1429,92,7346,Sanctum,91600,Sanctum,2011-04-15,['Coffee Stain Studios'],2939,358,90,1936,2
+469,1991040,School Days,2025-01-29,['白雨工作室'],1811,556,80,1655,School Days,3100110,School Days,2024-08-30,['白雨工作室'],0,0,96,2419,1
+470,1566390,Seed of the Dead: Sweet Home,2021-08-27,['TeamKRAMA'],2419,492,83,2830,Seed of the Dead,958480,Seed of the Dead,2018-12-14,['TeamKRAMA'],281,55,79,1001,3
+471,1263370,Seek Girl:Fog Ⅰ,2020-08-28,['DSGame'],3949,721,84,4481,Seek Girl,998930,Seek Girl,2019-03-14,['DSGame'],3956,1128,77,5084,1
+472,204340,Serious Sam 2,2012-01-31,['Croteam'],11133,1289,89,10379,Serious Sam,41070,Serious Sam 3: BFE,2011-11-22,['Croteam'],24314,3203,88,20841,1
+473,257420,Serious Sam 4,2020-09-24,['Croteam'],13182,2622,83,13964,Serious Sam,41070,Serious Sam 3: BFE,2011-11-22,['Croteam'],24314,3203,88,20841,9
+474,41050,Serious Sam Classic: The First Encounter,2019-08-30,['Croteam'],2956,125,96,2683,Serious Sam Classic,41060,Serious Sam Classic: The Second Encounter,2019-08-30,['Croteam'],1736,71,96,1556,0
+475,1579380,Shadow Tactics: Aiko's Choice,2021-12-06,['Mimimi Games'],4040,286,93,3587,Shadow Tactics,418240,Shadow Tactics: Blades of the Shogun,2016-12-06,['Mimimi Games'],35438,1453,96,29604,5
+476,324800,Shadow Warrior 2,2016-10-13,['Flying Wild Hog'],23529,3458,87,23171,Shadow Warrior,233130,Shadow Warrior,2013-09-26,['Flying Wild Hog'],23988,2058,92,15377,3
+477,1036890,Shadow Warrior 3: Definitive Edition,2022-03-01,['Flying Wild Hog'],3430,1584,68,4280,Shadow Warrior,233130,Shadow Warrior,2013-09-26,['Flying Wild Hog'],23988,2058,92,15377,9
+478,849160,Shadow of the Tomb Raider: Definitive Edition,2018-09-14,"['Eidos-Montréal', 'Crystal Dynamics', 'Nixxes', 'Feral Interactive (Mac)', 'Feral interactive (Linux)']",12888,4777,85,61627,Shadow of the Tomb Raider,905320,Shadow of the Tomb Raider: Definitive Edition,2018-09-14,"['Eidos-Montréal', 'Crystal Dynamics', 'Nixxes', 'Feral Interactive (Mac)', 'Feral interactive (Linux)']",13045,4827,85,61629,0
+479,890030,Shadow of the Tomb Raider: Definitive Edition,2018-09-14,"['Eidos-Montréal', 'Crystal Dynamics', 'Nixxes', 'Feral Interactive (Mac)', 'Feral interactive (Linux)']",12819,4747,85,61629,Shadow of the Tomb Raider,905320,Shadow of the Tomb Raider: Definitive Edition,2018-09-14,"['Eidos-Montréal', 'Crystal Dynamics', 'Nixxes', 'Feral Interactive (Mac)', 'Feral interactive (Linux)']",13045,4827,85,61629,0
+480,750920,Shadow of the Tomb Raider: Definitive Edition,2018-09-14,"['Eidos-Montréal', 'Crystal Dynamics', 'Nixxes', 'Feral Interactive (Mac)', 'Feral interactive (Linux)']",65478,12498,85,61638,Shadow of the Tomb Raider,905320,Shadow of the Tomb Raider: Definitive Edition,2018-09-14,"['Eidos-Montréal', 'Crystal Dynamics', 'Nixxes', 'Feral Interactive (Mac)', 'Feral interactive (Linux)']",13045,4827,85,61629,0
+481,849200,Shadow of the Tomb Raider: Definitive Edition,2018-09-14,"['Eidos-Montréal', 'Crystal Dynamics', 'Nixxes', 'Feral Interactive (Mac)', 'Feral interactive (Linux)']",12657,4677,85,61627,Shadow of the Tomb Raider,905320,Shadow of the Tomb Raider: Definitive Edition,2018-09-14,"['Eidos-Montréal', 'Crystal Dynamics', 'Nixxes', 'Feral Interactive (Mac)', 'Feral interactive (Linux)']",13045,4827,85,61629,0
+482,346940,Shadowrun: Hong Kong - Extended Edition,2015-08-20,['Harebrained Schemes'],3997,611,86,3407,Shadowrun,300550,Shadowrun: Dragonfall - Director's Cut,2014-09-18,['Harebrained Schemes'],5607,652,89,5140,1
+483,253840,Shantae: Half-Genie Hero,2016-12-20,['WayForward'],2155,227,90,1939,Shantae,277890,Shantae: Risky's Revenge - Director's Cut,2014-07-15,['WayForward'],1348,227,87,1126,2
+484,275100,Shelter 2,2015-03-09,['Might and Delight'],3567,629,87,3260,Shelter,244710,Shelter,2013-08-28,['Might and Delight'],3116,543,85,2630,2
+485,1905950,Shelter 69,2022-05-16,['JNT Games'],0,0,63,1794,Shelter,244710,Shelter,2013-08-28,['Might and Delight'],3116,543,85,2630,9
+486,1289380,Sheltered 2,2021-09-21,['Unicube'],950,1093,46,1868,Sheltered,356040,Sheltered,2016-03-15,"['Unicube', 'Team 17 Digital Ltd']",4946,1118,81,5184,5
+487,350640,Sherlock Holmes: The Devil's Daughter,2016-06-10,['Frogwares'],10904,2789,80,11320,Sherlock Holmes,241260,Sherlock Holmes: Crimes and Punishments,2014-09-29,['Frogwares'],6368,705,89,6240,2
+488,2201940,Ship Graveyard Simulator 2,2023-08-16,"['Games Incubator', 'Hypnotic Ants']",2087,503,80,2331,Ship Graveyard Simulator,1286880,Ship Graveyard Simulator,2021-11-10,['Games Incubator'],1141,580,66,1614,2
+489,684580,Shoppe Keep 2,2019-04-25,['Strange Fire'],1243,962,57,1514,Shoppe Keep,381120,Shoppe Keep,2016-05-20,['Strange Fire'],1782,1085,68,1999,3
+490,65980,Sid Meier's Civilization®: Beyond Earth™,2014-10-23,"['Firaxis Games', 'Aspyr (Mac)', 'Aspyr (Linux)']",13494,8972,60,13580,Sid Meier's Civilization®,50100,Sid Meier's Civilization® V,2010-09-21,"['Firaxis Games', 'Aspyr (Mac)', 'Aspyr (Linux)']",134711,5726,95,123177,4
+491,1422130,SimRail - The Railway Simulator,2024-12-13,['SimRail S.A.'],3568,678,84,4062,SimRail - The Railway Simulator,1803190,SimRail - The Railway Simulator: Prologue,2021-12-16,['SimRail S.A.'],0,0,80,1194,3
+492,1657630,Slime Rancher 2,2022-09-22,['Monomi Park'],30550,1842,94,28731,Slime Rancher,433340,Slime Rancher,2017-08-01,['Monomi Park'],131769,2760,97,119965,5
+493,247910,Sniper Elite: Nazi Zombie Army 2,2013-10-31,[],0,0,84,2960,Sniper Elite,227100,Sniper Elite: Nazi Zombie Army,2013-02-28,['Rebellion'],4041,536,88,3457,0
+494,238090,Sniper Elite 3,2014-06-27,['Rebellion'],22150,4763,82,20197,Sniper Elite,227100,Sniper Elite: Nazi Zombie Army,2013-02-28,['Rebellion'],4041,536,88,3457,1
+495,312660,Sniper Elite 4,2017-02-13,['Rebellion'],53318,5181,91,50473,Sniper Elite,227100,Sniper Elite: Nazi Zombie Army,2013-02-28,['Rebellion'],4041,536,88,3457,4
+496,1029690,Sniper Elite 5,2022-05-25,['Rebellion'],17460,3574,83,16813,Sniper Elite,227100,Sniper Elite: Nazi Zombie Army,2013-02-28,['Rebellion'],4041,536,88,3457,9
+497,2169200,Sniper Elite: Resistance,2025-01-30,['Rebellion'],1758,813,68,2053,Sniper Elite,227100,Sniper Elite: Nazi Zombie Army,2013-02-28,['Rebellion'],4041,536,88,3457,12
+498,1338770,Sniper Ghost Warrior Contracts 2,2021-06-04,['CI Games'],10326,1922,84,10389,Sniper Ghost Warrior Contracts,973580,Sniper Ghost Warrior Contracts,2019-11-22,['CI Games'],8770,3270,73,9907,2
+499,1777760,Soccer Manager 2022,2021-11-26,['Invincibles Studio Ltd'],0,0,73,2964,Soccer Manager,1448530,Soccer Manager 2021,2020-12-16,['Invincibles Studio Ltd'],1539,532,74,2071,1
+500,3217240,Soccer Manager 2025,2024-10-23,['Invincibles Studio Ltd'],0,0,73,1061,Soccer Manager,1448530,Soccer Manager 2021,2020-12-16,['Invincibles Studio Ltd'],1539,532,74,2071,4
+501,946050,Soda Dungeon 2,2020-07-09,"['AN Productions', 'Poxpower']",5066,302,94,5367,Soda Dungeon,564710,Soda Dungeon,2017-02-06,"['AN Productions', 'Poxpower']",5783,349,94,6132,3
+502,203650,Sonic the Hedgehog 4 - Episode II,2012-05-15,['SEGA'],1500,517,78,1475,Sonic the Hedgehog 4 - Episode,202530,Sonic the Hedgehog 4 - Episode I,2012-01-19,['SEGA'],1366,1992,44,2230,0
+503,488790,South Park™: The Fractured But Whole™,2017-10-16,['Ubisoft San Francisco'],23864,4376,84,27139,South Park™,213670,South Park™: The Stick of Truth™,2014-03-03,['Obsidian Entertainment'],65498,1643,97,54919,3
+504,1133870,Space Engineers 2,2025-01-27,['Keen Software House'],1511,369,78,1672,Space Engineers,244850,Space Engineers,2019-02-28,['Keen Software House'],116320,15085,89,95956,6
+505,298900,Space Hulk: Deathwing,2016-12-14,['Streum On Studio'],3098,2602,54,5700,Space Hulk,242570,Space Hulk,2013-08-15,['Full Control Studios'],1435,591,70,2027,3
+506,816090,Space Hulk: Deathwing Enhanced Edition,2018-05-22,['Streum On Studio'],7105,2703,72,8146,Space Hulk,242570,Space Hulk,2013-08-15,['Full Control Studios'],1435,591,70,2027,5
+507,1629530,Spark the Electric Jester 3,2022-08-14,['Feperd Games'],1769,54,96,1717,Spark the Electric Jester,601810,Spark the Electric Jester,2017-04-10,['Feperd Games'],1233,102,92,1234,5
+508,418530,Spelunky 2,2020-09-29,"['Mossmouth', 'BlitWorks']",18667,1396,93,18132,Spelunky,239350,Spelunky,2013-08-08,['Mossmouth'],14933,1287,92,14249,7
+509,1282150,SpongeBob SquarePants: The Cosmic Shake,2023-01-31,['Purple Lamp'],3247,271,92,2208,SpongeBob SquarePants,969990,SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated,2020-06-23,['Purple Lamp'],15533,974,94,13058,3
+510,577690,Spooky's Jump Scare Mansion: HD Renovation,2017-03-01,['Albino Moose Games'],3162,132,96,3055,Spooky's Jump Scare Mansion,356670,Spooky's Jump Scare Mansion,2015-07-28,['Lag Studios'],13869,1067,92,14935,2
+511,393380,Squad,2020-09-23,['Offworld'],169225,34721,84,151100,Squad,736220,Squad 44,2018-08-09,['Offworld'],18311,6027,79,18120,2
+512,2653940,Star Trek: Resurgence,2024-05-23,['Dramatic Labs'],1684,179,90,1826,Star Trek,1622900,Star Trek: Infinite,2023-10-12,['Nimble Giant Entertainment'],1435,1858,42,2838,1
+513,252450,StarDrive 2,2015-04-09,['Zero Sum Games'],1156,922,55,1913,StarDrive,220660,StarDrive,2013-04-26,['Zero Sum Games'],655,816,43,1241,2
+514,1750770,Starcom: Unknown Space,2024-09-02,"['Wx3 Labs, LLC']",2675,225,92,2898,Starcom,863590,Starcom: Nexus,2019-12-12,"['Wx3 Labs, LLC']",1776,184,90,1916,5
+515,1268750,Starship Troopers: Extermination,2024-10-10,['Offworld'],24758,5837,81,27631,Starship Troopers,1202130,Starship Troopers: Terran Command,2022-06-16,['The Artistocrats'],9248,1307,88,8276,2
+516,329430,State of Decay: YOSE,2015-04-27,['Undead Labs'],9931,2187,82,9619,State of Decay,241540,State of Decay,2013-11-05,['Undead Labs'],14825,2711,84,15350,2
+517,495420,State of Decay 2: Juggernaut Edition,2020-03-13,['Undead Labs'],50576,10467,83,51433,State of Decay,241540,State of Decay,2013-11-05,['Undead Labs'],14825,2711,84,15350,7
+518,571310,SteamWorld Dig 2,2017-09-22,['Image & Form Games'],7070,332,95,4313,SteamWorld Dig,252410,SteamWorld Dig,2013-12-05,['Image & Form Games'],7529,489,94,5670,4
+519,2396240,SteamWorld Heist II,2024-08-08,['Thunderful Development'],1651,78,95,1530,SteamWorld Heist,322190,SteamWorld Heist,2016-06-07,['Image & Form Games'],5573,378,94,3854,8
+520,919640,Steel Division 2,2019-06-20,['Eugen Systems'],7087,1805,79,7469,Steel Division,572410,Steel Division: Normandy 44,2017-05-23,['Eugen Systems'],4606,1582,74,4663,2
+521,625960,Stoneshard,2020-02-06,['Ink Stains Games'],21424,7624,73,27891,Stoneshard,869760,Stoneshard: Prologue,2018-06-05,['Ink Stains Games'],3113,472,86,3588,2
+522,2890830,Streamer Life Simulator 2,2025-01-23,['Cheesecake Dev'],3049,573,83,3658,Streamer Life Simulator,1261040,Streamer Life Simulator,2020-08-21,['Cheesecake Dev'],5657,1641,79,6550,5
+523,2140020,Stronghold: Definitive Edition,2023-11-07,['FireFly Studios'],6941,1136,85,7739,Stronghold,907650,Stronghold: Warlords,2021-03-09,['FireFly Studios'],3184,1717,65,4099,2
+524,355790,Styx: Shards of Darkness,2017-03-14,['Cyanide Studio'],4767,985,84,4040,Styx,242640,Styx: Master of Shadows,2014-10-07,['Cyanide Studio'],8587,1759,83,8470,3
+525,848450,Subnautica: Below Zero,2021-05-13,['Unknown Worlds Entertainment'],86347,8850,90,87359,Subnautica,264710,Subnautica,2018-01-23,['Unknown Worlds Entertainment'],297572,9157,97,276935,3
+526,1293180,SuchArt: Genius Artist Simulator,2022-10-13,['Goose Minded'],4181,114,97,3562,SuchArt,1469280,SuchArt: Creative Space,2021-01-21,['Goose Minded'],6824,140,97,6963,1
+527,2426960,Summoners War,2024-01-07,['Com2uS'],0,0,70,8137,Summoners War,2167580,Summoners War: Chronicles,2022-11-09,['Com2uS'],0,0,77,11724,2
+528,2670630,Supermarket Simulator,2024-02-20,['Nokta Games'],60523,3896,93,61501,Supermarket Simulator,2772560,Supermarket Simulator: Prologue,2024-01-26,['Nokta Games'],0,0,93,3845,0
+529,1054510,Survivalist: Invisible Strain,2020-06-01,['Bob'],2921,401,88,2980,Survivalist,340050,Survivalist,2015-01-30,['Bob'],2014,504,80,2117,5
+530,626690,Sword Art Online: Fatal Bullet,2018-02-23,['DIMPS'],15093,3980,79,15143,Sword Art Online,607890,Sword Art Online: Hollow Realization Deluxe Edition,2017-10-27,['AQURIA'],5971,1565,78,5641,1
+531,840720,Sword Art Online: Lost Song,2018-11-12,['Artdink'],1558,394,80,1686,Sword Art Online,607890,Sword Art Online: Hollow Realization Deluxe Edition,2017-10-27,['AQURIA'],5971,1565,78,5641,1
+532,2371630,Sword Art Online: Integral Factor,2023-08-21,"['Asobimo, Inc.']",0,0,63,1830,Sword Art Online,607890,Sword Art Online: Hollow Realization Deluxe Edition,2017-10-27,['AQURIA'],5971,1565,78,5641,6
+533,1538460,Sword and Fairy 2,2021-04-14,['SOFTSTAR ENTERTAINMENT'],1035,135,88,1083,Sword and Fairy,1546570,Sword and Fairy,2021-04-14,['SOFTSTAR ENTERTAINMENT'],3566,97,97,3493,0
+534,1536070,Sword and Fairy 3,2021-04-14,['SOFTSTAR TECHNOLOGY(SHANGHAI)'],1486,281,83,1662,Sword and Fairy,1546570,Sword and Fairy,2021-04-14,['SOFTSTAR ENTERTAINMENT'],3566,97,97,3493,0
+535,1543030,Sword and Fairy 7,2021-10-21,"['Softstar Technology (Beijing) Co., Ltd']",13128,5011,72,14743,Sword and Fairy,1546570,Sword and Fairy,2021-04-14,['SOFTSTAR ENTERTAINMENT'],3566,97,97,3493,0
+536,46510,Syberia II,2011-05-19,['Microids'],2351,383,87,1520,Syberia,46500,Syberia,2011-05-19,['Microids'],5432,717,89,3525,0
+537,464340,Syberia 3,2017-11-13,['Microids'],2248,2091,51,2932,Syberia,46500,Syberia,2011-05-19,['Microids'],5432,717,89,3525,6
+538,1410640,Syberia: The World Before,2022-03-18,['Microids Studio Paris'],3766,416,89,3394,Syberia,46500,Syberia,2011-05-19,['Microids'],5432,717,89,3525,11
+539,482400,System Shock,2023-05-30,['Nightdive Studios'],9308,873,91,8025,System Shock,410710,System Shock: Enhanced Edition,2015-10-22,"['Looking Glass Studios', 'Nightdive Studios']",1901,223,91,1600,8
+540,915100,System Shock® 2 (Classic),2013-05-10,"['Nightdive Studios', 'Irrational Games', 'Looking Glass Studios']",4396,277,94,6043,System Shock®,238210,System Shock® 2 (Classic),2013-05-10,"['Nightdive Studios', 'Irrational Games', 'Looking Glass Studios']",7107,421,94,6044,0
+541,3070070,TCG Card Shop Simulator,2024-09-15,['OPNeon Games'],36031,954,97,35431,TCG Card Shop Simulator,3103840,TCG Card Shop Simulator: Prologue,2024-08-06,['OPNeon Games'],0,0,95,4566,0
+542,1778820,TEKKEN 8,2024-01-25,['Bandai Namco Studios Inc.'],34382,15553,70,29709,TEKKEN,389730,TEKKEN 7,2017-06-01,['BANDAI NAMCO Studios Inc.'],76466,15620,82,65377,7
+543,1455630,THE GAME OF LIFE 2,2020-12-11,['Marmalade Game Studio Ltd'],2922,757,80,2944,THE GAME OF LIFE,403120,THE GAME OF LIFE,2015-11-03,['Marmalade Game Studio Ltd'],1810,651,74,2001,5
+544,865610,Tails Noir,2021-06-08,['Eggnut'],2033,999,67,2280,Tails Noir,992310,Tails Noir: Prologue,2019-04-24,['EggNut'],4002,131,96,4135,2
+545,1466060,Tainted Grail: The Fall of Avalon,2023-03-30,['Questline'],2907,527,84,3281,Tainted Grail,1199030,Tainted Grail: Conquest,2021-05-27,['Questline'],6765,701,90,6765,2
+546,2996040,Teenage Mutant Ninja Turtles: Splintered Fate,2024-11-06,['Super Evil Megacorp'],1157,269,81,1285,Teenage Mutant Ninja Turtles,1361510,Teenage Mutant Ninja Turtles: Shredder's Revenge,2022-06-16,['Tribute Games Inc.'],12807,768,94,11841,2
+547,2510960,Temtem: Swarm,2024-11-13,"['Crema', 'GGTech Studios']",1217,270,81,1343,Temtem,745920,Temtem,2022-09-06,['Crema'],31770,7065,82,30954,2
+548,1839950,Terminator: Dark Fate - Defiance,2024-02-21,['Slitherine Ltd.'],2518,529,81,2404,Terminator,954740,Terminator: Resistance,2019-11-14,['Teyon'],14660,1315,91,14084,5
+549,281640,The Banner Saga 2,2016-04-19,['Stoic'],3219,368,90,2998,The Banner Saga,237990,The Banner Saga,2014-01-14,['Stoic'],13749,1700,88,13026,2
+550,485460,The Banner Saga 3,2018-07-26,['Stoic'],2259,538,80,2372,The Banner Saga,237990,The Banner Saga,2014-01-14,['Stoic'],13749,1700,88,13026,4
+551,250900,The Binding of Isaac: Rebirth,2014-11-04,"['Nicalis, Inc.', 'Edmund McMillen']",324110,8751,97,301745,The Binding of Isaac,113200,The Binding of Isaac,2011-09-28,"['Edmund McMillen', 'Florian Himsl']",56829,3013,94,46481,3
+552,1045720,The Coma 2: Vicious Sisters,2020-01-28,"['Dvora Studio Co., Ltd.']",2990,132,95,2512,The Coma,600090,The Coma: Recut,2017-09-22,"['Dvora Studio Co., Ltd.']",2211,408,85,2291,3
+553,2172260,The Complex: Expedition,2023-07-17,['pgWave'],1322,119,91,1364,The Complex,1942120,The Complex: Found Footage,2022-08-18,['pgWave'],0,0,93,8815,1
+554,243200,The Dark Eye: Memoria,2013-08-29,['Daedalic Entertainment'],2090,246,89,1936,The Dark Eye,203830,The Dark Eye: Chains of Satinav,2012-06-22,['Daedalic Entertainment'],2022,305,86,1874,1
+555,1194630,The Dark Pictures Anthology: Little Hope,2020-10-29,['Supermassive Games'],6377,2330,73,5791,The Dark Pictures Anthology,939850,The Dark Pictures Anthology: Man of Medan,2019-08-29,['Supermassive Games'],8596,2753,75,7461,1
+556,1281590,The Dark Pictures Anthology: House of Ashes,2021-10-21,['Supermassive Games'],7563,981,88,5696,The Dark Pictures Anthology,939850,The Dark Pictures Anthology: Man of Medan,2019-08-29,['Supermassive Games'],8596,2753,75,7461,2
+557,1567020,The Dark Pictures Anthology: The Devil in Me,2022-11-17,['Supermassive Games'],2455,1933,57,2708,The Dark Pictures Anthology,939850,The Dark Pictures Anthology: Man of Medan,2019-08-29,['Supermassive Games'],8596,2753,75,7461,3
+558,795420,The Darkside Detective: A Fumble in the Dark,2021-04-15,['Spooky Doorway'],1611,59,96,1371,The Darkside Detective,368390,The Darkside Detective,2017-07-27,['Spooky Doorway'],4367,249,94,3353,4
+559,489830,The Elder Scrolls V: Skyrim Special Edition,2016-10-27,['Bethesda Game Studios'],300970,26626,94,183415,The Elder Scrolls,72850,The Elder Scrolls V: Skyrim,2011-11-10,['Bethesda Game Studios'],300564,16306,94,181095,5
+560,611670,The Elder Scrolls V: Skyrim VR,2018-04-02,['Bethesda Game Studios'],8467,2785,74,8341,The Elder Scrolls,72850,The Elder Scrolls V: Skyrim,2011-11-10,['Bethesda Game Studios'],300564,16306,94,181095,7
+561,641990,The Escapists 2,2017-08-21,"['Team17', 'Mouldy Toof Studios']",28515,2943,90,24771,The Escapists,298630,The Escapists,2015-02-13,['Mouldy Toof Studios'],14449,1557,90,14125,2
+562,601430,The Evil Within 2,2017-10-12,['Tango Gameworks'],26329,2217,91,17982,The Evil Within,268050,The Evil Within,2014-10-13,['Tango Gameworks'],25429,4423,84,18787,3
+563,804700,The House in Fata Morgana: A Requiem for Innocence,2018-05-17,['NOVECT'],1275,33,97,1247,The House in Fata Morgana,303310,The House in Fata Morgana,2016-05-13,['NOVECT'],4559,245,94,4425,2
+564,1259840,The House of Da Vinci 2,2020-05-28,['Blue Brain Games'],1749,153,92,1726,The House of Da Vinci,522470,The House of Da Vinci,2017-11-24,['Blue Brain Games'],5369,756,87,5607,3
+565,1603640,The House of Da Vinci 3,2022-12-22,['Blue Brain Games'],1000,112,89,1059,The House of Da Vinci,522470,The House of Da Vinci,2017-11-24,['Blue Brain Games'],5369,756,87,5607,5
+566,272470,The Incredible Adventures of Van Helsing II,2014-06-13,['NeocoreGames'],1754,786,70,1879,The Incredible Adventures of Van Helsing,215530,The Incredible Adventures of Van Helsing,2013-05-22,['NeocoreGames'],8237,1696,83,7478,1
+567,359900,The Incredible Adventures of Van Helsing III,2015-05-22,['NeocoreGames'],842,461,64,1144,The Incredible Adventures of Van Helsing,215530,The Incredible Adventures of Van Helsing,2013-05-22,['NeocoreGames'],8237,1696,83,7478,2
+568,400170,The Incredible Adventures of Van Helsing: Final Cut,2015-11-06,['NeocoreGames'],2799,857,76,1816,The Incredible Adventures of Van Helsing,215530,The Incredible Adventures of Van Helsing,2013-05-22,['NeocoreGames'],8237,1696,83,7478,2
+569,397460,The Jackbox Party Pack 2,2015-10-13,"['Jackbox Games, Inc.']",1973,90,95,1369,The Jackbox Party Pack,331670,The Jackbox Party Pack,2014-11-26,"['Jackbox Games, Inc.']",1657,155,91,1392,1
+570,434170,The Jackbox Party Pack 3,2016-10-17,"['Jackbox Games, Inc.']",6001,196,96,4800,The Jackbox Party Pack,331670,The Jackbox Party Pack,2014-11-26,"['Jackbox Games, Inc.']",1657,155,91,1392,2
+571,610180,The Jackbox Party Pack 4,2017-10-18,"['Jackbox Games, Inc.']",3041,163,94,2340,The Jackbox Party Pack,331670,The Jackbox Party Pack,2014-11-26,"['Jackbox Games, Inc.']",1657,155,91,1392,3
+572,1005300,The Jackbox Party Pack 6,2019-10-16,"['Jackbox Games, Inc.']",2777,143,95,2219,The Jackbox Party Pack,331670,The Jackbox Party Pack,2014-11-26,"['Jackbox Games, Inc.']",1657,155,91,1392,5
+573,1211630,The Jackbox Party Pack 7,2020-10-14,"['Jackbox Games, Inc.']",4443,156,96,3729,The Jackbox Party Pack,331670,The Jackbox Party Pack,2014-11-26,"['Jackbox Games, Inc.']",1657,155,91,1392,6
+574,1552350,The Jackbox Party Pack 8,2021-10-13,"['Jackbox Games, Inc.']",1192,130,90,1061,The Jackbox Party Pack,331670,The Jackbox Party Pack,2014-11-26,"['Jackbox Games, Inc.']",1657,155,91,1392,7
+575,251290,The Legend of Heroes: Trails in the Sky SC,2015-10-29,['Nihon Falcom'],3504,83,97,3086,The Legend of Heroes,251150,The Legend of Heroes: Trails in the Sky,2014-07-29,['Nihon Falcom'],8712,582,93,7938,1
+576,436670,The Legend of Heroes: Trails in the Sky the 3rd,2017-05-03,['Nihon Falcom'],1896,116,94,1718,The Legend of Heroes,251150,The Legend of Heroes: Trails in the Sky,2014-07-29,['Nihon Falcom'],8712,582,93,7938,3
+577,538680,The Legend of Heroes: Trails of Cold Steel,2017-08-02,['Nihon Falcom'],5087,277,94,4712,The Legend of Heroes,251150,The Legend of Heroes: Trails in the Sky,2014-07-29,['Nihon Falcom'],8712,582,93,7938,3
+578,748490,The Legend of Heroes: Trails of Cold Steel II,2018-02-14,['Nihon Falcom'],2606,176,93,2431,The Legend of Heroes,251150,The Legend of Heroes: Trails in the Sky,2014-07-29,['Nihon Falcom'],8712,582,93,7938,4
+579,991270,The Legend of Heroes: Trails of Cold Steel III,2020-03-23,"['Nihon Falcom', 'Engine Software BV', 'PH3 GmbH']",2637,243,92,2449,The Legend of Heroes,251150,The Legend of Heroes: Trails in the Sky,2014-07-29,['Nihon Falcom'],8712,582,93,7938,6
+580,1198090,The Legend of Heroes: Trails of Cold Steel IV,2021-04-09,"['Nihon Falcom', 'Engine Software BV', 'PH3 GmbH']",2004,168,92,1972,The Legend of Heroes,251150,The Legend of Heroes: Trails in the Sky,2014-07-29,['Nihon Falcom'],8712,582,93,7938,7
+581,2933130,The Lord of the Rings: Return to Moria™,2024-08-27,['Free Range Games'],6050,1193,82,6183,The Lord of the Rings,509580,The Lord of the Rings: Adventure Card Game - Definitive Edition,2019-08-29,[],0,0,76,1145,5
+582,1920490,The Outer Worlds: Spacer's Choice Edition,2023-03-07,"['Obsidian Entertainment', 'Virtuos Games']",2572,888,69,1418,The Outer Worlds,578650,The Outer Worlds,2020-10-23,['Obsidian Entertainment'],21556,4255,83,22125,3
+583,780310,The Riftbreaker,2021-10-14,['EXOR Studios'],15938,1721,90,16256,The Riftbreaker,1293860,The Riftbreaker: Prologue,2020-08-05,['EXOR Studios'],3915,183,95,4099,1
+584,1361320,The Room 4: Old Sins,2021-02-11,['Fireproof Games'],15652,229,98,15427,The Room,288160,The Room,2014-07-28,['Fireproof Games'],27873,627,97,27230,7
+585,1222670,The Sims™ 4,2020-06-18,['Maxis'],143291,20763,87,164317,The Sims™,47890,The Sims™ 3,2011-01-27,"['The Sims Studio', 'Maxis']",28222,4297,86,29393,9
+586,644830,The Surge 2,2019-09-23,['Deck13'],6324,1929,77,6344,The Surge,378540,The Surge,2017-05-15,['Deck13'],8033,2635,76,7756,2
+587,835960,The Talos Principle 2,2023-11-02,['Croteam'],10990,497,95,10771,The Talos Principle,257510,The Talos Principle,2014-12-11,['Croteam'],30079,1443,95,27920,9
+588,1282200,The Test: Hypothesis Rising,2020-04-27,['Randumb Studios'],5720,130,97,5766,The Test,1241510,The Test,2020-02-24,['Randumb Studios'],19221,607,96,19287,0
+589,1428310,The Test: Final Revelation,2020-10-12,['Randumb Studios'],5225,107,97,5257,The Test,1241510,The Test,2020-02-24,['Randumb Studios'],19221,607,96,19287,0
+590,2231890,The Test: Secrets of the Soul,2023-02-20,['Randumb Studios'],0,0,97,1428,The Test,1241510,The Test,2020-02-24,['Randumb Studios'],19221,607,96,19287,3
+591,261030,The Walking Dead: Season Two,2013-12-17,['Telltale Games'],30182,1105,96,24384,The Walking Dead,207610,The Walking Dead,2012-04-24,['Telltale Games'],70326,1972,97,46357,1
+592,429570,The Walking Dead: Michonne - A Telltale Miniseries,2016-02-23,['Telltale Games'],5951,1501,79,5391,The Walking Dead,207610,The Walking Dead,2012-04-24,['Telltale Games'],70326,1972,97,46357,4
+593,536220,The Walking Dead: A New Frontier,2016-12-20,['Telltale Games'],13700,2877,82,13629,The Walking Dead,207610,The Walking Dead,2012-04-24,['Telltale Games'],70326,1972,97,46357,4
+594,866800,The Walking Dead: The Final Season,2018-08-13,['Telltale Games'],18001,970,94,15090,The Walking Dead,207610,The Walking Dead,2012-04-24,['Telltale Games'],70326,1972,97,46357,6
+595,916840,The Walking Dead: Saints & Sinners,2020-01-23,['Skydance Interactive'],8263,1229,87,7133,The Walking Dead,207610,The Walking Dead,2012-04-24,['Telltale Games'],70326,1972,97,46357,8
+596,1449690,The Walking Dead: The Telltale Definitive Series,2020-10-29,['Skybound Games'],25332,910,96,18394,The Walking Dead,207610,The Walking Dead,2012-04-24,['Telltale Games'],70326,1972,97,46357,8
+597,1947500,The Walking Dead: Saints & Sinners - Chapter 2: Retribution,2023-03-21,['Skydance Interactive'],996,549,65,1286,The Walking Dead,207610,The Walking Dead,2012-04-24,['Telltale Games'],70326,1972,97,46357,11
+598,606230,Thea 2: The Shattering,2019-05-13,"['MuHa Games', 'Eerie Forest Studio']",1695,482,79,1824,Thea,378720,Thea: The Awakening,2015-11-20,['MuHa Games'],3284,522,88,3228,4
+599,1240210,There Is No Game: Wrong Dimension,2020-08-06,['Draw Me A Pixel'],22500,511,97,21321,There Is No Game,1241700,There Is No Game: Jam Edition 2015,2020-03-18,['Draw Me A Pixel'],6704,214,96,6929,0
+600,2272420,Thief Simulator 2: Prologue,2023-05-03,"['CookieDev', 'Ultimate Games S.A.']",0,0,84,1624,Thief Simulator,704850,Thief Simulator,2018-11-09,['Noble Muffins'],30552,4067,88,32481,5
+601,1332720,Thief Simulator 2,2023-10-04,"['CookieDev', 'Ultimate Games S.A.']",4327,457,90,4598,Thief Simulator,704850,Thief Simulator,2018-11-09,['Noble Muffins'],30552,4067,88,32481,5
+602,785740,This Is the Police 2,2018-07-31,['Weappy Studio'],4565,1479,77,4894,This Is the Police,443810,This Is the Police,2016-08-02,['Weappy Studio'],8715,1807,83,8573,2
+603,1421250,Tiny Bunny,2021-04-16,['Saikono'],18555,666,96,17257,Tiny Bunny,1249880,Tiny Bunny: Prologue,2020-03-19,['Saikono'],2057,97,95,2154,1
+604,224980,Tomb Raider IV: The Last Revelation (1999),2012-11-28,['Core Design'],1174,199,85,1225,Tomb Raider,225020,Tomb Raider VI: The Angel of Darkness (2003),2012-11-28,['Core Design'],972,612,60,1402,0
+605,225320,Tomb Raider III (1998),2012-11-28,['Core Design'],1248,238,84,1275,Tomb Raider,225020,Tomb Raider VI: The Angel of Darkness (2003),2012-11-28,['Core Design'],972,612,60,1402,0
+606,225300,Tomb Raider II (1997),2012-11-28,['Core Design'],1998,298,87,1979,Tomb Raider,225020,Tomb Raider VI: The Angel of Darkness (2003),2012-11-28,['Core Design'],972,612,60,1402,0
+607,224960,Tomb Raider I (1996),2012-11-28,['Core Design'],3862,659,85,3934,Tomb Raider,225020,Tomb Raider VI: The Angel of Darkness (2003),2012-11-28,['Core Design'],972,612,60,1402,0
+608,203160,Tomb Raider,2013-03-04,"['Crystal Dynamics', 'Eidos-Montréal', 'Feral Interactive (Mac)', 'Nixxes']",235170,9547,96,153257,Tomb Raider,225020,Tomb Raider VI: The Angel of Darkness (2003),2012-11-28,['Core Design'],972,612,60,1402,1
+609,200710,Torchlight II,2012-09-20,['Runic Games'],40932,3186,92,31968,Torchlight,41500,Torchlight,2009-10-27,['Runic Games'],6267,622,90,5058,3
+610,1030210,Torchlight III,2020-10-13,['Echtra Inc.'],5202,5985,47,10160,Torchlight,41500,Torchlight,2009-10-27,['Runic Games'],6267,622,90,5058,11
+611,1974050,Torchlight: Infinite,2023-05-09,['XD'],0,0,70,14485,Torchlight,41500,Torchlight,2009-10-27,['Runic Games'],6267,622,90,5058,14
+612,214950,Total War: ROME II - Emperor Edition,2013-09-02,['CREATIVE ASSEMBLY'],72460,14539,86,49580,Total War,201270,Total War: SHOGUN 2,2011-03-15,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",57991,5369,91,34251,2
+613,325610,Total War: ATTILA,2015-02-17,['CREATIVE ASSEMBLY'],28403,6219,82,24567,Total War,201270,Total War: SHOGUN 2,2011-03-15,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",57991,5369,91,34251,4
+614,364360,Total War: WARHAMMER,2016-05-24,"['CREATIVE ASSEMBLY', 'Feral Interactive (Linux)', 'Feral Interactive (Mac)']",40766,11528,78,31535,Total War,201270,Total War: SHOGUN 2,2011-03-15,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",57991,5369,91,34251,5
+615,594570,Total War: WARHAMMER II,2017-09-28,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",114514,9463,93,84030,Total War,201270,Total War: SHOGUN 2,2011-03-15,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",57991,5369,91,34251,6
+616,779340,Total War: THREE KINGDOMS,2019-05-23,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",74197,28656,82,59079,Total War,201270,Total War: SHOGUN 2,2011-03-15,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",57991,5369,91,34251,8
+617,885970,Total War: ROME REMASTERED,2021-04-29,"['Creative Assembly', 'Feral Interactive']",8808,2816,76,10720,Total War,201270,Total War: SHOGUN 2,2011-03-15,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",57991,5369,91,34251,10
+618,1142710,Total War: WARHAMMER III,2022-02-16,"['CREATIVE ASSEMBLY', 'Feral Interactive']",83722,32645,71,81630,Total War,201270,Total War: SHOGUN 2,2011-03-15,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",57991,5369,91,34251,11
+619,2254160,Total War: PHARAOH - Early Access Weekend,2023-09-29,[],0,0,64,3319,Total War,201270,Total War: SHOGUN 2,2011-03-15,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",57991,5369,91,34251,12
+620,1937780,Total War: PHARAOH,2023-10-11,['CREATIVE ASSEMBLY'],3194,1801,64,3319,Total War,201270,Total War: SHOGUN 2,2011-03-15,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",57991,5369,91,34251,12
+621,2951630,Total War: PHARAOH DYNASTIES,2024-07-25,['CREATIVE ASSEMBLY'],0,0,83,3051,Total War,201270,Total War: SHOGUN 2,2011-03-15,"['CREATIVE ASSEMBLY', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",57991,5369,91,34251,13
+622,1140150,Touhou: Lost Branch of Legend,2022-08-17,['Alioth Studio'],1386,113,92,1429,Touhou,845880,Touhou: Scarlet Curiosity,2018-07-11,['Ankake Spa'],1125,83,92,1107,4
+623,551730,Toukiden 2,2017-03-21,"['KOEI TECMO GAMES CO., LTD.']",1124,279,79,1115,Toukiden,363130,Toukiden: Kiwami,2015-06-25,"['KOEI TECMO GAMES CO., LTD.']",883,408,68,1090,2
+624,2140510,Town of Salem 2,2023-08-25,['BlankMediaGames LLC'],5530,2000,73,7548,Town of Salem,334230,Town of Salem,2014-12-15,['BlankMediaGames'],32121,4279,88,30993,9
+625,1282590,Train Sim World® 2,2020-08-20,['Dovetail Games'],6630,1507,82,6944,Train Sim World®,530070,Train Sim World® 2020,2017-03-16,['Dovetail Games'],5419,1578,77,5905,3
+626,1944790,Train Sim World® 3,2022-09-06,['Dovetail Games'],3506,985,79,3814,Train Sim World®,530070,Train Sim World® 2020,2017-03-16,['Dovetail Games'],5419,1578,77,5905,5
+627,2362300,Train Sim World® 4,2023-09-26,['Dovetail Games'],2975,791,79,3123,Train Sim World®,530070,Train Sim World® 2020,2017-03-16,['Dovetail Games'],5419,1578,77,5905,6
+628,2967990,Train Sim World® 5,2024-09-17,['Dovetail Games'],2299,583,81,1294,Train Sim World®,530070,Train Sim World® 2020,2017-03-16,['Dovetail Games'],5419,1578,77,5905,7
+629,602320,Train Valley 2,2019-04-15,"['Alexey Davydov', 'Sergey Dvoynikov', 'Timofey Shargorodskiy', 'Flazm']",2554,277,91,2071,Train Valley,353640,Train Valley,2015-09-16,"['Alexey Davydov', 'Sergey Dvoynikov', 'Timofey Shargorodskiy', 'Flazm']",2945,336,89,2500,4
+630,690640,Trine 4: The Nightmare Prince,2019-10-08,['Frozenbyte'],11667,1399,89,10785,Trine,319910,Trine 3: The Artifacts of Power,2015-08-20,['Frozenbyte'],5552,3215,63,6958,4
+631,1436700,Trine 5: A Clockwork Conspiracy,2023-08-31,['Frozenbyte'],2345,198,92,1869,Trine,319910,Trine 3: The Artifacts of Power,2015-08-20,['Frozenbyte'],5552,3215,63,6958,8
+632,245620,Tropico 5,2014-05-23,['Haemimont Games'],11052,3022,78,9598,Tropico,57690,Tropico 4,2011-09-01,['Haemimont Games'],11313,1026,91,7957,3
+633,492720,Tropico 6,2019-03-29,"['Limbic Entertainment', 'Realmforge Studios']",23408,3375,87,17958,Tropico,57690,Tropico 4,2011-09-01,['Haemimont Games'],11313,1026,91,7957,8
+634,405830,Turok 2: Seeds of Evil,2017-03-16,"['Iguana Entertainment', 'Nightdive Studios']",2256,232,92,2093,Turok,405820,Turok,2015-12-17,"['Iguana Entertainment', 'Nightdive Studios']",3413,246,94,2937,2
+635,1468720,Ultimate Epic Battle Simulator 2,2023-07-21,['Brilliant Game Studios'],5164,978,84,5906,Ultimate Epic Battle Simulator,616560,Ultimate Epic Battle Simulator,2017-06-01,['Brilliant Game Studios'],9270,2842,77,8478,6
+636,502520,Ultimate General: Civil War,2017-07-14,['Game-Labs'],6998,835,89,7596,Ultimate General,306660,Ultimate General: Gettysburg,2014-10-16,['Game-Labs'],2161,523,82,2350,3
+637,1411740,Urbek City Builder,2022-07-13,['Fridus'],1349,134,91,1377,Urbek City Builder,1785820,Urbek City Builder: Prologue,2022-03-10,['Estudios Kremlinois'],0,0,94,1688,0
+638,1151440,Utawarerumono: Mask of Truth,2020-01-23,['AQUAPLUS'],1320,48,96,1314,Utawarerumono,1149550,Utawarerumono: Mask of Deception,2020-01-23,['AQUAPLUS'],1176,92,92,1214,0
+639,1151450,Utawarerumono: Prelude to the Fallen,2021-01-22,['AQUAPLUS'],1144,75,94,1174,Utawarerumono,1149550,Utawarerumono: Mask of Deception,2020-01-23,['AQUAPLUS'],1176,92,92,1214,1
+640,1279630,Vampire: The Masquerade - Shadows of New York,2020-09-10,['Draw Distance'],1117,351,78,1020,Vampire,2600,Vampire: The Masquerade - Bloodlines,2007-03-22,['Troika Games'],12943,710,94,12275,13
+641,760160,Vampire: The Masquerade - Bloodhunt,2022-04-27,['Sharkmob AB'],0,0,75,56680,Vampire,2600,Vampire: The Masquerade - Bloodlines,2007-03-22,['Troika Games'],12943,710,94,12275,15
+642,843390,Vertigo 2,2023-03-30,['Zach Tsiakalis-Brown'],2226,94,95,2238,Vertigo,1318090,Vertigo Remastered,2020-07-21,"['Zach Tsiakalis-Brown', 'George Eracleous', 'Errol Bucy']",1330,108,93,1191,3
+643,529340,Victoria 3,2022-10-25,['Paradox Development Studio'],33850,17093,69,32967,Victoria,42960,Victoria II,2010-08-30,['Paradox Development Studio'],17798,1487,92,15906,12
+644,265210,Viscera Cleanup Detail: Santa's Rampage,2013-12-13,['RuneStorm'],5257,502,91,4386,Viscera Cleanup Detail,255520,Viscera Cleanup Detail: Shadow Warrior,2013-10-11,['RuneStorm'],3531,854,80,2246,0
+645,246900,Viscera Cleanup Detail,2015-10-23,['RuneStorm'],20419,1599,93,16711,Viscera Cleanup Detail,255520,Viscera Cleanup Detail: Shadow Warrior,2013-10-11,['RuneStorm'],3531,854,80,2246,2
+646,1491000,War Robots: Frontiers,2025-03-04,['MY.GAMES'],688,368,63,1184,War Robots,767560,War Robots,2018-04-04,['MY.GAMES HOLDINGS LTD'],15433,10120,60,25630,7
+647,222750,Wargame: Airland Battle,2013-05-29,['Eugen Systems'],3832,553,86,3531,Wargame,58610,Wargame: European Escalation,2012-02-22,['Eugen Systems'],2570,721,76,2531,1
+648,251060,Wargame: Red Dragon,2014-04-17,['Eugen Systems'],16903,2109,88,15151,Wargame,58610,Wargame: European Escalation,2012-02-22,['Eugen Systems'],2570,721,76,2531,2
+649,552500,Warhammer: Vermintide 2,2018-03-08,['Fatshark'],112280,19954,84,84596,Warhammer,235540,Warhammer: End Times - Vermintide,2015-10-23,['Fatshark'],16814,4197,82,13316,3
+650,1144170,Warhammer: Chaos And Conquest,2019-11-18,['Hunted Cow Games'],608,513,54,1120,Warhammer,235540,Warhammer: End Times - Vermintide,2015-10-23,['Fatshark'],16814,4197,82,13316,4
+651,2792380,Warhammer: Vermintide Versus - Open Beta,2024-08-16,[],0,0,84,84602,Warhammer,235540,Warhammer: End Times - Vermintide,2015-10-23,['Fatshark'],16814,4197,82,13316,9
+652,55150,"Warhammer 40,000: Space Marine - Anniversary Edition",2011-09-05,['Relic Entertainment'],27153,2424,92,15614,"Warhammer 40,000",15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition",2009-02-18,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']",11086,1451,86,7051,2
+653,502370,"Warhammer 40,000: Sanctus Reach",2017-01-19,['Straylight Entertainment'],1206,224,86,1119,"Warhammer 40,000",15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition",2009-02-18,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']",11086,1451,86,7051,8
+654,285190,"Warhammer 40,000: Dawn of War III",2017-04-27,"['Relic Entertainment', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",10704,11541,50,13133,"Warhammer 40,000",15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition",2009-02-18,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']",11086,1451,86,7051,8
+655,527430,"Warhammer 40,000: Inquisitor - Martyr",2018-06-05,['NeocoreGames'],15795,5030,75,18314,"Warhammer 40,000",15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition",2009-02-18,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']",11086,1451,86,7051,9
+656,489630,"Warhammer 40,000: Gladius - Relics of War",2018-07-12,['Proxy Studios'],11336,2619,82,7211,"Warhammer 40,000",15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition",2009-02-18,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']",11086,1451,86,7051,9
+657,673880,"Warhammer 40,000: Mechanicus",2018-11-15,['Bulwark Studios'],12106,1101,92,10163,"Warhammer 40,000",15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition",2009-02-18,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']",11086,1451,86,7051,9
+658,1042800,"Warhammer 40,000: Inquisitor - Prophecy",2019-07-30,['NeocoreGames'],2272,577,79,2665,"Warhammer 40,000",15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition",2009-02-18,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']",11086,1451,86,7051,10
+659,1295500,"Warhammer 40,000: Battlesector",2021-07-22,['Slitherine Ltd.'],4736,623,89,4080,"Warhammer 40,000",15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition",2009-02-18,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']",11086,1451,86,7051,12
+660,1611910,"Warhammer 40,000: Chaos Gate - Daemonhunters",2022-05-05,['Complex Games'],9873,2843,77,9823,"Warhammer 40,000",15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition",2009-02-18,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']",11086,1451,86,7051,13
+661,1324530,"Warhammer 40,000: Shootas, Blood & Teef",2022-10-20,['Rogueside'],2242,313,87,2133,"Warhammer 40,000",15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition",2009-02-18,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']",11086,1451,86,7051,13
+662,1361210,"Warhammer 40,000: Darktide",2022-11-30,['Fatshark'],77348,32390,70,88321,"Warhammer 40,000",15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition",2009-02-18,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']",11086,1451,86,7051,13
+663,2005010,"Warhammer 40,000: Boltgun",2023-05-23,['Auroch Digital'],13138,1296,91,12844,"Warhammer 40,000",15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition",2009-02-18,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']",11086,1451,86,7051,14
+664,2186680,"Warhammer 40,000: Rogue Trader",2023-12-07,['Owlcat Games'],24177,4269,84,20103,"Warhammer 40,000",15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition",2009-02-18,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']",11086,1451,86,7051,14
+665,2419650,"Warhammer 40,000: Speed Freeks Open Beta",2024-05-23,[],0,0,78,3260,"Warhammer 40,000",15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition",2009-02-18,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']",11086,1451,86,7051,15
+666,2078450,"Warhammer 40,000: Speed Freeks",2024-08-06,['Caged Element Inc.'],0,0,78,3261,"Warhammer 40,000",15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition",2009-02-18,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']",11086,1451,86,7051,15
+667,2183900,"Warhammer 40,000: Space Marine 2",2024-09-09,['Saber Interactive'],127245,26436,83,112230,"Warhammer 40,000",15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition",2009-02-18,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']",11086,1451,86,7051,15
+668,1985170,"Warhammer 40,000: Warpforge",2024-10-03,['Everguild Ltd.'],0,0,53,2614,"Warhammer 40,000",15620,"Warhammer 40,000: Dawn of War II - Anniversary Edition",2009-02-18,"['Relic Entertainment', 'Feral Interactive (Mac/Linux)']",11086,1451,86,7051,15
+669,404730,Wasteland 2: Director's Cut,2014-09-18,['inXile Entertainment'],0,0,82,4621,Wasteland,240760,Wasteland 2: Director's Cut,2014-09-18,['inXile Entertainment'],6632,1410,82,4622,0
+670,719040,Wasteland 3,2020-08-27,['inXile Entertainment'],17455,3179,84,16041,Wasteland,240760,Wasteland 2: Director's Cut,2014-09-18,['inXile Entertainment'],6632,1410,82,4622,6
+671,720250,Welcome to the Game II,2018-04-03,['Reflect Studios'],2651,465,85,2799,Welcome to the Game,485380,Welcome to the Game,2016-06-15,['Reflect Studios'],2062,369,84,2197,2
+672,2193540,Wizard of Legend 2,2024-10-03,['Dead Mage'],788,401,65,1096,Wizard of Legend,445980,Wizard of Legend,2018-05-15,['Contingent99'],18486,1855,91,16750,6
+673,926990,WolfQuest: Anniversary Edition,2019-07-25,['eduweb'],9540,212,97,8392,WolfQuest,431180,WolfQuest: Classic,2016-03-25,['eduweb'],1506,141,91,1382,3
+674,350080,Wolfenstein: The Old Blood,2015-05-04,['MachineGames'],18309,2030,89,15317,Wolfenstein,201810,Wolfenstein: The New Order,2014-05-19,['MachineGames'],50802,4743,91,40926,1
+675,612880,Wolfenstein II: The New Colossus,2017-10-26,['Machine Games'],35331,8330,80,30334,Wolfenstein,201810,Wolfenstein: The New Order,2014-05-19,['MachineGames'],50802,4743,91,40926,3
+676,1056960,Wolfenstein: Youngblood,2019-07-25,"['Machine Games', 'Arkane Studios']",6271,7921,45,11304,Wolfenstein,201810,Wolfenstein: The New Order,2014-05-19,['MachineGames'],50802,4743,91,40926,5
+677,1873030,Wolfenstein: Enemy Territory,2022-04-26,['Splash Damage'],0,0,84,1978,Wolfenstein,201810,Wolfenstein: The New Order,2014-05-19,['MachineGames'],50802,4743,91,40926,8
+678,2014780,X-Plane 12,2022-12-17,['Laminar Research'],3293,652,83,3803,X-Plane,269950,X-Plane 11,2017-03-30,['Laminar Research'],17355,1346,92,17647,5
+679,882100,XCOM®: Chimera Squad,2020-04-23,['Firaxis Games'],16203,6345,72,19800,XCOM®,268500,XCOM® 2,2016-02-04,"['Firaxis Games', 'Feral Interactive (Mac)', 'Feral Interactive (Linux)']",84695,15388,84,72626,4
+680,538030,Xenonauts 2,2023-07-18,['Goldhawk Interactive'],2190,537,80,2305,Xenonauts,223830,Xenonauts,2014-06-16,['Goldhawk Interactive'],4240,616,87,3640,9
+681,1249800,Xuan-Yuan Sword VII,2020-10-28,"['SOFTSTAR', 'DOMO Studio']",5934,3524,62,8377,Xuan-Yuan Sword,427030,Xuan-Yuan Sword: The Gate of Firmament,2016-02-25,"['DOMO Studio', 'SOFTSTAR ENTERTAINMENT']",1072,416,72,1238,4
+682,1638220,Xuan-Yuan Sword: The Scar of Sky,2021-08-18,"['DOMO Studio', 'SOFTSTAR ENTERTAINMENT']",2053,142,93,2069,Xuan-Yuan Sword,427030,Xuan-Yuan Sword: The Gate of Firmament,2016-02-25,"['DOMO Studio', 'SOFTSTAR ENTERTAINMENT']",1072,416,72,1238,5
+683,1235140,Yakuza: Like a Dragon,2020-11-10,['Ryu Ga Gotoku Studio'],30493,1781,94,24309,Yakuza,638970,Yakuza 0,2018-08-01,['Ryu Ga Gotoku Studio'],68877,3150,95,57517,2
+684,1388590,Yakuza 6: The Song of Life,2021-03-25,['Ryu Ga Gotoku Studio'],6474,474,93,5913,Yakuza,638970,Yakuza 0,2018-08-01,['Ryu Ga Gotoku Studio'],68877,3150,95,57517,3
+685,927380,Yakuza Kiwami 2,2019-05-09,['Ryu Ga Gotoku Studio'],15418,767,95,12537,Yakuza Kiwami,834530,Yakuza Kiwami,2019-02-19,['Ryu Ga Gotoku Studio'],19865,1403,93,15718,0
+686,1493760,Youtubers Life 2,2021-10-19,['UPLAY Online'],1548,560,73,1781,Youtubers Life,428690,Youtubers Life,2017-02-02,['UPLAY Online'],11898,3477,77,13756,4
+687,312540,Ys VI: The Ark of Napishtim,2015-04-28,['Nihon Falcom'],1160,133,90,1168,Ys,207320,Ys: The Oath in Felghana,2012-03-19,['Nihon Falcom'],1791,110,94,1714,3
+688,579180,Ys VIII: Lacrimosa of DANA,2018-04-16,['Nihon Falcom'],5511,635,90,5366,Ys,207320,Ys: The Oath in Felghana,2012-03-19,['Nihon Falcom'],1791,110,94,1714,6
+689,1351630,Ys IX: Monstrum Nox,2021-07-06,"['Nihon Falcom', 'PH3 GmbH', 'Engine Software BV']",1587,92,94,1539,Ys,207320,Ys: The Oath in Felghana,2012-03-19,['Nihon Falcom'],1791,110,94,1714,9
+690,223870,Ys I & II Chronicles+,2013-02-14,['Nihon Falcom'],1167,144,88,2388,Ys I & II Chronicles+,223810,Ys I & II Chronicles+,2013-02-14,['Nihon Falcom'],2375,297,88,2388,0
+691,1150640,Yu-Gi-Oh! Legacy of the Duelist : Link Evolution,2020-03-24,['Other Ocean Emeryville'],3507,749,81,3339,Yu-Gi-Oh! Legacy of the Duelist,480650,Yu-Gi-Oh! Legacy of the Duelist,2016-12-07,['Other Ocean Interactive'],4020,740,84,4206,4
+692,477740,Zero Escape: The Nonary Games,2017-03-24,"['Spike Chunsoft Co., Ltd.']",5525,382,93,5660,Zero Escape,311240,Zero Escape: Zero Time Dilemma,2016-06-29,"['Spike Chunsoft Co., Ltd.']",3507,698,83,3982,1
+693,1159560,Ziggurat 2,2021-10-28,['Milkstone Studios'],1212,120,91,1165,Ziggurat,308420,Ziggurat,2014-10-23,['Milkstone Studios'],3299,548,87,2767,7
+694,562220,Zup! 2,2016-12-05,['Quiet River'],5994,278,95,6337,Zup!,533300,Zup!,2016-10-04,['Quiet River'],7755,464,94,8112,0
+695,575640,Zup! 3,2017-01-12,['Quiet River'],4678,517,90,5212,Zup!,533300,Zup!,2016-10-04,['Quiet River'],7755,464,94,8112,1
+696,591420,Zup! 4,2017-02-20,['Quiet River'],2470,264,90,2817,Zup!,533300,Zup!,2016-10-04,['Quiet River'],7755,464,94,8112,1
+697,645090,Zup! 5,2017-06-13,['Quiet River'],2400,158,93,2700,Zup!,533300,Zup!,2016-10-04,['Quiet River'],7755,464,94,8112,1
+698,566160,Zup! 6,2017-09-19,['Quiet River'],2024,117,94,2315,Zup!,533300,Zup!,2016-10-04,['Quiet River'],7755,464,94,8112,1
+699,658560,Zup! 7,2017-12-12,['Quiet River'],1860,86,95,2091,Zup!,533300,Zup!,2016-10-04,['Quiet River'],7755,464,94,8112,1
+700,799070,Zup! 8,2018-02-22,['Quiet River'],3605,138,95,3980,Zup!,533300,Zup!,2016-10-04,['Quiet River'],7755,464,94,8112,2
+701,508900,Zup! X,2018-05-17,['Quiet River'],5809,182,96,6222,Zup!,533300,Zup!,2016-10-04,['Quiet River'],7755,464,94,8112,2
+702,658550,Zup! Zero 2,2018-09-11,['Quiet River'],917,50,94,1124,Zup! Zero,610360,Zup! Zero,2017-04-06,['Quiet River'],2309,158,93,2486,1
+703,1580790,[NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2,2021-06-09,"['KOEI TECMO GAMES CO., LTD.']",1147,339,77,1288,[NINJA GAIDEN,1369760,[NINJA GAIDEN: Master Collection] NINJA GAIDEN 3: Razor's Edge,2021-06-09,"['KOEI TECMO GAMES CO., LTD.']",911,416,70,1153,0
+704,1580780,[NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ,2021-06-09,"['KOEI TECMO GAMES CO., LTD.']",1751,382,82,1862,[NINJA GAIDEN,1369760,[NINJA GAIDEN: Master Collection] NINJA GAIDEN 3: Razor's Edge,2021-06-09,"['KOEI TECMO GAMES CO., LTD.']",911,416,70,1153,0
+705,2162800,shapez 2,2024-08-15,['tobspr Games'],10175,191,98,9465,shapez,1318690,shapez,2020-06-07,['Tobias Springer'],12859,495,96,12077,4
+706,518790,theHunter: Call of the Wild™,2017-02-16,['Expansive Worlds'],155023,19759,89,145986,theHunter,322920,theHunter: Primal,2015-03-31,"['Expansive Worlds', 'Avalanche Studios']",2346,1722,58,2963,2
