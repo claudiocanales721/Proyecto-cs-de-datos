@@ -4,8 +4,141 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Proyecto | La Maldición de la Segunda Entrega</title>
-    <link rel="stylesheet" href="styles.css">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        /* Base y Variables */
+        :root {
+            --primary-color: #004b99; /* Azul de la UC */
+            --secondary-color: #f7f7f7; /* Gris claro para fondos */
+            --text-color: #333;
+            --font-heading: 'Poppins', sans-serif;
+            --font-body: 'Roboto', sans-serif;
+        }
+
+        /* Importación de fuentes (necesita Internet) */
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Roboto:wght@400;700&display=swap');
+
+        body {
+            font-family: var(--font-body);
+            color: var(--text-color);
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: white;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 20px 0;
+        }
+
+        /* Tipografía y Encabezados */
+        h1, h2, h3 {
+            font-family: var(--font-heading);
+            color: var(--primary-color);
+            margin-top: 0;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            border-bottom: 3px solid var(--primary-color);
+            display: inline-block;
+            padding-bottom: 10px;
+        }
+
+        h2 {
+            font-size: 2rem;
+            padding-top: 40px;
+            margin-bottom: 20px;
+        }
+
+        /* Cabecera (Hero Section) */
+        .hero {
+            background-color: var(--secondary-color);
+            color: var(--text-color);
+            padding: 60px 0 40px;
+            text-align: center;
+            border-bottom: 5px solid var(--primary-color);
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-top: -10px;
+        }
+
+        .authors {
+            margin-top: 20px;
+            font-style: italic;
+        }
+
+        /* Navegación */
+        nav {
+            background-color: var(--primary-color);
+            padding: 10px 0;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            display: inline-block;
+            font-weight: 600;
+            transition: background-color 0.3s;
+        }
+
+        nav a:hover {
+            background-color: #003366;
+        }
+
+        /* Secciones de Contenido */
+        main section {
+            padding: 30px 0;
+            border-bottom: 1px dashed #ccc;
+        }
+
+        .questions-list {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .questions-list li {
+            background-color: var(--secondary-color);
+            margin-bottom: 10px;
+            padding: 15px;
+            border-left: 5px solid var(--primary-color);
+            font-weight: 600;
+        }
+
+        .code-block {
+            background-color: #2e2e2e;
+            color: white;
+            padding: 20px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+
+        .code-block h3 {
+            color: #4CAF50;
+            margin-bottom: 15px;
+        }
+
+        .code-block ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        /* Pie de Página */
+        footer {
+            background-color: var(--text-color);
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+            margin-top: 40px;
+        }
+    </style>
 </head>
 <body>
 
@@ -32,50 +165,51 @@
         
         <section id="contexto">
             <h2>1. Contexto y Motivación 💡</h2>
-            <p>Es común que las franquicias de entretenimiento (cine y videojuegos) lancen secuelas que, a menudo, fracasan rotúndamente, fenómeno que hemos catalogado como "la maldición de la segunda entrega"[cite: 7, 8, 13].</p>
-            <p>Este fracaso recurrente nos lleva a preguntarnos por qué la mayoría de las secuelas no logran replicar el éxito original. La necesidad de un estudio profundo surge ante la falta de evidencia empírica que confirme la percepción popular de que "las segundas partes nunca son buenas"[cite: 15, 18, 19].</p>
+            <p>Es común que las franquicias de entretenimiento (cine y videojuegos) lancen secuelas que, a menudo, fracasan rotúndamente, fenómeno que hemos catalogado como "la maldición de la segunda entrega".</p>
+            <p>Este fracaso recurrente nos lleva a preguntarnos por qué la mayoría de las secuelas no logran replicar el éxito original. La necesidad de un estudio profundo surge ante la falta de evidencia empírica que confirme la percepción popular de que "las segundas partes nunca son buenas".</p>
         </section>
 
         <section id="objetivo">
             <h2>2. Objetivo Principal 🎯</h2>
-            <p>Nuestro principal cometido es adentrarnos en este misterio y **determinar por qué tantas segundas temporadas o secuelas parecen tropezar** donde sus predecesoras triunfaron[cite: 25].</p>
-            <p>Buscamos evidenciar, con respaldo estadístico y cualitativo, a qué se debe la recurrencia de estos fracasos, transformando una percepción común en una **conclusión investigativa sólida** que aporte claridad a las empresas que piensen en expandir sus franquicias[cite: 30].</p>
+            <p>Nuestro principal cometido es adentrarnos en este misterio y **determinar por qué tantas segundas temporadas o secuelas parecen tropezar** donde sus predecesoras triunfaron.</p>
+            <p>Buscamos evidenciar, con respaldo estadístico y cualitativo, a qué se debe la recurrencia de estos fracasos, transformando una percepción común en una **conclusión investigativa sólida** que aporte claridad a las empresas que piensen en expandir sus franquicias.</p>
         </section>
 
         <section id="preguntas">
             <h2>3. Preguntas de Investigación ❓</h2>
             <ul class="questions-list">
-                <li>¿El tiempo transcurrido entre el lanzamiento del juego original y su secuela influye en la diferencia de puntuación? Específicamente, ¿las secuelas lanzadas más rápidamente tienden a tener peores calificaciones? [cite: 34, 35]</li>
-                <li>¿La puntuación de los usuarios de las secuelas es más baja que la de los juegos originales, y es esta caída mayor o menor que la de la crítica profesional? [cite: 36]</li>
-                <li>¿El cambio de desarrollador entre la entrega original y la secuela se correlaciona con una mayor caída en las puntuaciones? [cite: 37]</li>
-                <li>¿Los factores asociados al fracaso son manejables para el desarrollador? [cite: 33]</li>
+                <li>¿El tiempo transcurrido entre el lanzamiento del juego original y su secuela influye en la diferencia de puntuación? Específicamente, ¿las secuelas lanzadas más rápidamente tienden a tener peores calificaciones?</li>
+                <li>¿La puntuación de los usuarios de las secuelas es más baja que la de los juegos originales, y es esta caída mayor o menor que la de la crítica profesional?</li>
+                <li>¿El cambio de desarrollador entre la entrega original y la secuela se correlaciona con una mayor caída en las puntuaciones?</li>
+                <li>¿Los factores asociados al fracaso son manejables para el desarrollador?</li>
             </ul>
         </section>
 
         <section id="diseno">
             <h2>4. Diseño Tentativo y Metodología 🔬</h2>
-            <p>Nuestro objetivo es encontrar una relación cuantificable entre las distintas variables de producción de un videojuego (como el tiempo de desarrollo, el equipo creativo o el género) y su recepción final[cite: 49].</p>
+            <p>Nuestro objetivo es encontrar una relación cuantificable entre las distintas variables de producción de un videojuego (como el tiempo de desarrollo, el equipo creativo o el género) y su recepción final.</p>
             <p>Para esto, usaremos **Python** como herramienta principal, aplicando conceptos de estadística básica y librerías clave:</p>
             
             <div class="code-block">
                 <h3>Herramientas y Librerías</h3>
                 <ul>
-                    <li>**Python**[cite: 43]: Nuestro lenguaje principal.</li>
-                    <li>**Pandas** [cite: 44] y **Numpy**[cite: 45]: Para el manejo y procesamiento de la información.</li>
-                    <li>**Geopandas** [cite: 46] y **Matplot**[cite: 47]: Para la visualización y análisis de datos.</li>
+                    <li>**Python**: Nuestro lenguaje principal.</li>
+                    <li>**Pandas** y **Numpy**: Para el manejo y procesamiento de la información.</li>
+                    <li>**Geopandas** y **Matplot**: Para la visualización y análisis de datos.</li>
                 </ul>
             </div>
             
             <h3>Datos</h3>
-            <p>Exploraremos bases de datos de Kaggle y APIs con columnas como nombre, ID, fecha de estreno, género, rating y valoraciones de usuarios (IMDb, Rotten Tomatoes)[cite: 52, 53, 54]. Aplicaremos técnicas de limpieza como `dropna`, `drop_duplicates` y `fillna`[cite: 57].</p>
-            <p class="data-source-note">Fuentes de datos principales: Kaggle (Movie Dataset, Steam Games Dataset) y GameSpot API[cite: 60, 61, 62].</p>
+            <p>Exploraremos bases de datos de Kaggle y APIs con columnas como nombre, ID, fecha de estreno, género, rating y valoraciones de usuarios (IMDb, Rotten Tomatoes). Aplicaremos técnicas de limpieza como `dropna`, `drop_duplicates` y `fillna`.</p>
+            <p>Fuentes de datos principales: Kaggle (Movie Dataset, Steam Games Dataset) y GameSpot API.</p>
         </section>
         
-        <section id="resultados" class="hidden">
+        <section id="resultados">
             <h2>5. Resultados y Conclusiones (Placeholder)</h2>
             <p><em>Esta sección se completará con gráficos generados por Matplotlib y Geopandas al finalizar el análisis.</em></p>
             <div class="figure-placeholder">
-                                <h3>Gráfico 1: Correlación entre Tiempo de Desarrollo y Caída de Rating</h3>
+                
+                <h3>Gráfico 1: Correlación entre Tiempo de Desarrollo y Caída de Rating</h3>
                 <p>Descripción: Visualización clave para responder la Pregunta 3.</p>
             </div>
         </section>
@@ -87,6 +221,5 @@
         </div>
     </footer>
 
-    <script src="scripts.js"></script>
 </body>
 </html>
